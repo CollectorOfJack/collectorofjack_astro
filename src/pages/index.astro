@@ -1,0 +1,181 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Note from '~/components/widgets/Note.astro';
+import Features from '~/components/widgets/Features.astro';
+import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
+import FAQs from '~/components/widgets/FAQs.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import CallToAction from '~/components/widgets/CallToAction.astro';
+
+import heroImage from '~/assets/images/hero-image.png';
+
+
+const metadata = {
+  title: 'AutocrossBlog, the ultimate site for autox information!',
+  ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Read the latest!',
+        href: '/blog',
+        target: '_self',
+        icon: 'tabler:download',
+      },
+      { text: 'About us', href: '/about' },
+    ]}
+    image={{ src: heroImage, alt: 'AutocrossBlog Hero Image', aspectRatio: '2:1.999' }}
+  >
+    <Fragment slot="title">
+      Looking for the best autocross blog and content on the web? <span class="hidden xl:inline">You've found it!</span>
+      <span class="text-accent dark:text-white highlight">Be sure to check out the blog!</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      <span class="hidden sm:inline">
+        <span class="font-semibold">AutocrossBlog</span> is 24 years of autocross experience, fun, chaos and crashes.</span>
+    </Fragment>
+  </Hero>
+
+  <!-- Note Widget ******************* -->
+
+  <Note />
+
+  <!-- Features Widget *************** -->
+
+  <!-- BlogLatestPost Widget **************** -->
+
+  <BlogLatestPosts
+    id="blog"
+    title="Read our blog posts"
+    information={`Check out our latest event reviews and setup thoughts!`}
+  >
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </BlogLatestPosts>
+
+  <Features
+    id="features"
+    tagline="Information"
+    title="A little about the site"
+    subtitle="AutocrossBlog.com is your go-to hub for everything autocross—whether you're a seasoned driver or just getting started. We're here to bring the autocross community together with resources, tips, and stories from the track."
+    items={[
+      {
+        title: '🏆 Driver Profiles & Car Setups',
+        description: 'Learn from the best! Explore profiles of top drivers, their car setups, and how they tackle courses around the country.',
+        icon: 'tabler:brand-tailwind',
+      },
+      {
+        title: '🛠 Tips & Tricks',
+        description: 'From car prep to conquering tight corners, we share practical advice to help you shave seconds off your time and maximize fun on race day.',
+        icon: 'tabler:components',
+      },
+      {
+        title: '📅 Event Coverage',
+        description: 'Stay in the know with updates on major events, regional meets, and national championships.',
+        icon: 'tabler:list-check',
+      },
+      {
+        title: '📖 Stories from the Grid',
+        description:
+          "Personal anecdotes, deep dives into the culture of autocross, and spotlights on the people who make this sport incredible.",
+        icon: 'tabler:rocket',
+      },
+      {
+        title: '🧰 Tools & Resources',
+        description:
+          "Access guides, calculators, and other tools to help you optimize your performance and navigate the world of autocross.",
+        icon: 'tabler:rocket',
+      },
+    ]}
+  />
+
+  <!-- FAQs Widget ******************* -->
+
+  <FAQs
+    title="Frequently Asked Questions"
+    subtitle="Let's answer some common autocross questions."
+    tagline="FAQs"
+    classes={{ container: 'max-w-6xl' }}
+    items={[
+      {
+        title: 'What is AutocrossBlog.com?',
+        description:
+          'AutocrossBlog.com is a hub for autocross enthusiasts! It provides tips, event coverage, driver profiles, and stories from the grid, helping drivers of all levels improve their performance and enjoy the sport.',
+      },
+      {
+        title: 'What is autocross?',
+        description:
+          'Autocross is a timed motorsport where drivers navigate a cone-marked course as quickly as possible. It emphasizes skill and precision over outright speed, making it accessible and fun for drivers of all experience levels.',
+      },
+      {
+        title: 'How do I get started in autocross?',
+        description:
+          "Getting started is easy! Find a local event through organizations like the SCCA or NASA, and bring your car (no modifications needed). You'll receive guidance and have the opportunity to improve your driving skills in a safe environment.",
+      },
+      {
+        title: 'Does AutocrossBlog.com cover specific events or regions?',
+        description:
+          'Yes! We aim to cover a variety of autocross events from local meets to national championships, with a focus on sharing stories and experiences from across the community.',
+      },
+      {
+        title: 'What kind of content can I find on AutocrossBlog.com?',
+        description:
+          "You'll find driver profiles, car setups, performance tips, event recaps, and resources to enhance your autocross experience. We also dive into the culture and camaraderie of the sport.",
+      },
+      {
+        title: 'Can I contribute to AutocrossBlog.com?',
+        description:
+          "Absolutely! We welcome stories, tips, and photos from the autocross community. If you're interested in contributing, reach out through the contact form on the site.",
+      },
+      {
+        title: 'How can I improve my autocross performance?',
+        description:
+          'Improvement comes with practice and preparation. Check out our tips on car setup, cornering techniques, and mental focus. The site is full of resources to help you shave seconds off your time!',
+      },
+      {
+        title: 'How can I contact AutocrossBlog.com?',
+        description:
+          "You can reach out through the <a href='/contact'>contact form on the website</a>. We'd love to hear from you!",
+      },
+    ]}
+/>
+
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    stats={[
+      { title: 'Vehicle', amount: '1' },
+      { title: 'Years Ago', amount: '23' },
+      { title: 'Leads', amount: '0' },
+      { title: 'Finds', amount: '0' },
+    ]}
+  />
+
+  <!-- CallToAction Widget *********** -->
+
+  <CallToAction
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Read the blog!',
+        href: '/blog',
+        target: '_blank',
+        icon: 'tabler:download',
+      },
+    ]}
+  >
+    <Fragment slot="title"> AutocrossBlog </Fragment>
+
+    <Fragment slot="subtitle"> The ultimate autocross website! </Fragment>
+  </CallToAction>
+</Layout>

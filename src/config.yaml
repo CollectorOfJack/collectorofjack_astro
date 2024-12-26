@@ -1,0 +1,68 @@
+site:
+  name: CollectorOfJack
+  site: 'https://www.collectorofjack.com'
+  base: '/' # '/CollectorOfJack_astro/'
+  trailingSlash: false
+
+  googleSiteVerificationId:
+
+# Default SEO metadata
+metadata:
+  title:
+    default: CollectorOfJack
+    template: '%s — CollectorOfJack'
+  description: Explore autocross insights with Chris Hammond's 24+ years of experience. Get tips, event recaps, and SCCA schedule updates on the ultimate Autocross Blog."
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    site_name: CollectorOfJack.com
+    images:
+      - url: '~/assets/images/default.png'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@CollectorOfJack'
+    site: '@CollectorOfJack'
+    cardType: summary_large_image
+
+i18n:
+  language: en
+  textDirection: ltr
+
+apps:
+  blog:
+    isEnabled: true
+    postsPerPage: 6
+
+    post:
+      isEnabled: true
+      permalink: '/%slug%' # Variables: %slug%, %year%, %month%, %day%, %hour%, %minute%, %second%, %category%
+      robots:
+        index: true
+
+    list:
+      isEnabled: true
+      pathname: 'blog' # Blog main path, you can change this to "articles" (/articles)
+      robots:
+        index: true
+
+    tag:
+      isEnabled: true
+      pathname: 'tag' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)
+      robots:
+        index: true
+
+    isRelatedPostsEnabled: true
+    relatedPostsCount: 4
+
+analytics:
+  vendors:
+    googleAnalytics:
+      id: "G-438M5WVM2K"
+      partytown: false
+    cloudflare: #turnstile
+      id: "0x4AAAAAAA1-cZp-m0OLmLCR"
+ui:
+  theme: 'light' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"

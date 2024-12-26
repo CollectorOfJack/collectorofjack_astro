@@ -1,0 +1,125 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Steps2 from '~/components/widgets/Steps2.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+import aboutImage from '~/assets/images/About-1.jpg';
+
+const metadata = {
+  title: 'About AutocrossBlog',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="About AutocrossBlog.com"
+    image={{
+      src: aboutImage,
+      alt: 'Chris and Bill Hammond in front of a 2004 ZO6, photo from the 2008 Solo National Championships',
+    }}
+  >
+    <Fragment slot="title">
+      About the ultimate 
+      <span class="text-accent dark:text-white highlight">Autocross Blog</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      Do you want to know more about AutocrossBlog.com? Another blog from 
+      <span class="text-accent dark:text-white highlight">Chris Hammond</span>
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    title="Statistics"
+    stats={[
+      { title: 'First Autocross', amount: 'April 2000' },
+      { title: 'Blog posts', amount: '300+' },
+      { title: 'Videos', amount: '100+' },
+      { title: 'National Championships', amount: '0' },
+      
+    ]}
+  />
+
+  
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Our history"
+    subtitle="A little background info"
+    columns={3}
+    isBeforeContent={true}
+    items={[
+      {
+        title: 'College',
+        description:
+          'I started autocross fresh out of college in 2000. I had heard about autox from a fraternity brother as well as from my father who used to do gymkhana events in Missouri in the 60s, but I had never been to or seen an event.',
+        icon: 'tabler:template',
+      },
+      {
+        title: 'Books',
+        description:
+          'I purchased a book about VWs, in it were stories and quotes from the Bob and Patty Tunnel. I joined the Sports Car Club of America (SCCA), got the Solo rule book, read it cover to cover, and started attending membership meetings of the St. Louis region.',
+        icon: 'tabler:template',
+      },
+      {
+        title: 'Novice School',
+        description:
+          "I signed up for the local Novice school, and was hooked. I started autocrossing in a 1994 VW Golf, it wasn't much, but it was what I had. I quickly learned that the all season tires on it weren't going to be much fun and bought a set of Kumho tires and a new set of Kosei K1 wheels.",
+        icon: 'tabler:template',
+      },
+      {
+        title: 'Head first',
+        description:
+          'I was hooked, and have autocrossed pretty heavily (and sometimes lightly) over the past 24 years.',
+        icon: 'tabler:template',
+      },
+      
+      {
+        title: '24 Years',
+        description:
+          "This blog is a culmination of a number of projects including Project240z.com, Project350z.com and SpecFRS.com. Long ago I ran a website that started out as Pylon.cc, and then turned into SOLO2.ORG which for a time was the largest autocross forum on the web. While that site isn't around anymore, it was the start of my blogging in the autocross world.",
+        icon: 'tabler:template',
+      },
+    ]}
+  />
+
+
+  <!-- Steps2 Widget ****************** -->
+
+  <Steps2
+    title="Achievements"
+    subtitle="Highlighting milestones and key accomplishments in the world of Autocross, from individual driver success to nationwide recognition."
+    isReversed={true}
+    callToAction={{
+      text: 'Learn more',
+      href: '/about',
+    }}
+    items={[
+      {
+        title: 'Nationwide Event Coverage',
+        description: 'Documenting autocross events across the country, showcasing regional and national competitions.',
+        icon: 'tabler:map-pin',
+      },
+      {
+        title: 'Community Engagement',
+        description:
+          'Featuring stories and feedback from drivers, enthusiasts, and organizers to foster a thriving autocross community.',
+        icon: 'tabler:users',
+      },
+      {
+        title: 'Top Rankings and Results',
+        description:
+          'Analyzing event results to provide rankings, insights, and performance metrics for drivers and classes.',
+        icon: 'tabler:chart-bar',
+      },
+    ]}
+  />
+
+
+</Layout>
