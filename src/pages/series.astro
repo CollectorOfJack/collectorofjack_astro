@@ -2,7 +2,6 @@
 import Hero from '~/components/widgets/Hero.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import Layout from '~/layouts/PageLayout.astro';
-//import Steps2 from '~/components/widgets/Steps2.astro';
 import Features3 from '~/components/widgets/Features3.astro';
 
 import pageImage from '~/assets/images/About-1.jpg';
@@ -16,76 +15,78 @@ const metadata = {
   <!-- Hero Widget ******************* -->
 
   <Hero
-  tagline="2016 Scion FRS Solo Spec Coupe"
-  image={{
-    src: pageImage,
-    alt: '2016 Scion FRS setup for SSC Autocross',
-  }}
->
-  <Fragment slot="title">
-    Optimized for the thrill of
-    <span class="text-accent dark:text-white highlight">SSC Autocross</span>
-  </Fragment>
+    tagline="Jack Daniel's Releases & Series"
+    image={{
+      src: pageImage,
+      alt: 'Various Jack Daniel’s bottles from different series and releases.',
+    }}
+  >
+    <Fragment slot="title">
+      Explore the world of 
+      <span class="text-accent dark:text-white highlight">Jack Daniel's Series</span>
+    </Fragment>
 
-  <Fragment slot="subtitle">
-    Dive into the details of a perfectly tuned
-    <span class="text-accent dark:text-white highlight">2016 Scion FRS</span>
-    built to dominate Solo Spec Coupe.
-  </Fragment>
-</Hero>
+    <Fragment slot="subtitle">
+      Discover the unique collections and releases that make Jack Daniel’s a legend in whiskey history.
+    </Fragment>
+  </Hero>
 
-<!-- Stats Widget ****************** -->
+  <!-- Stats Widget ****************** -->
 
-<Stats
-  title="Car Setup Details"
-  stats={[
-    { title: 'Car Model', amount: '2016 Scion FRS' },
-    { title: 'Class', amount: 'SSC (Solo Spec Coupe)' },
-    { title: 'Event-ready Weight', amount: '2,800 lbs' },
-    { title: 'Years Racing', amount: '8+' },
-  ]}
-/>
-
+  <Stats
+    title="Quick Facts"
+    stats={[
+      { title: 'First Release', amount: '1866' },
+      { title: 'Number of Series', amount: '10+' },
+      { title: 'Limited Edition Bottles', amount: '100+' },
+      { title: 'Global Reach', amount: '170+ countries' },
+    ]}
+  />
 
   <!-- Features3 Widget ************** -->
 
   <Features3
-    title="2016 FRS SSC Autocross Settings"
-    subtitle="Optimized for Performance"
+    title="Notable Jack Daniel's Series"
+    subtitle="A curated selection of iconic releases"
     columns={2}
     isBeforeContent={true}
     items={[
       {
-        title: 'Front Swaybar',
-        description: 'Soft setting',
-        icon: 'tabler:adjustments-horizontal',
+        title: 'Master Distiller Series',
+        description:
+          'A tribute to the seven master distillers who have crafted Jack Daniel’s over the years. Each bottle highlights a unique era of the brand’s history.',
+        icon: 'tabler:bottle',
       },
       {
-        title: 'Rear Swaybar',
-        description: 'Stiff setting',
-        icon: 'tabler:adjustments-horizontal',
+        title: 'Single Barrel Select',
+        description:
+          'Each barrel is hand-selected for its distinct flavor profile, offering a one-of-a-kind whiskey experience.',
+        icon: 'tabler:barrel',
       },
       {
-        title: 'Front Konis',
-        description: '0.5 turn from soft',
-        icon: 'tabler:settings',
+        title: 'Tennessee Tasters’ Selection',
+        description:
+          'Limited edition experimental whiskeys showcasing innovative finishes and flavor profiles.',
+        icon: 'tabler:flask',
       },
       {
-        title: 'Rear Konis',
-        description: '1.5 turns from soft',
-        icon: 'tabler:settings',
+        title: 'Bonded Series',
+        description:
+          'A nod to the Bottled-in-Bond Act, this series highlights Jack Daniel’s commitment to quality and tradition.',
+        icon: 'tabler:certificate',
       },
       {
-        title: 'Front Tire Pressure',
-        description: '30 psi',
-        icon: 'tabler:gauge',
+        title: 'Holiday Select',
+        description:
+          'Seasonal releases crafted to celebrate the holidays, often featuring collectible packaging.',
+        icon: 'tabler:gift',
       },
       {
-        title: 'Rear Tire Pressure',
-        description: '29 psi',
-        icon: 'tabler:gauge',
+        title: 'Legacy Edition',
+        description:
+          'A series that revisits classic Jack Daniel’s labels, offering a glimpse into the brand’s storied past.',
+        icon: 'tabler:history',
       },
     ]}
   />
-
 </Layout>
