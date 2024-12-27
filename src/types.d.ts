@@ -49,12 +49,23 @@ export interface Post {
   readingTime?: number;
 
   galleryPath?: string;
+  gallery?: {
+    [key: string]: GalleryImage[]; // Allow for different named galleries within a post
+  };
+}
+
+export interface GalleryImage {
+  image_path: string;
+  'image-caption'?: string;
+  'image-copyright'?: string;
 }
 
 export interface Taxonomy {
   slug: string;
   title: string;
 }
+
+
 
 export interface MetaData {
   title?: string;
@@ -69,6 +80,9 @@ export interface MetaData {
   openGraph?: MetaDataOpenGraph;
   twitter?: MetaDataTwitter;
 }
+
+
+
 
 export interface MetaDataRobots {
   index?: boolean;

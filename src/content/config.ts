@@ -54,6 +54,17 @@ const postCollection = defineCollection({
     metadata: metadataDefinition(),
     url: z.string().optional(),
     galleryPath: z.string().optional(),
+    gallery: z
+      .record( // Use z.record to allow dynamic keys
+        z.array(
+          z.object({
+            image_path: z.string(),
+            'image-caption': z.string().optional(),
+            'image-copyright': z.string().optional(),
+          })
+        )
+      )
+      .optional(),
   }),
 });
 

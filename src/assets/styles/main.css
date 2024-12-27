@@ -20,6 +20,29 @@
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
+.gallery-item {
+  display: flex;
+  flex-direction: column; /* Stack title below image */
+  align-items: center;   /* Center items horizontally */
+}
+
+.gallery-item-text {
+  text-align: center;     /* Center the text */
+  font-size: 0.8rem;      /* Slightly smaller font size */
+  color: #777;            /* Lighter text color */
+  margin-top: 0.5rem;     /* Add some space above the text */
+}
+
+.gallery-title {
+  margin-top: 0.5rem;    /* Add some space above the title */
+}
+
+.gallery-copyright{
+  font-size:.5em;
+  font-style: italic;    /* Italicize the copyright */
+}
+
+
 
 
 .pswp__custom-caption {

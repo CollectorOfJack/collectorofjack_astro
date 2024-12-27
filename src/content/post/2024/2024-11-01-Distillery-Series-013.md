@@ -22,7 +22,7 @@ gallery:
     image-copyright: CollectorOfJack.com
   - image_path: ~/assets/images/fullsized/81/DistillerySeries013-5.jpg
     image-caption: Jack Daniel's Distillery Series 013 Twice Barreled Tennessee Straight Rye Whiskey Side/Rear of Bottle
-    image-copyright: CollectorOfJack.com
+    image-copyright: Copyright 2024 CollectorOfJack.com
 
 
 tags: [ Distillery Series, Tasters, Box, 375ml, Twice Barreled, Rye ]
