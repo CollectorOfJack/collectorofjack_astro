@@ -1,9 +1,9 @@
 ---
 title: 2020 Holiday Countdown Calendar
 publishDate: 2020-11-29T20:00:00+00:00
-permalink: 2020HolidayCountdownCalendar
+url: 2020HolidayCountdownCalendar
 image: ~/assets/images/fullsized/40/HolidayCountdown2020-1.jpg
-description: 2020's Advent Calendar
+excerpt: 2020's Advent Calendar
 gallery:
   2020HolidayCountdownCalendar:
   - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-1.jpg

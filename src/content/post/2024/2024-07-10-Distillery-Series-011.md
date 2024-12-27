@@ -1,9 +1,9 @@
 ---
 title: "Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
 publishDate: 2024-07-10T10:55:00+00:00
-permalink: DistillerySeries011
+url: DistillerySeries011
 image: ~/assets/images/fullsized/78/DistillerySeries011-1.jpg
-description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
+excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Añejo, Tequila, Reunion"
 
 gallery:

@@ -1,9 +1,9 @@
 ---
 title: "2024 High Roller Straight Bourbon Whiskey"
 publishDate: 2024-06-24T13:00:00+00:00
-permalink: highrollerstraightbourbonwhiskey
+url: highrollerstraightbourbonwhiskey
 image: ~/assets/images/fullsized/74/HighRollerII-1.jpg
-description: "A blog post about the 2024 release of the High Roller Straight Bourbon Whiskey"
+excerpt: "A blog post about the 2024 release of the High Roller Straight Bourbon Whiskey"
 keywords: "Monster Truck, High Roller, Bourbon, Whiskey"
 
 gallery:

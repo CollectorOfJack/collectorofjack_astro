@@ -2,9 +2,9 @@
 title: Tennessee Tasters' Barrel Proof Rye
 publishDate: 2020-08-30T22:32:40+00:00
 updateDate: 2024-07-01T15:55:45+00:00
-permalink: TennesseeTastersBarrelProofRye
+url: TennesseeTastersBarrelProofRye
 image: ~/assets/images/fullsized/31/TennesseeTasters4-1.jpg
-description: The Tennessee Tasters' Barrel Proof Rye Bottle
+excerpt: The Tennessee Tasters' Barrel Proof Rye Bottle
 gallery:
   TennesseeTastersBarrelProofRye:
   - image_path: ~/assets/images/fullsized/31/TennesseeTasters4-1.jpg

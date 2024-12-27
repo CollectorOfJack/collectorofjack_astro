@@ -1,11 +1,11 @@
 ---
 title: "Jack Daniel's life story, according to ChatGPT"
 publishDate: 2023-03-06T23:30:00+00:00
-permalink: JackDanielsLifeStory
+url: JackDanielsLifeStory
 type: article
 keywords: "Jack Daniel's, Life Story, ChatGPT"
 image: ~/assets/images/fullsized/65/JackDanielsStory-1.jpg
-description: "The life story of Jack Daniel's according to ChatGPT"
+excerpt: "The life story of Jack Daniel's according to ChatGPT"
 gallery:
   JackDanielsLifeStory:
   - image_path: ~/assets/images/fullsized/65/JackDanielsStory-1.jpg

@@ -1,11 +1,11 @@
 ---
 title: "Welcome to the Jack Daniel's Collector Blog"
-description: Our origin story for collecting Jack Daniel's. Read more about Chris Hammond and how this website started.
+excerpt: Our origin story for collecting Jack Daniel's. Read more about Chris Hammond and how this website started.
 keywords: "jack, daniel's, jd, whiskey, collection, collector, glasses, bottles, value, jack daniel, jack daniel's"
 type: article
 publishDate: 2018-11-18T13:36:55+00:00
 updateDate: 2024-11-15T10:55:45+00:00
-permalink: JackDanielsCollector
+url: JackDanielsCollector
 image: ~/assets/images/fullsized/1/post-bg1.jpg
 
 gallery:

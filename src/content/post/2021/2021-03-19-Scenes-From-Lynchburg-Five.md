@@ -2,9 +2,9 @@
 title: Jack Daniel's Scenes From Lynchburg Number Five
 publishDate: 2021-03-19T08:20:00+00:00
 updateDate: 2024-11-15T10:23:45+00:00
-permalink: ScenesFromLynchburgFive
+url: ScenesFromLynchburgFive
 image: ~/assets/images/fullsized/46/ScenesOfLynchburg5-1.jpg
-description: "Jack Daniel's Scenes From Lynchburg Number Five, a series of bottles released with images from around Lynchburg Tennessee."
+excerpt: "Jack Daniel's Scenes From Lynchburg Number Five, a series of bottles released with images from around Lynchburg Tennessee."
 gallery:
   ScenesFromLynchburgFive:
   - image_path: ~/assets/images/fullsized/46/ScenesOfLynchburg5-1.jpg

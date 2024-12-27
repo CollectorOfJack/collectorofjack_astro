@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Barrel Proof Rye Special Release
 publishDate: 2020-11-23T10:00:00+00:00
-permalink: BarrelProofRyeSpecialRelease
+url: BarrelProofRyeSpecialRelease
 image: ~/assets/images/fullsized/39/BarrelProofRyeSpecialRelease-1.jpg
-description: 2020's Special Release
+excerpt: 2020's Special Release
 gallery:
   BarrelProofRyeSpecialRelease:
   - image_path: ~/assets/images/fullsized/39/BarrelProofRyeSpecialRelease-1.jpg

@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Tennessee Apple
 publishDate: 2019-11-26T15:12:18+00:00
-permalink: TennesseeApple
+url: TennesseeApple
 image: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-1.jpg
-description: A collector's guide to the Jack Daniel's Tennessee Apple flavored liquor
+excerpt: A collector's guide to the Jack Daniel's Tennessee Apple flavored liquor
 gallery:
   TennesseeApple:
   - image_path: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-1.jpg

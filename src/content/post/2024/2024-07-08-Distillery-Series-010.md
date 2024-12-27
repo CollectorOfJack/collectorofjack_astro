@@ -1,9 +1,9 @@
 ---
 title: "Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips"
 publishDate: 2024-07-08T23:55:00+00:00
-permalink: DistillerySeries010
+url: DistillerySeries010
 image: ~/assets/images/fullsized/77/DistillerySeries010-1.jpg
-description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips"
+excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Toasted, Pecan"
 
 gallery:

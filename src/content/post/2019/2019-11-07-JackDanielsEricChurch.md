@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Single Barrel Eric Church (2019)
 publishDate: 2019-11-07T17:28:17+00:00
-permalink: JackDanielsEricChurch
+url: JackDanielsEricChurch
 image: ~/assets/images/fullsized/24/EricChurch-5.jpg
-description: A collector's guide to the Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
+excerpt: A collector's guide to the Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
 gallery:
   JackDanielsEricChurch:
   - image_path: ~/assets/images/fullsized/24/EricChurch-1.jpg

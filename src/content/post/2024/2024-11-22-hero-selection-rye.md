@@ -1,9 +1,9 @@
 ---
 title: "Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye"
 publishDate: 2024-11-22T10:45:00+00:00
-permalink: 2024/heroselectionrye
+url: 2024/heroselectionrye
 image: ~/assets/images/fullsized/82/HeroSelectionRye-2.jpg
-description: "The Jack Daniel's Heroes Selection is a limited-edition whiskey series honoring military personnel. Each year, a veteran selects a unique barrel for release."
+excerpt: "The Jack Daniel's Heroes Selection is a limited-edition whiskey series honoring military personnel. Each year, a veteran selects a unique barrel for release."
 keywords: "Jack Daniel's, Military, Heroes Selection, Rye, Tennessee Rye Whiskey"
 
 gallery:

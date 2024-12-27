@@ -2,9 +2,9 @@
 title: Jack Daniels Special Release Coy Hill High Proof
 publishDate: 2022-03-17T00:14:00+00:00
 updateDate: 2024-07-01T15:55:45+00:00
-permalink: JackDanielsSpecialReleaseCoyHillHighProof
+url: JackDanielsSpecialReleaseCoyHillHighProof
 image: ~/assets/images/fullsized/56/CoyHill-1.jpg
-description: "Jack Daniels Special Release Coy Hill High Proof, an extremely high proof whiskey released in 2021"
+excerpt: "Jack Daniels Special Release Coy Hill High Proof, an extremely high proof whiskey released in 2021"
 keywords: "Coy Hill, Special Release, High Proof, Jack Daniel"
 gallery:
   JackDanielsCoyHill:

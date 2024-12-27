@@ -1,9 +1,9 @@
 ---
 title: "Jack Daniel's Facebook Group"
 publishDate: 2022-03-24T00:00:00+00:00
-permalink: JackDanielsFacebookGroup
+url: JackDanielsFacebookGroup
 image: ~/assets/images/fullsized/58/Group-1.jpg
-description: "Taken over by spammers, the good guys have won and gained control over a large Jack Daniel's Facebook Group"
+excerpt: "Taken over by spammers, the good guys have won and gained control over a large Jack Daniel's Facebook Group"
 tags: [ Other ] 
 updateDate: 2024-07-01T15:55:45+00:00
 product: false

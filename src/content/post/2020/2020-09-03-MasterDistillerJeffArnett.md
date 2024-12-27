@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Master Distiller Jeff Arnett
 publishDate: 2020-09-03T10:00:00+00:00
-permalink: MasterDistillerJeffArnett
+url: MasterDistillerJeffArnett
 image: ~/assets/images/fullsized/34/JeffArnett-1.jpg
-description: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
+excerpt: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
 gallery:
   MasterDistillerJeffArnett:
   - image_path: ~/assets/images/fullsized/34/JeffArnett-1.jpg

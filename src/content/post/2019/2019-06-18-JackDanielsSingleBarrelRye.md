@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Single Barrel Rye
 publishDate: 2019-06-18T17:26:34+00:00
-permalink: JackDanielsSingleBarrelRye
+url: JackDanielsSingleBarrelRye
 image: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-1.jpg
-description: A collector's guide to the Jack Daniel's Single Barrel Rye bottle 
+excerpt: A collector's guide to the Jack Daniel's Single Barrel Rye bottle 
 gallery:
   JackDanielsSingleBarrelRye:
   - image_path: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-1.jpg

@@ -1,9 +1,9 @@
 ---
 title: "Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels"
 publishDate: 2024-07-07T16:00:00+00:00
-permalink: DistillerySeries009
+url: DistillerySeries009
 image: ~/assets/images/fullsized/76/DistillerySeries009-1.jpg
-description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 009, Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels"
+excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 009, Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Oak"
 
 gallery:

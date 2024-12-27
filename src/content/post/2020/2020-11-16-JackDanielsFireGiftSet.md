@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Fire and 2 Shotglass Gift Set
 publishDate: 2020-11-16T22:00:00+00:00
-permalink: JackDanielsFireShotglassGiftSet
+url: JackDanielsFireShotglassGiftSet
 image: ~/assets/images/fullsized/38/JackDanielsFireShotGlassSet-1.jpg
-description: Jack Daniel's Fire and 2 Shot Glasses
+excerpt: Jack Daniel's Fire and 2 Shot Glasses
 gallery:
   JackDanielsFireShotglassGiftSet:
   - image_path: ~/assets/images/fullsized/38/JackDanielsFireShotGlassSet-1.jpg

@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Bottled in Bond
 publishDate: 2019-10-26T13:47:16+00:00
-permalink: BottledInBond
+url: BottledInBond
 image: ~/assets/images/fullsized/23/BottledInBond-1.jpg
-description: A collector's guide to the Jack Daniel's Bottled In Bond release available in international travel marketplaces
+excerpt: A collector's guide to the Jack Daniel's Bottled In Bond release available in international travel marketplaces
 gallery:
   BottledInBond:
   - image_path: ~/assets/images/fullsized/23/BottledInBond-1.jpg

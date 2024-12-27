@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Bonded Tennessee Whiskey
 publishDate: 2022-05-25T20:00:00+00:00
-permalink: JackDanielsBondedTennesseeWhiskey
+url: JackDanielsBondedTennesseeWhiskey
 image: ~/assets/images/fullsized/59/Bonded-1.jpg
-description: "The first of two new offerings from Jack Daniel's"
+excerpt: "The first of two new offerings from Jack Daniel's"
 gallery:
   JackDanielsBondedTennesseeWhiskey:
   - image_path: ~/assets/images/fullsized/59/Bonded-1.jpg

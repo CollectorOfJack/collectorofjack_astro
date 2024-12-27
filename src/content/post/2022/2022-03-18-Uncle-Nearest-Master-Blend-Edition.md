@@ -1,9 +1,9 @@
 ---
 title: Uncle Nearest Master Blend Edition
 publishDate: 2022-03-18T00:14:00+00:00
-permalink: UncleNearestMasterBlendEdition
+url: UncleNearestMasterBlendEdition
 image: ~/assets/images/fullsized/57/UncleNearestMasterBlend-1.jpg
-description: Uncle Nearest Master Blend Edition available only at the distillery
+excerpt: Uncle Nearest Master Blend Edition available only at the distillery
 gallery:
   UncleNearestMasterBlend:
   - image_path: ~/assets/images/fullsized/57/UncleNearestMasterBlend-1.jpg

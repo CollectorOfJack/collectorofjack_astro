@@ -1,9 +1,9 @@
 ---
 title: Jack Daniels 10-Years Old Tennessee Whiskey
 publishDate: 2021-08-24T00:10:00+00:00
-permalink: 10YearsOldTennesseeWhiskey
+url: 10YearsOldTennesseeWhiskey
 image: ~/assets/images/fullsized/53/10YearsOldTennesseeWhiskey-1.jpg
-description: A preview of Jack Daniels 10-Years Old Tennessee Whiskey
+excerpt: A preview of Jack Daniels 10-Years Old Tennessee Whiskey
 gallery:
   10YearsOldTennesseeWhiskey:
   - image_path: ~/assets/images/fullsized/53/10YearsOldTennesseeWhiskey-1.jpg

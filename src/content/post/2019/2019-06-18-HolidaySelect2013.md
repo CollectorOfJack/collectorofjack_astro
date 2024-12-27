@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Holiday Select 2013
 publishDate: 2019-06-18T15:56:40+00:00
-permalink: HolidaySelect2013
+url: HolidaySelect2013
 image: ~/assets/images/fullsized/9/HolidaySelect2013-1.jpg
-description: A collector's guide to the Jack Daniel's Holiday Select Release from 2013
+excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2013
 gallery:
   HolidaySelect2013:
   - image_path: ~/assets/images/fullsized/9/HolidaySelect2013-1.jpg

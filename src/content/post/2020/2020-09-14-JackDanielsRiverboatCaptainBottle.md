@@ -2,9 +2,9 @@
 title: Jack Daniel's Riverboat Captain's Bottle
 publishDate: 2020-09-13T22:00:00+00:00
 updateDate: 2024-07-10T23:55:45+00:00
-permalink: JackDanielsRiverboatCaptainBottle
+url: JackDanielsRiverboatCaptainBottle
 image: ~/assets/images/fullsized/36/RiverboatCaptain-1.jpg
-description: "Jack Daniel's Riverboat Captain's Bottle and box from 1987"
+excerpt: "Jack Daniel's Riverboat Captain's Bottle and box from 1987"
 keywords: "jack daniel's, riverboat captain, riverboat, captain, bottle, 1.75L, box, collectible, value, price, decanter"
 gallery:
   JackDanielsRiverboatCaptainBottle:

@@ -1,9 +1,9 @@
 ---
 title: "Jack Daniel's Small Batch Coy Hill"
 publishDate: 2022-06-29T10:00:00+00:00
-permalink: SmallBatchCoyHill2022
+url: SmallBatchCoyHill2022
 image: ~/assets/images/fullsized/61/smallbatchcoyhill-1.jpg
-description: "Coy Hill take 2"
+excerpt: "Coy Hill take 2"
 gallery:
   SmallBatchCoyHill2022:
   - image_path: ~/assets/images/fullsized/61/smallbatchcoyhill-1.jpg

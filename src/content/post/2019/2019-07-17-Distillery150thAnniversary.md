@@ -1,9 +1,9 @@
 ---
 title: "Jack Daniel Distillery 150th Anniversary"
 publishDate: 2019-07-17T04:03:07+00:00
-permalink: Distillery150thAnniversary
+url: Distillery150thAnniversary
 image: ~/assets/images/fullsized/21/JackDaniels150thDistillery-1.jpg
-description: A collector's guide to the Jack Daniel's Distillery 150th Anniversary Release
+excerpt: A collector's guide to the Jack Daniel's Distillery 150th Anniversary Release
 gallery:
   Distillery150thAnniversary:
     - image_path: ~/assets/images/fullsized/21/JackDaniels150thDistillery-1.jpg

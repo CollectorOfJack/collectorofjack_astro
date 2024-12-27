@@ -2,11 +2,11 @@
 title: "How Much Is My Jack Daniels Collection Worth?"
 publishDate: 2022-12-20T21:30:00+00:00
 updateDate: 2024-07-01T15:55:45+00:00
-permalink: HowMuchIsMyJackDanielsCollectionWorth
+url: HowMuchIsMyJackDanielsCollectionWorth
 type: article
 keywords: "Jack Daniel's, Collection, Value, Estimate, Tracker, Worth"
 image: ~/assets/images/fullsized/64/Collection-1.jpg
-description: "Putting a value on your bottles in your Jack Daniel's collection, we'll help you to start to do that."
+excerpt: "Putting a value on your bottles in your Jack Daniel's collection, we'll help you to start to do that."
 gallery:
   HowMuchIsMyJackDanielsCollectionWorth:
   - image_path: ~/assets/images/fullsized/64/Collection-1.jpg

@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's 160th Birthday Bottle 1850-2010
 publishDate: 2020-09-16T10:00:00+00:00
-permalink: JackDanielBirthday160Bottle
+url: JackDanielBirthday160Bottle
 image: ~/assets/images/fullsized/37/CollectorOfJack-15.jpg
-description: Mr. Jack's 160th Birthday 1850 to 2010
+excerpt: Mr. Jack's 160th Birthday 1850 to 2010
 gallery:
   JackDanielBirthday160Bottle:
   - image_path: ~/assets/images/fullsized/37/CollectorOfJack-11.jpg

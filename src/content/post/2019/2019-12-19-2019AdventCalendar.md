@@ -1,9 +1,9 @@
 ---
 title: 2019 Jack Daniel's Holiday Countdown Calendar
 publishDate: 2019-12-19T16:41:16+00:00
-permalink: 2019AdventCalendar
+url: 2019AdventCalendar
 image: ~/assets/images/fullsized/27/HolidayCalendar2019-1.jpg
-description: A collector's guide to the Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
+excerpt: A collector's guide to the Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
 gallery:
   2019AdventCalendar:
   - image_path: ~/assets/images/fullsized/27/HolidayCalendar2019-1.jpg

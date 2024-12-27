@@ -1,9 +1,9 @@
 ---
 title: "Jack Daniels Triple Mash"
 publishDate: 2022-06-27T23:00:00+00:00
-permalink: JackDanielsTripleMash
+url: JackDanielsTripleMash
 image: ~/assets/images/fullsized/60/TripleMash-1.jpg
-description: "The first of two new offerings from Jack Daniel's"
+excerpt: "The first of two new offerings from Jack Daniel's"
 gallery:
   JackDanielsTripleMash:
   - image_path: ~/assets/images/fullsized/60/TripleMash-1.jpg

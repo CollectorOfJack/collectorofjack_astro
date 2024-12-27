@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Heritage Barrel 2019
 publishDate: 2019-11-11T03:51:06+00:00
-permalink: HeritageBarrel2019
+url: HeritageBarrel2019
 image: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-1.jpg
-description: A collector's guide to the Jack Daniel's Heritage Barrel 2019 Release
+excerpt: A collector's guide to the Jack Daniel's Heritage Barrel 2019 Release
 gallery:
   HeritageBarrel2019:
   - image_path: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-1.jpg

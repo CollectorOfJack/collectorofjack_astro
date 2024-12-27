@@ -1,8 +1,8 @@
 ---
 title: Jack Daniel's Visit June 2021
-description: "A blog post about my visit to Lynchburg Tennessee in June 2021, which coincided with the Green Family reunion weekend."
+excerpt: "A blog post about my visit to Lynchburg Tennessee in June 2021, which coincided with the Green Family reunion weekend."
 publishDate: 2021-06-19T16:20:00+00:00
-permalink: JackDanielsDistilleryVisit2021
+url: JackDanielsDistilleryVisit2021
 image: ~/assets/images/fullsized/47/Trip20216-16-2021-4.jpg
 gallery:
   JackDanielsDistilleryVisit2021g1:

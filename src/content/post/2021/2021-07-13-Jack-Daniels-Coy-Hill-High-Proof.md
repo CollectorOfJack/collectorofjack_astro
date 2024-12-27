@@ -1,9 +1,9 @@
 ---
 title: Jack Daniels Coy Hill High Proof
 publishDate: 2021-07-14T00:20:00+00:00
-permalink: JackDanielsCoyHillHighProof
+url: JackDanielsCoyHillHighProof
 image: ~/assets/images/fullsized/51/JackDanielsCoyHillHighProof-1.jpg
-description: Jack Daniel's Single Barrel Coy Hill High Proof
+excerpt: Jack Daniel's Single Barrel Coy Hill High Proof
 gallery:
   JackDanielsCoyHillHighProof:
   - image_path: ~/assets/images/fullsized/51/JackDanielsCoyHillHighProof-1.jpg

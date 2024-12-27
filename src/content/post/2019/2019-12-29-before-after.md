@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Before and After Release
 publishDate: 2019-12-29T05:11:58+00:00
-permalink: before-after
+url: before-after
 image: ~/assets/images/fullsized/28/BeforeAndAfter-1.jpg
-description: A collector's guide to the Jack Daniel's Before and After Charcoal Mellowing release 
+excerpt: A collector's guide to the Jack Daniel's Before and After Charcoal Mellowing release 
 gallery:
   BeforeAndAfter:
   - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-1.jpg

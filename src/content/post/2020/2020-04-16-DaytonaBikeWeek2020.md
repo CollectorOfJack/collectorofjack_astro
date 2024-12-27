@@ -1,9 +1,9 @@
 ---
 title: Daytona Bike Week 2020 Collector's Bottle
 publishDate: 2020-04-16T04:26:58+00:00
-permalink: DaytonaBikeWeek2020
+url: DaytonaBikeWeek2020
 image: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-14.jpg
-description: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
+excerpt: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
 gallery:
   DaytonaBikeWeek2020:
   - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-1.jpg

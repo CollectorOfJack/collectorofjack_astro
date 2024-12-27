@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Eric Church Single Barrel 2020
 publishDate: 2020-08-31T23:45:40+00:00
-permalink: EricChurchSingleBarrel2020
+url: EricChurchSingleBarrel2020
 image: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-1.jpg
-description: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
+excerpt: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
 gallery:
   EricChurchSingleBarrel2020:
   - image_path: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-1.jpg

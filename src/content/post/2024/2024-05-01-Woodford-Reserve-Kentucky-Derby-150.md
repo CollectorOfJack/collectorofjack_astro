@@ -2,9 +2,9 @@
 title: "Woodford Reserve's Kentucky Derby 150th Kentucky Bourbon"
 publishDate: 2024-05-01T23:30:00+00:00
 updateDate: 2024-07-01T15:55:45+00:00
-permalink: WoodfordReserveKentuckyDerby150
+url: WoodfordReserveKentuckyDerby150
 image: ~/assets/images/fullsized/71/WoodfordReserveKentuckyDerby150-2.jpg
-description: "Woodford Reserve's Kentucky Derby series of bottles is a special annual release that celebrates one of America's most storied horse races, the Kentucky Derby. "
+excerpt: "Woodford Reserve's Kentucky Derby series of bottles is a special annual release that celebrates one of America's most storied horse races, the Kentucky Derby. "
 keywords: "Woodford Reserve, Bourbon, Kentucky Derby, 150th, 2024"
 
 gallery:

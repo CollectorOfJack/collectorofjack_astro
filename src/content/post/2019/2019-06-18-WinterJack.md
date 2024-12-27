@@ -1,9 +1,9 @@
 ---
 title: Jack Daniel's Winter Jack
 publishDate: 2019-06-18T17:16:36+00:00
-permalink: WinterJack
+url: WinterJack
 image: ~/assets/images/fullsized/12/WinterJack-1.jpg
-description: A collector's guide to the Jack Daniel's Winter Jack, Tennessee Cider
+excerpt: A collector's guide to the Jack Daniel's Winter Jack, Tennessee Cider
 gallery:
   WinterJack:
   - image_path: ~/assets/images/fullsized/12/WinterJack-1.jpg

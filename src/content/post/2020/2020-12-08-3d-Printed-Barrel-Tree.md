@@ -1,9 +1,9 @@
 ---
 title: DIY 3d Printed Barrel Tree
 publishDate: 2020-12-08T20:00:00+00:00
-permalink: 3DPrintedBarrelTree
+url: 3DPrintedBarrelTree
 image: ~/assets/images/fullsized/42/BarrelTree-1.jpg
-description: Jack Daniel's DIY Project
+excerpt: Jack Daniel's DIY Project
 gallery:
   3DPrintedBarrelTree:
   - image_path: ~/assets/images/fullsized/42/BarrelTree-1.jpg
