@@ -1,3 +1,9 @@
+CollectorOfJack.com Content
+Copyright (c) 2024 Christoc.com
+
+
+
+AstroWind Content released under  (astro theme before modifications)
 MIT License
 
 Copyright (c) 2023 onWidget
