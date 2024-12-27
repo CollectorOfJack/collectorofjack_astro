@@ -10,8 +10,8 @@ site:
 metadata:
   title:
     default: CollectorOfJack
-    template: '%s — CollectorOfJack'
-  description: Explore autocross insights with Chris Hammond's 24+ years of experience. Get tips, event recaps, and SCCA schedule updates on the ultimate Autocross Blog."
+    template: '%s — Collector Of Jack'
+  description: Explore tennessee whiskey insights with Chris Hammond's 25+ years of experience collecting Jack Daniel's. Get tips, pricing info, and tips on where to find the best Jack Daniel's for your collect!"
   robots:
     index: true
     follow: true
@@ -60,7 +60,7 @@ apps:
 analytics:
   vendors:
     googleAnalytics:
-      id: "G-438M5WVM2K"
+      id: "G-SR5PB9ZBBL"
       partytown: false
     cloudflare: #turnstile
       id: "0x4AAAAAAA1-cZp-m0OLmLCR"
