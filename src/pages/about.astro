@@ -19,107 +19,89 @@ const metadata = {
     tagline="About CollectorOfJack.com"
     image={{
       src: aboutImage,
-      alt: 'Chris and Bill Hammond in front of a 2004 ZO6, photo from the 2008 Solo National Championships',
+      alt: 'Chris Hammond with his collection of Jack Daniel’s memorabilia.',
     }}
   >
     <Fragment slot="title">
-      About the ultimate 
-      <span class="text-accent dark:text-white highlight">Collector Of Jack Blog</span>
+      Welcome to 
+      <span class="text-accent dark:text-white highlight">Collector Of Jack</span>
     </Fragment>
 
     <Fragment slot="subtitle">
-      Do you want to know more about CollectorOfJack.com? Another blog from 
-      <span class="text-accent dark:text-white highlight">Chris Hammond</span>
+      A comprehensive journey into the world of Jack Daniel's, brought to you by
+      <span class="text-accent dark:text-white highlight"><a href="https://www.chrishammond.com" target="_blank">Chris Hammond</a></span>.
+      Explore stories, rare finds, and the passion behind the collection.
     </Fragment>
   </Hero>
 
   <!-- Stats Widget ****************** -->
 
   <Stats
-    title="Statistics"
+    title="Collection Stats"
     stats={[
-      { title: 'First Taste of Jack Daniel&quot;s', amount: 'August 1996' },
-      { title: 'Blog posts', amount: '300+' },
-      { title: 'Bottles', amount: '100+' },
-      { title: 'Squire Nominations', amount: '1' },
-      
+      { title: 'First Bottle Acquired', amount: '1996' },
+      { title: 'Bottles in the Collection', amount: '300+' },
+      { title: 'Visits to Lynchburg, TN', amount: '5+' },
+      { title: 'Years of Collecting', amount: '28+' },
     ]}
   />
 
-  
   <!-- Features3 Widget ************** -->
 
   <Features3
-    title="Our history"
-    subtitle="A little background info"
+    title="Our Journey"
+    subtitle="From a single sip to a lifetime collection"
     columns={3}
     isBeforeContent={true}
     items={[
       {
-        title: 'College',
+        title: 'The First Taste',
         description:
-          'I started autocross fresh out of college in 2000. I had heard about autox from a fraternity brother as well as from my father who used to do gymkhana events in Missouri in the 60s, but I had never been to or seen an event.',
-        icon: 'tabler:template',
+          "It all started with a single sip in 1996. That moment sparked a fascination with the craftsmanship, history, and culture surrounding Jack Daniel’s Tennessee Whiskey.",
+        icon: 'tabler:glass',
       },
       {
-        title: 'Books',
+        title: 'A Growing Collection',
         description:
-          'I purchased a book about VWs, in it were stories and quotes from the Bob and Patty Tunnel. I joined the Sports Car Club of America (SCCA), got the Solo rule book, read it cover to cover, and started attending membership meetings of the St. Louis region.',
-        icon: 'tabler:template',
+          'Over the years, the collection grew to include rare bottles, limited editions, and unique memorabilia from around the world.',
+        icon: 'tabler:archive',
       },
       {
-        title: 'Novice School',
+        title: 'Whiskey Enthusiast',
         description:
-          "I signed up for the local Novice school, and was hooked. I started autocrossing in a 1994 VW Golf, it wasn't much, but it was what I had. I quickly learned that the all season tires on it weren't going to be much fun and bought a set of Kumho tires and a new set of Kosei K1 wheels.",
-        icon: 'tabler:template',
-      },
-      {
-        title: 'Head first',
-        description:
-          'I was hooked, and have autocrossed pretty heavily (and sometimes lightly) over the past 24 years.',
-        icon: 'tabler:template',
-      },
-      
-      {
-        title: '24 Years',
-        description:
-          "This blog is a culmination of a number of projects including Project240z.com, Project350z.com and SpecFRS.com. Long ago I ran a website that started out as Pylon.cc, and then turned into SOLO2.ORG which for a time was the largest autocross forum on the web. While that site isn't around anymore, it was the start of my blogging in the autocross world.",
-        icon: 'tabler:template',
+          "CollectorOfJack.com is a celebration of all things Jack Daniel’s, from the brand’s history to the stories behind each bottle in the collection.",
+        icon: 'tabler:book',
       },
     ]}
   />
-
 
   <!-- Steps2 Widget ****************** -->
 
   <Steps2
-    title="Achievements"
-    subtitle="Highlighting milestones and key accomplishments in the world of Autocross, from individual driver success to nationwide recognition."
+    title="Milestones"
+    subtitle="A timeline of achievements in building a world-class collection."
     isReversed={true}
     callToAction={{
-      text: 'Learn more',
-      href: '/about',
+      text: 'Read My Story',
+      href: '/JackDanielsCollector',
     }}
     items={[
       {
-        title: 'Nationwide Event Coverage',
-        description: 'Documenting autocross events across the country, showcasing regional and national competitions.',
-        icon: 'tabler:map-pin',
+        title: 'Tennessee Squire',
+        description: 'Since 2020',
+        icon: 'tabler:crown',
       },
       {
-        title: 'Community Engagement',
+        title: 'Limited Editions Acquired',
+        description: 'Curated a collection featuring some of the rarest and most sought-after Jack Daniel’s releases.',
+        icon: 'tabler:star',
+      },
+      {
+        title: 'Community and Events',
         description:
-          'Featuring stories and feedback from drivers, enthusiasts, and organizers to foster a thriving autocross community.',
+          'Engaged with fellow enthusiasts at events, sharing stories and showcasing the collection’s highlights.',
         icon: 'tabler:users',
-      },
-      {
-        title: 'Top Rankings and Results',
-        description:
-          'Analyzing event results to provide rankings, insights, and performance metrics for drivers and classes.',
-        icon: 'tabler:chart-bar',
       },
     ]}
   />
-
-
 </Layout>
