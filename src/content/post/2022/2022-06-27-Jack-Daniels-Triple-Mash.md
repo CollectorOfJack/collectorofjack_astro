@@ -1,28 +1,28 @@
 ---
-layout: post
 title: "Jack Daniels Triple Mash"
-date: '2022-06-27T23:00:00+00:00'
+publishDate: 2022-06-27T23:00:00+00:00
 permalink: JackDanielsTripleMash
-image: 60/TripleMash-1.jpg
+image: ~/assets/images/fullsized/60/TripleMash-1.jpg
 description: "The first of two new offerings from Jack Daniel's"
 gallery:
   JackDanielsTripleMash:
-  - image_path: 60/TripleMash-1.jpg
+  - image_path: ~/assets/images/fullsized/60/TripleMash-1.jpg
     image-caption: Jack Daniel's Triple Mash Blended Straight Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: 60/TripleMash-2.jpg
+  - image_path: ~/assets/images/fullsized/60/TripleMash-2.jpg
     image-caption: Jack Daniel's Triple Mash Blended Straight Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: 60/TripleMash-3.jpg
+  - image_path: ~/assets/images/fullsized/60/TripleMash-3.jpg
     image-caption: Jack Daniel's Triple Mash Blended Straight Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: 60/TripleMash-4.jpg
+  - image_path: ~/assets/images/fullsized/60/TripleMash-4.jpg
     image-caption: Jack Daniel's Triple Mash Blended Straight Whiskey
     image-copyright: CollectorOfJack.com
-categories: [ Bonded, Bottled in Bond, 100Proof, 700ml, Mash ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Bonded, Bottled in Bond, 100Proof, 700ml, Mash ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 45.99
 brand: "Jack Daniel's"
+author: chris
 ---
 For 2022 Jack Daniel's announced, and released, two new expressions. Both of these are released in a 700ml (and also a 1L version). The word on these releases is that they will be available regularly going forward, and are not limited releases like the 10 Year and Heritage barrels released over the last few years (more of those coming however).
 
@@ -60,4 +60,5 @@ I found this bottle at Dogwood Wine and Spirits in Ellisville, Missouri towards 
 **Proof:** 100  
 **Size:** 700ml  
 **Price:** $39.99  
+
 

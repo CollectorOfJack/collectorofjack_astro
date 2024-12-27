@@ -1,40 +1,40 @@
 ---
-layout: post
 title: "2024 High Roller Straight Bourbon Whiskey"
-date: '2024-06-24T13:00:00+00:00'
+publishDate: 2024-06-24T13:00:00+00:00
 permalink: highrollerstraightbourbonwhiskey
-image: 74/HighRollerII-1.jpg
+image: ~/assets/images/fullsized/74/HighRollerII-1.jpg
 description: "A blog post about the 2024 release of the High Roller Straight Bourbon Whiskey"
 keywords: "Monster Truck, High Roller, Bourbon, Whiskey"
-author: ChrisHammond
+
 gallery:
   McLaren24:
-  - image_path: 74/HighRollerII-1.jpg
+  - image_path: ~/assets/images/fullsized/74/HighRollerII-1.jpg
     image-caption: High Roller Straight Bourbon Whiskey lit up by LED on top of a whiskey barrel
     image-copyright: CollectorOfJack.com
-  - image_path: 74/HighRollerII-2.jpg
+  - image_path: ~/assets/images/fullsized/74/HighRollerII-2.jpg
     image-caption: High Roller Straight Bourbon Whiskey on top of a whiskey barrel
     image-copyright: CollectorOfJack.com
-  - image_path: 74/HighRollerII-3.jpg
+  - image_path: ~/assets/images/fullsized/74/HighRollerII-3.jpg
     image-caption: High Roller Straight Bourbon Whiskey rear of bottle on top of a whiskey barrel
     image-copyright: CollectorOfJack.com
-  - image_path: 74/HighRollerII-4.jpg
+  - image_path: ~/assets/images/fullsized/74/HighRollerII-4.jpg
     image-caption: High Roller Straight Bourbon Whiskey rear of bottle zoomed in label
     image-copyright: CollectorOfJack.com
-  - image_path: 74/HighRollerII-5.jpg
+  - image_path: ~/assets/images/fullsized/74/HighRollerII-5.jpg
     image-caption: High Roller Straight Bourbon Whiskey front of bottle zoomed in label
     image-copyright: CollectorOfJack.com
-  - image_path: 74/HighRollerII-6.jpg
+  - image_path: ~/assets/images/fullsized/74/HighRollerII-6.jpg
     image-caption: High Roller Monster Truck at the 2024 BIGFOOT Open House
     image-copyright: CollectorOfJack.com
-  - image_path: 74/HighRollerII-7.jpg
+  - image_path: ~/assets/images/fullsized/74/HighRollerII-7.jpg
     image-caption: High Roller Monster Truck at the 2024 BIGFOOT Open House crushing cars
     image-copyright: CollectorOfJack.com
 
-categories: [ High Roller, "2024", Friends, Truck ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ High Roller, "2024", Friends, Truck ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 79.99
 brand: "High Roller"
+author: chris
 ---
 When hobbies collide my world is at peak. I love taking photos, motorsports, and I love collecting whiskey. A good friend of mine from my auto racing hobby got into Monster Trucks a number of years ago. I've had the pleasure of seeing his monster truck crush cars at the BIGFOOT Open House a few times now and this year they released a bottle of whiskey featuring Jeff's truck, High Roller II. I won't get into all the details about the truck itself, [you can follow them on social media for more about that](https://www.facebook.com/HighRollerMonsterTruck).
 
@@ -76,3 +76,4 @@ You can order the bottle online via [KegNBottle](https://kegnbottle.com/products
 This being the first release, and potentially a limited run, these bottles ultimately might hold some value to High Roller Moster Truck fans in the future.
  
 ### Collector Of Jack's Value Assessment
+

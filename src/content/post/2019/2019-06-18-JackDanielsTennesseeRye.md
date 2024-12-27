@@ -1,47 +1,47 @@
 ---
-layout: post
 title: Jack Daniel's Tennessee Rye
-date: '2019-06-18T17:28:55+00:00'
+publishDate: 2019-06-18T17:28:55+00:00
 permalink: JackDanielsTennesseeRye
-image: 17/JackDanielsRye1L-1.jpg
+image: ~/assets/images/fullsized/17/JackDanielsRye1L-1.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Rye
 gallery:
   JackDanielsTennesseeRye:
-  - image_path: 17/JackDanielsRye1L-1.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye1L-1.jpg
     image-caption: Jack Daniel's Tennessee Rye 1 Liter
     image-copyright: © CollectorOfJack.com
-  - image_path: 17/JackDanielsRye1L-2.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye1L-2.jpg
     image-caption: Jack Daniel's Tennessee Rye 1 Liter
     image-copyright: © CollectorOfJack.com
-  - image_path: 17/JackDanielsRye1L-3.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye1L-3.jpg
     image-caption: Jack Daniel's Tennessee Rye 1 Liter
     image-copyright: © CollectorOfJack.com
-  - image_path: 17/JackDanielsRye1L-4.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye1L-4.jpg
     image-caption: Jack Daniel's Tennessee Rye 1 Liter
     image-copyright: © CollectorOfJack.com
-  - image_path: 17/JackDanielsRye1L-5.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye1L-5.jpg
     image-caption: Jack Daniel's Tennessee Rye 1 Liter
     image-copyright: © CollectorOfJack.com
-  - image_path: 17/JackDanielsRye1L-6.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye1L-6.jpg
     image-caption: Jack Daniel's Tennessee Rye 1 Liter
     image-copyright: © CollectorOfJack.com
-  - image_path: 17/JackDanielsRye750-1.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye750-1.jpg
     image-caption: Jack Daniel's Tennessee Rye
     image-copyright: © CollectorOfJack.com
-  - image_path: 17/JackDanielsRye750-2.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye750-2.jpg
     image-caption: Jack Daniel's Tennessee Rye
     image-copyright: © CollectorOfJack.com
-  - image_path: 17/JackDanielsRye750-3.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye750-3.jpg
     image-caption: Jack Daniel's Tennessee Rye
     image-copyright: © CollectorOfJack.com
-  - image_path: 17/JackDanielsRye750-4.jpg
+  - image_path: ~/assets/images/fullsized/17/JackDanielsRye750-4.jpg
     image-caption: Jack Daniel's Tennessee Rye
     image-copyright: © CollectorOfJack.com
 
-categories: [ Rye, Tennessee Rye, 750ml ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Rye, Tennessee Rye, 750ml ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 99.99
 brand: "Jack Daniel's"
+author: chris
 ---
 In September of 2017 Jack Daniel's released their standard bottle of Jack Daniel's Tennessee Rye, their 70% rash mash bill. This is a more affordable version of the Rye from Jack Daniel's than the [Single Barrel Rye](/JackDanielsSingleBarrelRye) released in 2016.   
 
@@ -105,4 +105,5 @@ Originally priced around the same price as Old No. 7, Jack Daniel's Tennessee Ry
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $60 you should pick it up.
+
 

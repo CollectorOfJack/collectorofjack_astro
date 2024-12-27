@@ -1,38 +1,38 @@
 ---
-layout: post
 title: Jack Daniel's Bottled in Bond
-date: '2019-10-26T13:47:16+00:00'
+publishDate: 2019-10-26T13:47:16+00:00
 permalink: BottledInBond
-image: 23/BottledInBond-1.jpg
+image: ~/assets/images/fullsized/23/BottledInBond-1.jpg
 description: A collector's guide to the Jack Daniel's Bottled In Bond release available in international travel marketplaces
 gallery:
   BottledInBond:
-  - image_path: 23/BottledInBond-1.jpg
+  - image_path: ~/assets/images/fullsized/23/BottledInBond-1.jpg
     image-caption: Jack Daniel's Bottled In Bond release available in international travel marketplaces
     image-copyright: © CollectorOfJack.com
-  - image_path: 23/BottledInBond-2.jpg
+  - image_path: ~/assets/images/fullsized/23/BottledInBond-2.jpg
     image-caption: Jack Daniel's Bottled In Bond release available in international travel marketplaces
     image-copyright: © CollectorOfJack.com
-  - image_path: 23/BottledInBond-3.jpg
+  - image_path: ~/assets/images/fullsized/23/BottledInBond-3.jpg
     image-caption: Jack Daniel's Bottled In Bond release available in international travel marketplaces
     image-copyright: © CollectorOfJack.com
-  - image_path: 23/BottledInBond-4.jpg
+  - image_path: ~/assets/images/fullsized/23/BottledInBond-4.jpg
     image-caption: Jack Daniel's Bottled In Bond release available in international travel marketplaces
     image-copyright: © CollectorOfJack.com
-  - image_path: 23/BottledInBond-5.jpg
+  - image_path: ~/assets/images/fullsized/23/BottledInBond-5.jpg
     image-caption: Jack Daniel's Bottled In Bond release available in international travel marketplaces
     image-copyright: © CollectorOfJack.com
-  - image_path: 23/BottledInBond-6.jpg
+  - image_path: ~/assets/images/fullsized/23/BottledInBond-6.jpg
     image-caption: Jack Daniel's Bottled In Bond release available in international travel marketplaces
     image-copyright: © CollectorOfJack.com
-  - image_path: 23/BottledInBond-7.jpg
+  - image_path: ~/assets/images/fullsized/23/BottledInBond-7.jpg
     image-caption: Jack Daniel's Bottled In Bond release available in international travel marketplaces
     image-copyright: © CollectorOfJack.com
-categories: [ Duty Free, 750ml, 100Proof, Bonded ]
+tags: [ Duty Free, 750ml, 100Proof, Bonded ]
 
-last_modified_at: '2024-07-01T15:55:45+00:00'
+updateDate: 2024-07-01T15:55:45+00:00
 price: 199.99
 brand: "Jack Daniel's"
+author: chris
 ---
 Another Traveler's Exclusive released by Jack Daniel's in the last couple of years is the 100 Proof Bottled in Bond. I recently acquired one with the help of an employee who traveled to Europe in September. Only one was acquired, so I haven't had a change to taste it, but hopefully I can get another bottle some time in the future.
 
@@ -88,3 +88,4 @@ This is a beautiful bottle, and box, as you can see in the photo gallery here on
 **Proof**: 100   
 **Size**: 750ml  
 **Price**: $38+  
+

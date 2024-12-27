@@ -1,39 +1,38 @@
 ---
-layout: post
 title: 2020 Holiday Countdown Calendar
-date: '2020-11-29T20:00:00+00:00'
+publishDate: 2020-11-29T20:00:00+00:00
 permalink: 2020HolidayCountdownCalendar
-image: 40/HolidayCountdown2020-1.jpg
+image: ~/assets/images/fullsized/40/HolidayCountdown2020-1.jpg
 description: 2020's Advent Calendar
 gallery:
   2020HolidayCountdownCalendar:
-  - image_path: 40/HolidayCountdown2020-1.jpg
+  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-1.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: 40/HolidayCountdown2020-2.jpg
+  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-2.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: 40/HolidayCountdown2020-3.jpg
+  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-3.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: 40/HolidayCountdown2020-4.jpg
+  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-4.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: 40/HolidayCountdown2020-5.jpg
+  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-5.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: 40/HolidayCountdown2020-6.jpg
+  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-6.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: 40/HolidayCountdown2020-7.jpg
+  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-7.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-categories: [ Holiday, Calendar, Mini Bottles ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Holiday, Calendar, Mini Bottles ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 149.99
 brand: "Jack Daniel's"
+author: chris
 ---
-
 [Last year, Jack Daniel's brought their Holiday Countdown Calendar](/2019AdventCalendar) to the states, this year they bring it again and supposedly make it easier to find!
 
 That being said, I haven't seen one in Missouri since early October (I was able to get some from Total Wine here in the St. Louis area). Which is a step up from last year. I had to drive to Memphis to find one, I couldn't find them in St. Louis until January. Once they were here though, Lukas (Dogwood) had them until late summer, I may have purchased a case of them late in the summer.
@@ -68,3 +67,4 @@ If you're looking for last year's calendar, we've still got some to trade for ot
 **Proof:** Varies  
 **Size:** 20 x 50ml  
 **Price:** $40.99  
+

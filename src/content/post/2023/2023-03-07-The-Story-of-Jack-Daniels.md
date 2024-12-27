@@ -1,21 +1,20 @@
 ---
-layout: post
 title: "Jack Daniel's life story, according to ChatGPT"
-date: '2023-03-06T23:30:00+00:00'
+publishDate: 2023-03-06T23:30:00+00:00
 permalink: JackDanielsLifeStory
 type: article
 keywords: "Jack Daniel's, Life Story, ChatGPT"
-image: 65/JackDanielsStory-1.jpg
+image: ~/assets/images/fullsized/65/JackDanielsStory-1.jpg
 description: "The life story of Jack Daniel's according to ChatGPT"
 gallery:
   JackDanielsLifeStory:
-  - image_path: 65/JackDanielsStory-1.jpg
+  - image_path: ~/assets/images/fullsized/65/JackDanielsStory-1.jpg
     image-caption: Jack Daniel Photo at the Distillery taken in 2005
     image-copyright: CollectorOfJack.com
-categories: [ History, ChatGPT ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ History, ChatGPT ]
+updateDate: 2024-07-01T15:55:45+00:00
 product: false
-
+author: chris
 ---
 Over the past few months I've been playing with ChatGPT. I figured I should give it a shot at writing the life story of Jack Daniel's. I'm not sure if it's 100% accurate, but it certainly hits most of the points.
 
@@ -38,4 +37,5 @@ After the Civil War, Green continued to work for Call as a free man and was even
 Today, many people see Green as an important figure in the history of American whiskey and an example of the resilience and ingenuity of the African American community. In recent years, the Jack Daniel's distillery has taken steps to honor Green's legacy, including unveiling a memorial to him in 2016 and establishing the Nearest Green Foundation to promote diversity in the whiskey industry.
 
 Jack Daniel's whiskey remains one of the most popular whiskey brands in the world, with its distinctive black and white label recognized across the globe. The distillery still operates in Lynchburg, Tennessee, and attracts visitors from around the world who want to learn more about the history of this iconic brand and the important role that Nearest Green played in its development.
+
 

@@ -1,28 +1,26 @@
 ---
-layout: post
 title: Jack Daniel's Scenes From Lynchburg Number Five
-date: '2021-03-19T08:20:00+00:00'
-last_modified_at: '2024-11-15T10:23:45+00:00'
+publishDate: 2021-03-19T08:20:00+00:00
+updateDate: 2024-11-15T10:23:45+00:00
 permalink: ScenesFromLynchburgFive
-image: 46/ScenesOfLynchburg5-1.jpg
+image: ~/assets/images/fullsized/46/ScenesOfLynchburg5-1.jpg
 description: "Jack Daniel's Scenes From Lynchburg Number Five, a series of bottles released with images from around Lynchburg Tennessee."
 gallery:
   ScenesFromLynchburgFive:
-  - image_path: 46/ScenesOfLynchburg5-1.jpg
+  - image_path: ~/assets/images/fullsized/46/ScenesOfLynchburg5-1.jpg
     image-caption: Jack Daniel's Scenes From Lynchburg Number Five
     image-copyright: © CollectorOfJack.com
-  - image_path: 46/ScenesOfLynchburg5-3.jpg
+  - image_path: ~/assets/images/fullsized/46/ScenesOfLynchburg5-3.jpg
     image-caption: Jack Daniel's Scenes From Lynchburg Number Five
     image-copyright: © CollectorOfJack.com
-  - image_path: 46/ScenesOfLynchburg5-4.jpg
+  - image_path: ~/assets/images/fullsized/46/ScenesOfLynchburg5-4.jpg
     image-caption: Jack Daniel's Scenes From Lynchburg Number Five
     image-copyright: © CollectorOfJack.com
-categories: [ Lynchburg, 750ml, Scenes ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Lynchburg, 750ml, Scenes ]
 price: 149.99
 brand: "Jack Daniel's"
+author: chris
 ---
-
 The Jack Daniel's Scenes from Lynchburg Series is a collection of 8 bottles, released every year from 2003 to 2011 (skipping 2010). Each bottle features a picture on the front depicting a scene from Lynchburg, Tennessee, the home of the Jack Daniel's Distillery.
 
 I have/had a few bottles from the series that I picked up at the Distillery on a couple of different trips. I ended up trading one of the bottles in 2020 for the Before and After set from the distillery, but I took pictures of it before trading and will post about it later.
@@ -67,3 +65,4 @@ Originally priced around $45, finding this on the shelf at retail is almost impo
  
 ### Collector Of Jack's Value Assessment
 If you can find one of these for under $200, I recommend you pick it up!
+

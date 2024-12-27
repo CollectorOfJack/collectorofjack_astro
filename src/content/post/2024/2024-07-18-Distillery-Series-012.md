@@ -1,28 +1,28 @@
 ---
-layout: post
 title: "Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks"
-date: '2024-07-18T22:55:00+00:00'
+publishDate: 2024-07-18T22:55:00+00:00
 permalink: DistillerySeries012
-image: 79/DistillerySeries012-1.jpg
+image: ~/assets/images/fullsized/79/DistillerySeries012-1.jpg
 description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Oloroso Sherry Casks"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Oloroso, Sherry, Reunion"
-author: ChrisHammond
+
 gallery:
   DistillerySeries012:
-  - image_path: 79/DistillerySeries012-1.jpg
+  - image_path: ~/assets/images/fullsized/79/DistillerySeries012-1.jpg
     image-caption: Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 79/DistillerySeries012-2.jpg
+  - image_path: ~/assets/images/fullsized/79/DistillerySeries012-2.jpg
     image-caption: Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 79/DistillerySeries012-3.jpg
+  - image_path: ~/assets/images/fullsized/79/DistillerySeries012-3.jpg
     image-caption: Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
 
-categories: [ Distillery Series, Tasters, Box, 375ml, Oloroso, Sherry, Reunion ]
+tags: [ Distillery Series, Tasters, Box, 375ml, Oloroso, Sherry, Reunion ]
 price: 199.99
 brand: "Jack Daniel's"
-# last_modified_at: '2024-07-07T15:55:45+00:00'
+# updateDate: 2024-07-07T15:55:45+00:00
+author: chris
 ---
 Released in December 2023, the Straight Tennessee Whiskey Finished In Oloroso Sherry Casks was the fifth in the renamed [Distillery Series](/series/tasters-distillery) and number 12 overall when including the Tennessee Taster's line.
 

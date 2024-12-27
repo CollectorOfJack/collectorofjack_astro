@@ -1,25 +1,25 @@
 ---
-layout: post
 title: "Tennessee Tasters' Barrel Reunion #1"
-date: '2019-06-18T17:33:56+00:00'
-last_modified_at: '2024-11-23T15:55:45+00:00'
+publishDate: 2019-06-18T17:33:56+00:00
+updateDate: 2024-11-23T15:55:45+00:00
 permalink: BarrelReunion1
-image: 19/CollectorOfJack-7.jpg
+image: ~/assets/images/fullsized/19/CollectorOfJack-7.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.
 gallery:
   BarrelReunion1:
-  - image_path: 19/CollectorOfJack-7.jpg
+  - image_path: ~/assets/images/fullsized/19/CollectorOfJack-7.jpg
     image-caption: "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle."
     image-copyright: © CollectorOfJack.com
-  - image_path: 19/CollectorOfJack-8.jpg
+  - image_path: ~/assets/images/fullsized/19/CollectorOfJack-8.jpg
     image-caption: "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle."
     image-copyright: © CollectorOfJack.com
-  - image_path: 19/CollectorOfJack-9.jpg
+  - image_path: ~/assets/images/fullsized/19/CollectorOfJack-9.jpg
     image-caption: "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle."
     image-copyright: © CollectorOfJack.com
-categories: [ TN Tasters, Tennessee Tasters, 375ml, Reunion, Tasters Series, Tasters ]
+tags: [ TN Tasters, Tennessee Tasters, 375ml, Reunion, Tasters Series, Tasters ]
 price: 199.99
 brand: "Jack Daniel's"
+author: chris
 ---
 In March of 2019 Jack Daniel's released the third bottle in their [Tennessee Tasters' series](/series/tasters-distillery), Barrel Reunion #1, Straight Tennessee Whiskey Finished in Red Wine Barrels. 
 
@@ -31,3 +31,4 @@ I picked up a few of these bottles at the Distillery in March 2019 and then pick
 **Release:** 2019  
 **Proof:** 90  
 **Size:** 375ml  
+

@@ -1,34 +1,33 @@
 ---
-layout: post
 title: Jack Daniel's Single Barrel Heritage Barrel (2018)
-date: '2019-06-18T15:18:24+00:00'
+publishDate: 2019-06-18T15:18:24+00:00
 permalink: HeritageBarrel
-image: 5/HeritageBarrel-1.jpg
+image: ~/assets/images/fullsized/5/HeritageBarrel-1.jpg
 description: A collector's guide to the Jack Daniel's Single Barrel Heritage Barrel released in 2018
 gallery:
   HeritageBarrel:
-  - image_path: 5/HeritageBarrel-1.jpg
+  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-1.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
-  - image_path: 5/HeritageBarrel-2.jpg
+  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-2.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
-  - image_path: 5/HeritageBarrel-3.jpg
+  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-3.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
-  - image_path: 5/HeritageBarrel-4.jpg
+  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-4.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
-  - image_path: 5/HeritageBarrel-5.jpg
+  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-5.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
 
-categories: [ 750ml, Heritage Barrel, Special Release, Box ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ 750ml, Heritage Barrel, Special Release, Box ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 99.99
 brand: "Jack Daniel's"
+author: chris
 ---
-
 In late September 2018 Jack Daniel's announced a new Special Release Tennessee Whiskey, Single Barrel Heritage Barrel.
 
 > This release celebrates the early craftsmanship of the Jack Daniel Distillery. The whiskey is from uniquely crafted heavy-toast barrels and 100 proof barrel entry proof. 
@@ -57,3 +56,4 @@ Good luck hunting!
 **Proof:** 100  
 **Size:** 750ml  
 **Price:** $89  
+

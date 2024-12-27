@@ -1,24 +1,23 @@
 ---
-layout: post
 title: Jack Daniel's Master Distiller Jeff Arnett
-date: '2020-09-03T10:00:00+00:00'
+publishDate: 2020-09-03T10:00:00+00:00
 permalink: MasterDistillerJeffArnett
-image: 34/JeffArnett-1.jpg
+image: ~/assets/images/fullsized/34/JeffArnett-1.jpg
 description: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
 gallery:
   MasterDistillerJeffArnett:
-  - image_path: 34/JeffArnett-1.jpg
+  - image_path: ~/assets/images/fullsized/34/JeffArnett-1.jpg
     image-caption: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
     image-copyright: © CollectorOfJack.com
-  - image_path: 34/JeffArnett-2.jpg
+  - image_path: ~/assets/images/fullsized/34/JeffArnett-2.jpg
     image-caption: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
     image-copyright: © CollectorOfJack.com
-categories: [ Master Distiller, Jeff Arnett ]
+tags: [ Master Distiller, Jeff Arnett ]
 keywords: "jack daniels, jeff arnett, master distiller, signature"
-last_modified_at: '2024-07-01T15:55:45+00:00'
-product: false 
+updateDate: 2024-07-01T15:55:45+00:00
+product: false
+author: chris
 ---
-
 September is the accepted Birth Month of Jack Daniel's, so every September there is a month long celebration with photos and stories that are posted online. This month however is a little different, it was announced yesterday that Master Distiller Jeff Arnett will be stepping down at the end of September 2020, and leaving Jack Daniel's. No further details have been provided, is he retiring, going somewhere else?
 
 Jeff was brought on to replace Jimmy 'Bobo' Bedford in 2008 and was listed as the 7th Master Distiller, Number 7, for this iconic brand. There is debate nowadays as to weather he is actually number 7, or number 8, as the Jack Daniel's brand starts to recognize Nathan 'Nearest' Green and his importance to the history of the business.
@@ -43,3 +42,4 @@ Word is that Brown Foreman will make the announcement for Jeff's replacement in 
 Will the brand try to fill the role with someone who provides more diversity to the brand? In today's day and age, I would assume that BF is looking at this as an option.
 
 I don't know that I have an opinion as to which direction they should go, but I look forward to following along as the brand continues to mature and age.
+

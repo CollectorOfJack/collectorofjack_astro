@@ -1,30 +1,29 @@
 ---
-layout: post
 title: Jack Daniels Special Release Coy Hill High Proof
-date: '2022-03-17T00:14:00+00:00'
-last_modified_at: '2024-07-01T15:55:45+00:00'
+publishDate: 2022-03-17T00:14:00+00:00
+updateDate: 2024-07-01T15:55:45+00:00
 permalink: JackDanielsSpecialReleaseCoyHillHighProof
-image: 56/CoyHill-1.jpg
+image: ~/assets/images/fullsized/56/CoyHill-1.jpg
 description: "Jack Daniels Special Release Coy Hill High Proof, an extremely high proof whiskey released in 2021"
 keywords: "Coy Hill, Special Release, High Proof, Jack Daniel"
 gallery:
   JackDanielsCoyHill:
-  - image_path: 56/CoyHill-1.jpg
+  - image_path: ~/assets/images/fullsized/56/CoyHill-1.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
-  - image_path: 56/CoyHill-2.jpg
+  - image_path: ~/assets/images/fullsized/56/CoyHill-2.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
-  - image_path: 56/CoyHill-3.jpg
+  - image_path: ~/assets/images/fullsized/56/CoyHill-3.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
-  - image_path: 56/CoyHill-4.jpg
+  - image_path: ~/assets/images/fullsized/56/CoyHill-4.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
-categories: [ Coy Hill, Special Release, High Proof ]
+tags: [ Coy Hill, Special Release, High Proof ]
 price: 1199.99
 brand: "Jack Daniel's"
- 
+author: chris
 ---
 For 2021 the Special Release from Jack Daniel's is known as the Coy Hill High Proof. It can come from one of two barrel houses up on Coy Hill near Lynchburg, #08 or #13.
 
@@ -36,7 +35,7 @@ It is a beautiful bottle, and if you can get your hands on one, I highly recomme
 
 ## The neck reads:
 > Special Release  
-> Bottling Date: 9.24.2021  
+> Bottling publishDate: 9.24.2021  
 > Master Distiller Chris Fletcher (signature)  
 > Barrel No.: 21-8252  
 > Barrel Entry: 8.17.12  
@@ -68,3 +67,4 @@ You'll be hard pressed to find this bottle for less than $500, with most going f
 
 ### Collector Of Jack's Value Assessment
 Coy Hill is one of the hardest to find bottles, if you can get one, you should scoop it up! I may have an extra bottle if you've got anything interesting to trade!
+

@@ -1,38 +1,38 @@
 ---
-layout: post
 title: Jack Daniel's Tennessee Bicentennial whiskey bottle
-date: '2020-09-02T23:40:40+00:00'
-last_modified_at: '2024-07-01T15:55:45+00:00'
+publishDate: 2020-09-02T23:40:40+00:00
+updateDate: 2024-07-01T15:55:45+00:00
 permalink: JackDanielsTennesseeBicentennial
-image: 33/JackDanielsBicentennial-1.jpg
+image: ~/assets/images/fullsized/33/JackDanielsBicentennial-1.jpg
 description: "1796-1996 A special release bottle from Jack Daniel's honoring the state of Tennessee's Bicentennial in 1996"
 keywords: "750ml, Bicentennial, 1996, Tennessee, Jack Daniel's" 
 gallery:
   JackDanielsTennesseeBicentennial:
-  - image_path: 33/JackDanielsBicentennial-1.jpg
+  - image_path: ~/assets/images/fullsized/33/JackDanielsBicentennial-1.jpg
     image-caption: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
     image-copyright: © CollectorOfJack.com
-  - image_path: 33/JackDanielsBicentennial-2.jpg
+  - image_path: ~/assets/images/fullsized/33/JackDanielsBicentennial-2.jpg
     image-caption: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
     image-copyright: © CollectorOfJack.com
-  - image_path: 33/JackDanielsBicentennial-3.jpg
+  - image_path: ~/assets/images/fullsized/33/JackDanielsBicentennial-3.jpg
     image-caption: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
     image-copyright: © CollectorOfJack.com
-  - image_path: 33/JackDanielsBicentennial-4.jpg
+  - image_path: ~/assets/images/fullsized/33/JackDanielsBicentennial-4.jpg
     image-caption: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
     image-copyright: © CollectorOfJack.com
-  - image_path: 33/JackDanielsBicentennial-5.jpg
+  - image_path: ~/assets/images/fullsized/33/JackDanielsBicentennial-5.jpg
     image-caption: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
     image-copyright: © CollectorOfJack.com
-  - image_path: 33/JackDanielsBicentennial-6.jpg
+  - image_path: ~/assets/images/fullsized/33/JackDanielsBicentennial-6.jpg
     image-caption: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
     image-copyright: © CollectorOfJack.com
-  - image_path: 33/JackDanielsBicentennial-7.jpg
+  - image_path: ~/assets/images/fullsized/33/JackDanielsBicentennial-7.jpg
     image-caption: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
     image-copyright: © CollectorOfJack.com
-categories: [ 750ml, Bicentennial, "1996", Tennessee ]
+tags: [ 750ml, Bicentennial, "1996", Tennessee ]
 price: 499.99
 brand: "Jack Daniel's"
+author: chris
 ---
 In 1995 Jack Daniel's released a 750ml bottle to celebrate the State of Tennessee's Bicentennial for the year 1996. This replica of the 1896 Centennial bottle that Jack Daniel produced in limited quantities was available in in the US, and in international markets in a 700ml size. It is said that Jack Daniel himself designed this bottle 100 years earlier for the Tennessee centennial.
 
@@ -61,3 +61,4 @@ The value of the Jack Daniel's Tennessee Bicentennial online ranges from $600 to
  
 ### Collector Of Jack's Value Assessment
 If you can find one of these bottles for less than $600 you need one of these in your collection! I might have an extra, feel free to reach out.
+

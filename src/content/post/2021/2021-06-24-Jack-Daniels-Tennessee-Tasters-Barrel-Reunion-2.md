@@ -1,30 +1,29 @@
 ---
-layout: post
 title: Jack Daniel's Tennessee Tasters' Series Barrel Reunion 2
-date: '2021-06-24T22:20:00+00:00'
-last_modified_at: '2024-07-01T15:55:45+00:00'
+publishDate: 2021-06-24T22:20:00+00:00
+updateDate: 2024-07-01T15:55:45+00:00
 permalink: BarrelReunion2
-image: 48/BarrelReunion2-1.jpg
+image: ~/assets/images/fullsized/48/BarrelReunion2-1.jpg
 description: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
 gallery:
   BarrelReunion2:
-  - image_path: 48/BarrelReunion2-1.jpg
+  - image_path: ~/assets/images/fullsized/48/BarrelReunion2-1.jpg
     image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
-  - image_path: 48/BarrelReunion2-2.jpg
+  - image_path: ~/assets/images/fullsized/48/BarrelReunion2-2.jpg
     image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
-  - image_path: 48/BarrelReunion2-3.jpg
+  - image_path: ~/assets/images/fullsized/48/BarrelReunion2-3.jpg
     image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
-  - image_path: 48/BarrelReunion2-4.jpg
+  - image_path: ~/assets/images/fullsized/48/BarrelReunion2-4.jpg
     image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
-categories: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series, Oatmeal Stout, Tasters ]
+tags: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series, Oatmeal Stout, Tasters ]
 price: 79.99
 brand: "Jack Daniel's"
+author: chris
 ---
-
 In the fall of 2019 Jack Daniel's released the fifth bottle in their [Tennessee Tasters' series]](/series/tasters-distillery), Barrel Reunion #2, Straight Tennessee Whiskey Finished in Oatmeal Stout Barrels.
 
 ## The label reads:
@@ -39,3 +38,4 @@ As with all the Tasters' Series these bottles were originally only available in 
 **Proof:** 92
 **Size:** 375ml  
 **Price:** $39.99  
+

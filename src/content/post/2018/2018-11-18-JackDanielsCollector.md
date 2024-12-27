@@ -1,20 +1,19 @@
 ---
-layout: post
 title: "Welcome to the Jack Daniel's Collector Blog"
 description: Our origin story for collecting Jack Daniel's. Read more about Chris Hammond and how this website started.
 keywords: "jack, daniel's, jd, whiskey, collection, collector, glasses, bottles, value, jack daniel, jack daniel's"
 type: article
-date: '2018-11-18T13:36:55+00:00'
-last_modified_at: '2024-11-15T10:55:45+00:00'
+publishDate: 2018-11-18T13:36:55+00:00
+updateDate: 2024-11-15T10:55:45+00:00
 permalink: JackDanielsCollector
-image: 1/post-bg1.jpg
+image: ~/assets/images/fullsized/1/post-bg1.jpg
 
 gallery:
   JackDanielsCollector:
-  - image_path: 1/CollectorOfJack-1.jpg
+  - image_path: ~/assets/images/fullsized/1/CollectorOfJack-1.jpg
     image-caption: Jack Daniel's Holiday Select Box
     image-copyright: © CollectorOfJack.com
-  - image_path: 1/CollectorOfJack-2.jpg
+  - image_path: ~/assets/images/fullsized/1/CollectorOfJack-2.jpg
     image-caption: Jack Daniel's Holiday Select Barrel
     image-copyright: © CollectorOfJack.com
 
@@ -24,8 +23,9 @@ redirect_from:
   - "about/"
   - "About/"
 
-categories: [ About ] 
+tags: [ About ] 
 product: false
+author: chris
 ---
 My name is [Chris Hammond](https://www.chrishammond.com/), I started my journey with Jack Daniel's at a young age. My father would have a Jack and Coke, every night after work. One and done, but as well as I can remember, it was a nightly ritual. I might have snuck a taste as a kid, but I wasn't a kid who drank in high school, it wasn't until college until I really had my first drink.
 
@@ -38,3 +38,4 @@ Why CollectorOfJack.com? I've been collecting Jack Daniel's bottles for many yea
 I've managed to acquire some extras over the years, and I'm hopeful that with this blog I'll be able to find other like minded folks, who perhaps have bottles to fill my gaps and possibly need some of the extras that I have in my collection.
 
 So, grab a glass of Old No. 7, maybe some ice if that suits you, and take a look around here as I [document all things Jack Daniel's](/)!
+

@@ -1,30 +1,29 @@
 ---
-layout: post
 title: Jack Daniel's 125th Anniversary Red Dog Saloon
-date: '2019-06-18T17:16:06+00:00'
+publishDate: 2019-06-18T17:16:06+00:00
 permalink: RedDogSaloon
-image: 13/RedDogSaloon-1.jpg
+image: ~/assets/images/fullsized/13/RedDogSaloon-1.jpg
 description: A collector's guide to the Jack Daniel's ode to the Red Dog Saloon release
 gallery:
   RedDogSaloon:
-  - image_path: 13/RedDogSaloon-1.jpg
+  - image_path: ~/assets/images/fullsized/13/RedDogSaloon-1.jpg
     image-caption: Jack Daniel's ode to the Red Dog Saloon release
     image-copyright: © CollectorOfJack.com
-  - image_path: 13/RedDogSaloon-2.jpg
+  - image_path: ~/assets/images/fullsized/13/RedDogSaloon-2.jpg
     image-caption: Jack Daniel's ode to the Red Dog Saloon release
     image-copyright: © CollectorOfJack.com
-  - image_path: 13/RedDogSaloon-3.jpg
+  - image_path: ~/assets/images/fullsized/13/RedDogSaloon-3.jpg
     image-caption: Jack Daniel's ode to the Red Dog Saloon release
     image-copyright: © CollectorOfJack.com
-  - image_path: 13/RedDogSaloon-4.jpg
+  - image_path: ~/assets/images/fullsized/13/RedDogSaloon-4.jpg
     image-caption: Jack Daniel's ode to the Red Dog Saloon release
     image-copyright: © CollectorOfJack.com
-categories: [ Red Dog Saloon, 750ml, Saloon, Lynchburg ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Red Dog Saloon, 750ml, Saloon, Lynchburg ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 149.99
 brand: "Jack Daniel's"
+author: chris
 ---
-  
 in 1892 Jack Daniel opened the Red Dog Saloon on the Lynchburg town square. While nothing remains of it but legend, the distillery decided to release a 125th anniversary bottle in 2017 to celebrate the occasion.    
    
 The bottle is adorned with black red white and gold decoration. One one side it reads:   
@@ -39,3 +38,4 @@ The Red Dog Saloon bottle is easy to find, you can find them online as of 12/31/
 **Release**: 2017   
 **Proof**: 86   
 **Size**: 750ml  
+

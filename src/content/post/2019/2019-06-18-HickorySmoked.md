@@ -1,34 +1,33 @@
 ---
-layout: post
 title: Tennessee Tasters' Hickory Smoked (2018)
-date: '2019-06-18T15:11:50+00:00'
-last_modified_at: '2024-07-08T15:55:45+00:00'
+publishDate: 2019-06-18T15:11:50+00:00
+updateDate: 2024-07-08T15:55:45+00:00
 permalink: HickorySmoked
-image: 4/HickorySmoked-1.jpg
+image: ~/assets/images/fullsized/4/HickorySmoked-1.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Hickory Smoked release "Tennessee Whiskey Finish with Charred Hickory Staves"
 gallery:
   HickorySmoked:
-  - image_path: 4/HickorySmoked-1.jpg
+  - image_path: ~/assets/images/fullsized/4/HickorySmoked-1.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
-  - image_path: 4/HickorySmoked-2.jpg
+  - image_path: ~/assets/images/fullsized/4/HickorySmoked-2.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
-  - image_path: 4/HickorySmoked-3.jpg
+  - image_path: ~/assets/images/fullsized/4/HickorySmoked-3.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
-  - image_path: 4/HickorySmoked-4.jpg
+  - image_path: ~/assets/images/fullsized/4/HickorySmoked-4.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
-  - image_path: 4/HickorySmoked-5.jpg
+  - image_path: ~/assets/images/fullsized/4/HickorySmoked-5.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
 
-categories: [ Distillery Series, TN Tasters, Tennessee Tasters, Tasters Series, 375ml, Hickory Smoked, Hickory, Tasters ]
+tags: [ Distillery Series, TN Tasters, Tennessee Tasters, Tasters Series, 375ml, Hickory Smoked, Hickory, Tasters ]
 price: 199.99
 brand: "Jack Daniel's"
+author: chris
 ---
-
 In my previous blog post I talked about the [Tennessee Tasters'](/series/tasters-distillery) High Angel's Share Barrels, in this post I cover the second release in the series, Hickory Smoked. The bottle is labelled as "Tennessee Whiskey Finish with Charred Hickory Staves". 
 
 > **Smoked Hickory Finish** - a fully matured whiskey finished with charred hickory staves for a smoky flavor at 100-proof, just in time for the 30<sup>th</sup> annual Jack Daniel's World Championship Invitational BBQ which is held in Lynchburg on Oct. 27. Selected by Master Taster Marsha Hale and available late-October.     
@@ -44,4 +43,5 @@ I have yet to decide if I will try these bottles myself. I do have two of each, 
 **Proof**: 100  
 **Size**: 375ml  
 **Price**: $49
+
 

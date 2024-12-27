@@ -1,47 +1,47 @@
 ---
-layout: post
 title: Jack Daniel's Single Barrel Eric Church (2019)
-date: '2019-11-07T17:28:17+00:00'
+publishDate: 2019-11-07T17:28:17+00:00
 permalink: JackDanielsEricChurch
-image: 24/EricChurch-5.jpg
+image: ~/assets/images/fullsized/24/EricChurch-5.jpg
 description: A collector's guide to the Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
 gallery:
   JackDanielsEricChurch:
-  - image_path: 24/EricChurch-1.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-1.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-  - image_path: 24/EricChurch-2.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-2.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-  - image_path: 24/EricChurch-3.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-3.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-  - image_path: 24/EricChurch-4.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-4.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-  - image_path: 24/EricChurch-5.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-5.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-  - image_path: 24/EricChurch-6.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-6.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-  - image_path: 24/EricChurch-7.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-7.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-  - image_path: 24/EricChurch-8.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-8.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-  - image_path: 24/EricChurch-9.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-9.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-  - image_path: 24/EricChurch-10.jpg
+  - image_path: ~/assets/images/fullsized/24/EricChurch-10.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-categories: [ 750ml, Single Barrel, Music ]
+tags: [ 750ml, Single Barrel, Music ]
 
-last_modified_at: '2024-07-01T15:55:45+00:00'
+updateDate: 2024-07-01T15:55:45+00:00
 price: 249.99
 brand: "Jack Daniel's"
+author: chris
 ---
 *This post is for the 2019 version of the Eric Church bottle!*
 
@@ -59,3 +59,4 @@ You can still find the bottle online at some retailers.
 **Proof**: 94   
 **Size**: 750ml  
 **Price**: $65+  
+

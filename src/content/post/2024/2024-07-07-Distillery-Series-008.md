@@ -1,27 +1,27 @@
 ---
-layout: post
 title: "Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels"
-date: '2024-07-07T15:00:00+00:00'
+publishDate: 2024-07-07T15:00:00+00:00
 permalink: DistillerySeries008
-image: 75/DistillerySeries008-1.jpg
+image: ~/assets/images/fullsized/75/DistillerySeries008-1.jpg
 description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 008, Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Maple"
-author: ChrisHammond
+
 gallery:
   DistillerySeries008:
-  - image_path: 75/DistillerySeries008-1.jpg
+  - image_path: ~/assets/images/fullsized/75/DistillerySeries008-1.jpg
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 75/DistillerySeries008-2.jpg
+  - image_path: ~/assets/images/fullsized/75/DistillerySeries008-2.jpg
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 75/DistillerySeries008-3.jpg
+  - image_path: ~/assets/images/fullsized/75/DistillerySeries008-3.jpg
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Front from Angle
     image-copyright: CollectorOfJack.com
-categories: [ Distillery Series, Tasters, Box, 375ml, Rye, Maple ]
+tags: [ Distillery Series, Tasters, Box, 375ml, Rye, Maple ]
 price: 69.99
 brand: "Jack Daniel's"
-last_modified_at: '2024-07-08T23:23:45+00:00'
+updateDate: 2024-07-08T23:23:45+00:00
+author: chris
 ---
 With the July 2022 release of the Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Jack Daniel's has changed from the Tennessee Tasters Series to the [Jack Daniel's Distillery Series](/series/tasters-distillery). With the series change comes a few additional things that change with the releases going forward. 
 

@@ -1,28 +1,28 @@
 ---
-layout: post
 title: Jack Daniels Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
-date: '2021-08-09T00:10:00+00:00'
-last_modified_at: '2024-07-01T15:55:45+00:00'
+publishDate: 2021-08-09T00:10:00+00:00
+updateDate: 2024-07-01T15:55:45+00:00
 permalink: TwinBlend
-image: 52/TwinBlend-1.jpg
+image: ~/assets/images/fullsized/52/TwinBlend-1.jpg
 description: Jack Daniel's Tennessee Tasters' 14E19 "Twin" Blend | Whiskey
 gallery:
   JackDanielsTwinBlend:
-  - image_path: 52/TwinBlend-1.jpg
+  - image_path: ~/assets/images/fullsized/52/TwinBlend-1.jpg
     image-caption: Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: 52/TwinBlend-2.jpg
+  - image_path: ~/assets/images/fullsized/52/TwinBlend-2.jpg
     image-caption: Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: 52/TwinBlend-3.jpg
+  - image_path: ~/assets/images/fullsized/52/TwinBlend-3.jpg
     image-caption: Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: 52/TwinBlend-4.jpg
+  - image_path: ~/assets/images/fullsized/52/TwinBlend-4.jpg
     image-caption: Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
     image-copyright: © CollectorOfJack.com
-categories: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series Tasters, Tasters ]
+tags: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series Tasters, Tasters ]
 price: 89.99
 brand: "Jack Daniel's"
+author: chris
 ---
 The latest release in the [Tennessee Tasters' series](/series/tasters-distillery) is the 14E19 "Twin" Blend Whiskey. This particular release is from Fall 2020, and contains Straight Tennessee Whiskey blended with Straight Tennessee Rye Whiskey.
 
@@ -48,3 +48,4 @@ You may or may not be able to find yourself a bottle of this. As with all the TN
 **Proof:** 107
 **Size:** 375ml  
 **Price:** $42.99  
+

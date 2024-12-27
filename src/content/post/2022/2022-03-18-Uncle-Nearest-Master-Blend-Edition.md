@@ -1,28 +1,28 @@
 ---
-layout: post
 title: Uncle Nearest Master Blend Edition
-date: '2022-03-18T00:14:00+00:00'
+publishDate: 2022-03-18T00:14:00+00:00
 permalink: UncleNearestMasterBlendEdition
-image: 57/UncleNearestMasterBlend-1.jpg
+image: ~/assets/images/fullsized/57/UncleNearestMasterBlend-1.jpg
 description: Uncle Nearest Master Blend Edition available only at the distillery
 gallery:
   UncleNearestMasterBlend:
-  - image_path: 57/UncleNearestMasterBlend-1.jpg
+  - image_path: ~/assets/images/fullsized/57/UncleNearestMasterBlend-1.jpg
     image-caption: Uncle Nearest Master Blend Edition available only at the distillery
     image-copyright: CollectorOfJack.com
-  - image_path: 57/UncleNearestMasterBlend-2.jpg
+  - image_path: ~/assets/images/fullsized/57/UncleNearestMasterBlend-2.jpg
     image-caption: Uncle Nearest Master Blend Edition available only at the distillery
     image-copyright: CollectorOfJack.com
-  - image_path: 57/UncleNearestMasterBlend-3.jpg
+  - image_path: ~/assets/images/fullsized/57/UncleNearestMasterBlend-3.jpg
     image-caption: Uncle Nearest Master Blend Edition available only at the distillery
     image-copyright: CollectorOfJack.com
-  - image_path: 57/UncleNearestMasterBlend-4.jpg
+  - image_path: ~/assets/images/fullsized/57/UncleNearestMasterBlend-4.jpg
     image-caption: Uncle Nearest Master Blend Edition available only at the distillery
     image-copyright: CollectorOfJack.com
-categories: [ Uncle Nearest, Tennessee, Other, Nearest Green ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Uncle Nearest, Tennessee, Other, Nearest Green ]
+updateDate: 2024-07-01T15:55:45+00:00
 brand: "Uncle Nearest"
 price: 199
+author: chris
 ---
 In a previous post I covered the [Uncle Nearest 1820](https://collectorofjack.com/UncleNearest1820). On previous trips to Lynchburg Tennessee I had  tried to stop at the Uncle Nearest Distillery in Shelbyville, but the first time I stopped they were still under construction. The second time I stopped was their opening weekend, but it was still closed for a Green family event. Finally on March 4th of 2022 I was able to make a quick stop into the distillery.
 
@@ -58,4 +58,5 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Proof:** 122.9  
 **Size:** 750ml  
 **Price:** $149.99  
+
 

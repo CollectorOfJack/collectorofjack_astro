@@ -1,30 +1,29 @@
 ---
-layout: post
 title: Jim Beam Red Sox 2018 World Champions Bottle (World Series)
-date: '2021-03-05T10:00:00+00:00'
+publishDate: 2021-03-05T10:00:00+00:00
 permalink: 2018RedSoxWorldChampion
-image: 45/JimBeamWorldSeries-1.jpg
+image: ~/assets/images/fullsized/45/JimBeamWorldSeries-1.jpg
 description: 2018 Red Sox World Champions Jim Beam Bourbon
 gallery:
   2018RedSoxWorldChampion:
-  - image_path: 45/JimBeamWorldSeries-1.jpg
+  - image_path: ~/assets/images/fullsized/45/JimBeamWorldSeries-1.jpg
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
-  - image_path: 45/JimBeamWorldSeries-2.jpg
+  - image_path: ~/assets/images/fullsized/45/JimBeamWorldSeries-2.jpg
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
-  - image_path: 45/JimBeamWorldSeries-3.jpg
+  - image_path: ~/assets/images/fullsized/45/JimBeamWorldSeries-3.jpg
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
-  - image_path: 45/JimBeamWorldSeries-4.jpg
+  - image_path: ~/assets/images/fullsized/45/JimBeamWorldSeries-4.jpg
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
-categories: [ Other, Jim Beam, Red Sox, World Series ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Other, Jim Beam, Red Sox, World Series ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 199.99
 brand: "Jim Beam"
+author: chris
 ---
-
 In 2018 the Boston Red Sox won the MLB World Series. Jim Beam released a bottle celebrating this and I was fortunate enough to have a family member in massachusetts pick one up for me. I'm a HUGE Red Sox fan, always have been, even went to Game 4 of the 2004 World Series to see them win their first Championship in 86 years, so getting my hands on this bottle was exciting. For some reason I never got around to posting about it though, even though I took the pictures for it back in 2019!
 
 I don't have a whole lot of info on release for this bottle, I'm guessing it was limited to New England, but I don't know how limited it was. A quick search online doesn't return many results.
@@ -75,3 +74,4 @@ Searching online I realy haven't found much on purchasing this bottle. There are
 **Proof:** 80
 **Size:** 750ml  
 **Price:** $23.99 
+

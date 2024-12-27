@@ -1,58 +1,58 @@
 ---
-layout: post
 title: Jack Daniel's Before and After Release
-date: '2019-12-29T05:11:58+00:00'
+publishDate: 2019-12-29T05:11:58+00:00
 permalink: before-after
-image: 28/BeforeAndAfter-1.jpg
+image: ~/assets/images/fullsized/28/BeforeAndAfter-1.jpg
 description: A collector's guide to the Jack Daniel's Before and After Charcoal Mellowing release 
 gallery:
   BeforeAndAfter:
-  - image_path: 28/BeforeAndAfter-1.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-1.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-2.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-2.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-3.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-3.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-4.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-4.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-5.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-5.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-6.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-6.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-7.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-7.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-8.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-8.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-9.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-9.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-10.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-10.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-11.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-11.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-12.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-12.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-13.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-13.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: 28/BeforeAndAfter-14.jpg
+  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-14.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-categories: [ Before & After, 375ml, Lynchburg ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Before & After, 375ml, Lynchburg ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 299.99
 brand: "Jack Daniel's"
+author: chris
 ---
 In the fall of 2019 rumors started swirling online of a new release available at the White Rabbit Bottleshop in Lynchburg, of a Before and After set. Two bottles of unmatured Old No. 7, one BEFORE Charcoal Mellowing and one AFTER Charcoal Mellowing, along with a small bottle of Hard Sugar Maple Charcoal in between the two bottles. The BEFORE bottle on the left, the AFTER on the right.
 
@@ -76,3 +76,4 @@ One last thing, the bottle mentions a URL, jackdaniels.com/BEFORE-AFTER but as o
 **Proof**: 80   
 **Size**: 375ml x2  
 **Price**: $30  
+

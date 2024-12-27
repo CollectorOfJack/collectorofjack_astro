@@ -1,46 +1,45 @@
 ---
-layout: post
 title: Jack Daniel's 160th Birthday Bottle 1850-2010
-date: '2020-09-16T10:00:00+00:00'
+publishDate: 2020-09-16T10:00:00+00:00
 permalink: JackDanielBirthday160Bottle
-image: 37/CollectorOfJack-15.jpg
+image: ~/assets/images/fullsized/37/CollectorOfJack-15.jpg
 description: Mr. Jack's 160th Birthday 1850 to 2010
 gallery:
   JackDanielBirthday160Bottle:
-  - image_path: 37/CollectorOfJack-11.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-11.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: 37/CollectorOfJack-12.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-12.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: 37/CollectorOfJack-13.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-13.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: 37/CollectorOfJack-14.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-14.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: 37/CollectorOfJack-15.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-15.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: 37/CollectorOfJack-16.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-16.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: 37/CollectorOfJack-17.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-17.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: 37/CollectorOfJack-18.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-18.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: 37/CollectorOfJack-19.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-19.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: 37/CollectorOfJack-20.jpg
+  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-20.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-categories: [ Master Distiller, Birthday ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Master Distiller, Birthday ]
+updateDate: 2024-07-01T15:55:45+00:00
+author: chris
 ---
-
 In 2010, the Jack Daniel's distillery released a beautiful black bottle for Jack Daniel's 160th birthday. No one is actually sure what day in the month of September is his actual birthday, so they celebrate all month long in Lynchburg Tennessee. The bottle came with a black box, both adorned in white silver and red accents.
 
 I figured September 2020 was a good time to post this! We're halfway through the month of September, so Happy Birthday Jasper Newton Daniel!
@@ -72,3 +71,4 @@ You can find the bottle online, listed around $570 as of September 2020.
 **Proof:** 80  
 **Size:** 750ml  
 **Price:** $29.99 
+

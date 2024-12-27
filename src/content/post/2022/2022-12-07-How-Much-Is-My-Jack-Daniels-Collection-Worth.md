@@ -1,20 +1,20 @@
 ---
-layout: post
 title: "How Much Is My Jack Daniels Collection Worth?"
-date: '2022-12-20T21:30:00+00:00'
-last_modified_at: '2024-07-01T15:55:45+00:00'
+publishDate: 2022-12-20T21:30:00+00:00
+updateDate: 2024-07-01T15:55:45+00:00
 permalink: HowMuchIsMyJackDanielsCollectionWorth
 type: article
 keywords: "Jack Daniel's, Collection, Value, Estimate, Tracker, Worth"
-image: 64/Collection-1.jpg
+image: ~/assets/images/fullsized/64/Collection-1.jpg
 description: "Putting a value on your bottles in your Jack Daniel's collection, we'll help you to start to do that."
 gallery:
   HowMuchIsMyJackDanielsCollectionWorth:
-  - image_path: 64/Collection-1.jpg
+  - image_path: ~/assets/images/fullsized/64/Collection-1.jpg
     image-caption: Jack Daniel's Collection
     image-copyright: CollectorOfJack.com
-categories: [ Collection, Value, Appraisal ]
+tags: [ Collection, Value, Appraisal ]
 product: false
+author: chris
 ---
 We get asked this question a lot.  "How much is my Jack Daniels collection worth?"  The answer is, it depends.  There are a lot of factors that go into determining the value of a collection.  We will try to cover some things, but likely not all, that go into evaluating a liquor collection.
 
@@ -69,4 +69,5 @@ Do you want to sell them all at once or one at a time?
 Do you want to sell them to a private collector or a retailer?  
 
 If you are in our around St. Louis (5-6 hour radius) and interested in selling, [be sure to reach out to me](/contact). I might be interested.
+
 

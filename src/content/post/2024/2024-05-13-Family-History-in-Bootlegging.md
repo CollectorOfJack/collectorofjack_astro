@@ -1,38 +1,38 @@
 ---
-layout: post
 title: "Family ties to bootlegging during prohibition"
-date: '2024-05-13T14:00:00+00:00'
+publishDate: 2024-05-13T14:00:00+00:00
 permalink: familyhistorybootlegging
-image: 72/stillfound-1.jpg
+image: ~/assets/images/fullsized/72/stillfound-1.jpg
 description: "Discover the intriguing family history of Chris Hammond as he delves into his ancestral ties to the prohibition-era bootlegging on his blog. Uncover the story of the Butterbaugh farm raid in 1924, the largest still seizure in Pettis County, and explore the Hammond family’s complex genealogy. Join Chris on a nostalgic journey through time, piecing together a legacy intertwined with whiskey and the law. "
 keywords: "Sedalia, Missouri, Prohibition, Butterbaugh, Whiskey, Corn Whiskey, Still"
-author: ChrisHammond
+
 gallery:
   ButterbaughWhiskey:
-  - image_path: 72/stillfound-1.jpg
+  - image_path: ~/assets/images/fullsized/72/stillfound-1.jpg
     image-caption: Sedalia Capital May 13th, 1924 Front Page. This image was put together with multiple scans of an obviously deteriorating newspaper
     image-copyright: CollectorOfJack.com
-  - image_path: 72/stillfound-2.jpg
+  - image_path: ~/assets/images/fullsized/72/stillfound-2.jpg
     image-caption: Still drawing from Sedalia Capital Front Page
     image-copyright: CollectorOfJack.com
-  - image_path: 72/stillfound-3-1.jpg
+  - image_path: ~/assets/images/fullsized/72/stillfound-3-1.jpg
     image-caption: Sedalia Democrat Article May 13th, 1924 Front Page
     image-copyright: CollectorOfJack.com
-  - image_path: 72/stillfound-3-2.jpg
+  - image_path: ~/assets/images/fullsized/72/stillfound-3-2.jpg
     image-caption: Sedalia Democrat Article May 13th, 1924 Front Page second half
     image-copyright: CollectorOfJack.com
-  - image_path: 72/stillfound-4.jpg
+  - image_path: ~/assets/images/fullsized/72/stillfound-4.jpg
     image-caption: Jefferson City Post Tribute October 21, 1924 Page 1
     image-copyright: CollectorOfJack.com
-  - image_path: 72/stillfound-5.jpg
+  - image_path: ~/assets/images/fullsized/72/stillfound-5.jpg
     image-caption: St. Louis Globe Democrat May 19, 1924 Page 8
     image-copyright: CollectorOfJack.com
-  - image_path: 72/stillfound-6.jpg
+  - image_path: ~/assets/images/fullsized/72/stillfound-6.jpg
     image-caption: Sedalia Democrat October 21, 1924 Page 1
     image-copyright: CollectorOfJack.com
-categories: [ Family History, Sedalia, Whiskey Still, Raid, Seized ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Family History, Sedalia, Whiskey Still, Raid, Seized ]
+updateDate: 2024-07-01T15:55:45+00:00
 product: false
+author: chris
 ---
 As we get older, we get more nostalgic. As both my parents have aged, my brother and I have spent time going through things they have kept/collected throughout the years. In doing so, you come across all sorts of interesting things, I feel like the older you get, the more interesting some of those things become.
 
@@ -89,4 +89,5 @@ In doing research for this article, I came across multiple short blurbs in newsp
 Stay tuned for another Hammond family history post next month as I get into the topic of Mattie Corrine Hammond! I'll post that over on [HorsesAndCars.com](https://www.horsesandcars.com) as it doesn't have a whiskey tie into it (that I've found).
 
 [Here's another Hammond Family history article that is actually a transcription from something that Susan E. Hammond wrote before she passed](https://www.horsesandcars.com/hammond-family-history-1800s).
+
 

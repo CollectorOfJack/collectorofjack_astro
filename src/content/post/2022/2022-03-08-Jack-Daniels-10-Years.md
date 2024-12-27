@@ -1,28 +1,28 @@
 ---
-layout: post
 title: Jack Daniels 10-Years Tennessee Whiskey
-date: '2022-03-08T00:14:00+00:00'
+publishDate: 2022-03-08T00:14:00+00:00
 permalink: JackDaniels10Year
-image: 55/10Year-1.jpg
+image: ~/assets/images/fullsized/55/10Year-1.jpg
 description: Jack Daniels 10-Years Old Tennessee Whiskey
 gallery:
   JackDaniels10Year:
-  - image_path: 55/10Year-1.jpg
+  - image_path: ~/assets/images/fullsized/55/10Year-1.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: 55/10Year-2.jpg
+  - image_path: ~/assets/images/fullsized/55/10Year-2.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: 55/10Year-3.jpg
+  - image_path: ~/assets/images/fullsized/55/10Year-3.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: 55/10Year-4.jpg
+  - image_path: ~/assets/images/fullsized/55/10Year-4.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-categories: [ 10 Years, 10 Years Old, Aged, 750ml ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ 10 Years, 10 Years Old, Aged, 750ml ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 299.99
 brand: "Jack Daniel's"
+author: chris
 ---
 For the first time in over 100 years, Jack Daniel's has released a bottle with an age statement on it. The initial release is aged 10 years, and is known as Jack Daniel's 10 Years Old Tennessee Whiskey. This bottle was released in September 2021, with availability being extremely hard to come by. It didn't hit stores in the eastern half of Missouri until February 2022, and was sold out quickly. 
 
@@ -52,3 +52,4 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Proof:** 97
 **Size:** 750ml  
 **Price:** $74.99  
+

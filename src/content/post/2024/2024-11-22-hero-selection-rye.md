@@ -1,46 +1,46 @@
 ---
-layout: post
 title: "Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye"
-date: '2024-11-22T10:45:00+00:00'
+publishDate: 2024-11-22T10:45:00+00:00
 permalink: 2024/heroselectionrye
-image: 82/HeroSelectionRye-2.jpg
+image: ~/assets/images/fullsized/82/HeroSelectionRye-2.jpg
 description: "The Jack Daniel's Heroes Selection is a limited-edition whiskey series honoring military personnel. Each year, a veteran selects a unique barrel for release."
 keywords: "Jack Daniel's, Military, Heroes Selection, Rye, Tennessee Rye Whiskey"
-author: ChrisHammond
+
 gallery:
   HeroSelectionRye:
-  - image_path: 82/HeroSelectionRye-2.jpg
+  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-2.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Front of Box
     image-copyright: CollectorOfJack.com
-  - image_path: 82/HeroSelectionRye-1.jpg
+  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-1.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Side of Box
     image-copyright: CollectorOfJack.com
-  - image_path: 82/HeroSelectionRye-3.jpg
+  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-3.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Side of Box
     image-copyright: CollectorOfJack.com
-  - image_path: 82/HeroSelectionRye-9.jpg
+  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-9.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Rear of Box
     image-copyright: CollectorOfJack.com
-  - image_path: 82/HeroSelectionRye-4.jpg
+  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-4.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 82/HeroSelectionRye-5.jpg
+  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-5.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Front of Bottle second dog tag
     image-copyright: CollectorOfJack.com
-  - image_path: 82/HeroSelectionRye-6.jpg
+  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-6.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 82/HeroSelectionRye-7.jpg
+  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-7.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Rear of Bottle v2
     image-copyright: CollectorOfJack.com
-  - image_path: 82/HeroSelectionRye-8.jpg
+  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-8.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Bottle Neck
     image-copyright: CollectorOfJack.com
 
-categories: [ Heroes Selection, Box, 750ml, Rye, Barrel Proof ]
+tags: [ Heroes Selection, Box, 750ml, Rye, Barrel Proof ]
 price: $89
 brand: "Jack Daniel's"
-# last_modified_at: '2024-11-22T10:45:00+00:00'
+# updateDate: 2024-11-22T10:45:00+00:00
+author: chris
 ---
 In today's post we cover one of Jack Daniel's latest releases, the Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye. The Jack Daniel's Heroes Selection is a limited-edition whiskey series honoring military personnel. Each year, a veteran selects a unique barrel for release. The 2024 edition, chosen by U.S. Navy Veteran Melvin Keebler, features a Single Barrel Barrel Proof Rye Whiskey with a mash bill of 70% rye, 18% corn, and 12% malted barley. Bottled at 125-140 proof, it offers rich caramel and toasted oak flavors with complex spices. Priced at $69.99, it is available at select military retail locations and supports Jack Daniel's initiatives like the Operation Ride Home campaign for military families.
 
@@ -109,3 +109,4 @@ Originally priced around $69, you may still be able to find this release on shel
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $125 pick it up!
+

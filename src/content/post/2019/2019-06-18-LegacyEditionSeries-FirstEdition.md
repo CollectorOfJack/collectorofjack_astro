@@ -1,33 +1,32 @@
 ---
-layout: post
 title: Jack Daniel's Legacy Edition Series - First Edition
-date: '2019-06-18T15:20:11+00:00'
+publishDate: 2019-06-18T15:20:11+00:00
 permalink: LegacyEditionSeries-FirstEdition
-image: 6/LegacyEditionSeriesFirstEdition-1.jpg
+image: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-1.jpg
 description: A collector's guide to the Jack Daniel's Legacy Edition Series First Edition release, the green label
 gallery:
   LegacyEditionSeries-FirstEdition:
-  - image_path: 6/LegacyEditionSeriesFirstEdition-1.jpg
+  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-1.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: 6/LegacyEditionSeriesFirstEdition-2.jpg
+  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-2.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: 6/LegacyEditionSeriesFirstEdition-3.jpg
+  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-3.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: 6/LegacyEditionSeriesFirstEdition-4.jpg
+  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-4.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: 6/LegacyEditionSeriesFirstEdition-5.jpg
+  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-5.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-categories: [ Legacy, 750ml ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Legacy, 750ml ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 149.99
 brand: "Jack Daniel's"
+author: chris
 ---
-   
 The Jack Daniel's Legacy Edition Series is a new line of bottles, with the First Edition, being released in fall 2018. The bottle sells for about the same price as your average 1/5th (750ml) of Old No. 7, and can be found in markets all over the United States (from our own experience we have found it in Nebraska and Missouri so far).   
 
   
@@ -39,5 +38,6 @@ It'll be interesting to see what additional bottles are released under the Legac
 **Proof**: 86   
 **Size**: 750ml  
 **Price**: $35   
+
 
 

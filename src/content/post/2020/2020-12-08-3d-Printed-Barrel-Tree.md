@@ -1,38 +1,37 @@
 ---
-layout: post
 title: DIY 3d Printed Barrel Tree
-date: '2020-12-08T20:00:00+00:00'
+publishDate: 2020-12-08T20:00:00+00:00
 permalink: 3DPrintedBarrelTree
-image: 42/BarrelTree-1.jpg
+image: ~/assets/images/fullsized/42/BarrelTree-1.jpg
 description: Jack Daniel's DIY Project
 gallery:
   3DPrintedBarrelTree:
-  - image_path: 42/BarrelTree-1.jpg
+  - image_path: ~/assets/images/fullsized/42/BarrelTree-1.jpg
     image-caption: Jack Daniel's DIY 3D Printed Barrel Tree Project
     image-copyright: © CollectorOfJack.com
-  - image_path: 42/BarrelTree-2.jpg
+  - image_path: ~/assets/images/fullsized/42/BarrelTree-2.jpg
     image-caption: First full barrels with supports
     image-copyright: © CollectorOfJack.com
-  - image_path: 42/BarrelTree-3.jpg
+  - image_path: ~/assets/images/fullsized/42/BarrelTree-3.jpg
     image-caption: Failed print of 9 barrels
     image-copyright: © CollectorOfJack.com
-  - image_path: 42/BarrelTree-4.jpg
+  - image_path: ~/assets/images/fullsized/42/BarrelTree-4.jpg
     image-caption: 4 barrels inside of a barrel bottom that I stopped printing
     image-copyright: © CollectorOfJack.com
-  - image_path: 42/BarrelTree-5.jpg
+  - image_path: ~/assets/images/fullsized/42/BarrelTree-5.jpg
     image-caption: 3 of 4 barrels stained
     image-copyright: © CollectorOfJack.com
-  - image_path: 42/BarrelTree-6.jpg
+  - image_path: ~/assets/images/fullsized/42/BarrelTree-6.jpg
     image-caption: 6 bottomless barrels
     image-copyright: © CollectorOfJack.com
-  - image_path: 42/BarrelTree-7.jpg
+  - image_path: ~/assets/images/fullsized/42/BarrelTree-7.jpg
     image-caption: Testing tree configurations some pre-stain
     image-copyright: © CollectorOfJack.com
-categories: [ Holiday, Barrel Tree ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Holiday, Barrel Tree ]
+updateDate: 2024-07-01T15:55:45+00:00
 product: false
+author: chris
 ---
-
 I am simply not sure if I'll make it to Lynchburg this year or not to see the Barrel Tree. I had really hoped to, but with everything going on, it simply doesn't look like that trip will happen. 
 
 For the past few weeks I've been slowly printing my own barrel tree! Via a work whiskey Facebook group I came across someone who was 3D printing barrels, and mentioned being able to stain them, which to me meant that they were wood.
@@ -54,3 +53,4 @@ I'm thinking I'll keep the barrel tree for next year and add a layer or town to 
 In the photos below you'll find the finished product, as well as an assortment of photos throughout the build.
 
 I went ahead and uploaded my STL file to Thingiverse if you want to try to print your own barrels. [Thingiverse Link](https://www.thingiverse.com/thing:4680524)
+

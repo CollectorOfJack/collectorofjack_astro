@@ -1,52 +1,51 @@
 ---
-layout: post
 title: My first whiskey tasting event
-date: '2020-02-13T05:01:49+00:00'
+publishDate: 2020-02-13T05:01:49+00:00
 permalink: my-first-whiskey-tasting-event
-image: 29/2-7-2020-9.jpg
+image: ~/assets/images/fullsized/29/2-7-2020-9.jpg
 redirect_from: 
   - "a-jack-daniel-s-collector-blog/my-first-whiskey-tasting-event"
 description: Just before Covid, I held my first whiskey tasting, and it was a blast!
 gallery:
   FirstWhiskeyTasting:
-  - image_path: 29/2-7-2020-1.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-1.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-2.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-2.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-3.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-3.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-4.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-4.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-5.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-5.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-6.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-6.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-7.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-7.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-8.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-8.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-9.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-9.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-10.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-10.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-  - image_path: 29/2-7-2020-11.jpg
+  - image_path: ~/assets/images/fullsized/29/2-7-2020-11.jpg
     image-caption: Whiskey tasting photos
     image-copyright: © CollectorOfJack.com
-categories: [ Friends, Tasting ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Friends, Tasting ]
+updateDate: 2024-07-01T15:55:45+00:00
 product: false
+author: chris
 ---
-
 I've been threatening for months that I was going to have a whiskey tasting event, this past Friday I finally did it. This post contains an overview of how I planned, how the event went and what lessons learned for future events.
 
 ## Planning
@@ -111,3 +110,4 @@ If I do this again in the future, no, not if, WHEN I do this again in the future
 I am already trying to figure out when the next one is, likely in April 2020. 
 
 Thinking I've got enough special edition Jack Daniel's bottles we can crack open (in my drinkable selection) that we might just do a Night Dedicated To Jack Daniels. 
+

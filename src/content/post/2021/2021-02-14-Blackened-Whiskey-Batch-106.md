@@ -1,36 +1,35 @@
 ---
-layout: post
 title: Blackened American Whiskey Batch 106 S&M2
-date: '2021-02-14T20:00:00+00:00'
+publishDate: 2021-02-14T20:00:00+00:00
 permalink: BlackenedBatch106
-image: 44/BlackenedBatch106-1.jpg
+image: ~/assets/images/fullsized/44/BlackenedBatch106-1.jpg
 description: Metallica S&M2 Whiskey
 gallery:
   BlackenedBatch106:
-  - image_path: 44/BlackenedBatch106-1.jpg
+  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-1.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: 44/BlackenedBatch106-2.jpg
+  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-2.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: 44/BlackenedBatch106-3.jpg
+  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-3.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: 44/BlackenedBatch106-4.jpg
+  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-4.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: 44/BlackenedBatch106-5.jpg
+  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-5.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: 44/BlackenedBatch106-6.jpg
+  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-6.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-categories: [ Other, Metallica, Blackened ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Other, Metallica, Blackened ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 149.99
 brand: "Blackened American Whiskey"
+author: chris
 ---
-
 In getting ready for this post I realized this is the first time I've actually blogged about Blackened. I've had a few bottles over the past couple of years, and will document some of those later on, but for now, here's batch 106.
 
 Blackened American Whiskey is a collaboration of whiskey between Metallica and the late Dave Pickerell. The premise is that the whiskey is finished in black brandy casks and blasted with low frequency sound waves of Metallica's music. Batch 106 is special because it is the S&M 2 release, marking the release of Metallica's S&M Concert with the San Francisco Symphony. The whiskey was finished with the music from that event, originally recorded in September 2019.
@@ -91,5 +90,6 @@ If you're looking for Blackened American Whiskey Batch 106, it can still be foun
 **Proof:** 90
 **Size:** 750ml  
 **Price:** $49
+
 
 

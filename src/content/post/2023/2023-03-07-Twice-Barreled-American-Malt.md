@@ -1,34 +1,34 @@
 ---
-layout: post
 title: "Jack Daniel's Twice Barreled American Single Malt 2022 Special Release"
-date: '2023-03-07T23:30:00+00:00'
+publishDate: 2023-03-07T23:30:00+00:00
 permalink: TwiceBarreledAmericanMalt
-image: 66/JackDanielsTwiceBarreled-1.jpg
+image: ~/assets/images/fullsized/66/JackDanielsTwiceBarreled-1.jpg
 description: "Explore the unique character of the Jack Daniel's Twice Barreled American Single Malt 2022 Special Release. This post delves into its distinct flavor profile, enhanced by double barreling and Oloroso Sherry Cask finishing, showcasing the innovation and craftsmanship of Jack Daniel's whiskey-making. Join us for an in-depth look at this exquisite collector's item"
 keywords: Jack Daniels, American Single Malt, Twice Barreled, 2022 Special Release, Heritage
-author: ChrisHammond
+
 gallery:
   TwiceBarreledMalt:
-  - image_path: 66/JackDanielsTwiceBarreled-1.jpg
+  - image_path: ~/assets/images/fullsized/66/JackDanielsTwiceBarreled-1.jpg
     image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
-  - image_path: 66/JackDanielsTwiceBarreled-2.jpg
+  - image_path: ~/assets/images/fullsized/66/JackDanielsTwiceBarreled-2.jpg
     image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
-  - image_path: 66/JackDanielsTwiceBarreled-3.jpg
+  - image_path: ~/assets/images/fullsized/66/JackDanielsTwiceBarreled-3.jpg
     image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
-  - image_path: 66/JackDanielsTwiceBarreled-4.jpg
+  - image_path: ~/assets/images/fullsized/66/JackDanielsTwiceBarreled-4.jpg
     image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
-  - image_path: 66/JackDanielsTwiceBarreled-5.jpg
+  - image_path: ~/assets/images/fullsized/66/JackDanielsTwiceBarreled-5.jpg
     image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
-categories: [ Heritage Barrel, Heritage, Twice Barreled, Single Malt, Special Release, 700ml, "2022" ]
+tags: [ Heritage Barrel, Heritage, Twice Barreled, Single Malt, Special Release, 700ml, "2022" ]
 
-last_modified_at: '2024-07-01T15:55:45+00:00'
+updateDate: 2024-07-01T15:55:45+00:00
 price: 269.99
 brand: "Jack Daniel's"
+author: chris
 ---
 It's been a while since I've blogged about a real bottle, that doesn't mean I haven't been collecting. I simply got it in my head that I needed the perfect backdrop for my photos.
 
@@ -67,3 +67,4 @@ Secondary for this bottle started out really high, north of $250, but fell towar
 
 ### Collector Of Jack's Value Assessment
 Don't spend more then $225 for a bottle. 
+

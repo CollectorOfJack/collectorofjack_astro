@@ -1,39 +1,38 @@
 ---
-layout: post
 title: Jack Daniel's Eric Church Single Barrel 2020
-date: '2020-08-31T23:45:40+00:00'
+publishDate: 2020-08-31T23:45:40+00:00
 permalink: EricChurchSingleBarrel2020
-image: 32/EricChurchSingleBarrel2020-1.jpg
+image: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-1.jpg
 description: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
 gallery:
   EricChurchSingleBarrel2020:
-  - image_path: 32/EricChurchSingleBarrel2020-1.jpg
+  - image_path: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-1.jpg
     image-caption: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
     image-copyright: © CollectorOfJack.com
-  - image_path: 32/EricChurchSingleBarrel2020-2.jpg
+  - image_path: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-2.jpg
     image-caption: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
     image-copyright: © CollectorOfJack.com
-  - image_path: 32/EricChurchSingleBarrel2020-3.jpg
+  - image_path: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-3.jpg
     image-caption: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
     image-copyright: © CollectorOfJack.com
-  - image_path: 32/EricChurchSingleBarrel2020-4.jpg
+  - image_path: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-4.jpg
     image-caption: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
     image-copyright: © CollectorOfJack.com
-  - image_path: 32/EricChurchSingleBarrel2020-5.jpg
+  - image_path: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-5.jpg
     image-caption: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
     image-copyright: © CollectorOfJack.com
-  - image_path: 32/EricChurchSingleBarrel2020-6.jpg
+  - image_path: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-6.jpg
     image-caption: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
     image-copyright: © CollectorOfJack.com
-  - image_path: 32/EricChurchSingleBarrel2020-7.jpg
+  - image_path: ~/assets/images/fullsized/32/EricChurchSingleBarrel2020-7.jpg
     image-caption: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
     image-copyright: © CollectorOfJack.com
-categories: [ 750ml, Single Barrel, Music ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ 750ml, Single Barrel, Music ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 249.99
 brand: "Jack Daniel's"
+author: chris
 ---
-
 In July/August 2020 Jack Daniel's released the 2020 version of the Eric Church Single Barrel Select bottle, a follow on release after their [2019 Eric Church Double Down Tour Single Barrel](https://collectorofjack.com/JackDanielsEricChurch). This year's bottle is a beautiful opaque black with a black and gold label. It came with a paper hang tag, also in black and gold.
 
 ## The front of the label, and the front of the hang tag reads:
@@ -84,4 +83,5 @@ You can still find the bottle online, though not at many locations that will shi
 **Proof:** 94  
 **Size:** 750ml  
 **Price:** $53.99  
+
 

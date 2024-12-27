@@ -1,28 +1,28 @@
 ---
-layout: post
 title: Jack Daniel's Tennessee Apple
-date: '2019-11-26T15:12:18+00:00'
+publishDate: 2019-11-26T15:12:18+00:00
 permalink: TennesseeApple
-image: 26/JackDanielsTennesseeApple-1.jpg
+image: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-1.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Apple flavored liquor
 gallery:
   TennesseeApple:
-  - image_path: 26/JackDanielsTennesseeApple-1.jpg
+  - image_path: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-1.jpg
     image-caption: Jack Daniel's Tennessee Apple flavored liquor
     image-copyright: © CollectorOfJack.com
-  - image_path: 26/JackDanielsTennesseeApple-2.jpg
+  - image_path: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-2.jpg
     image-caption: Jack Daniel's Tennessee Apple flavored liquor
     image-copyright: © CollectorOfJack.com
-  - image_path: 26/JackDanielsTennesseeApple-3.jpg
+  - image_path: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-3.jpg
     image-caption: Jack Daniel's Tennessee Apple flavored liquor
     image-copyright: © CollectorOfJack.com
-  - image_path: 26/JackDanielsTennesseeApple-4.jpg
+  - image_path: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-4.jpg
     image-caption: Jack Daniel's Tennessee Apple flavored liquor
     image-copyright: © CollectorOfJack.com
-categories: [ Apple, 750ml, Flavor ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Apple, 750ml, Flavor ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 39.99
 brand: "Jack Daniel's"
+author: chris
 ---
 With the release of Jack Honey and Fire over the past 10 years, it was time for Jack Daniel's to catch the apple train and release their own Tennessee Apple Liqueur. I was able to get some here in Missouri earlier this fall from lukasliquorstl.com (no longer active).
 
@@ -60,3 +60,4 @@ The bottle can be found at retailers everywhere, and as I understand it, is arou
 **Proof**: 70   
 **Size**: 750ml  
 **Price**: $23  
+

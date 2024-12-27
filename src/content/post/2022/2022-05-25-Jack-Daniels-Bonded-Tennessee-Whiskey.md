@@ -1,28 +1,28 @@
 ---
-layout: post
 title: Jack Daniel's Bonded Tennessee Whiskey
-date: '2022-05-25T20:00:00+00:00'
+publishDate: 2022-05-25T20:00:00+00:00
 permalink: JackDanielsBondedTennesseeWhiskey
-image: 59/Bonded-1.jpg
+image: ~/assets/images/fullsized/59/Bonded-1.jpg
 description: "The first of two new offerings from Jack Daniel's"
 gallery:
   JackDanielsBondedTennesseeWhiskey:
-  - image_path: 59/Bonded-1.jpg
+  - image_path: ~/assets/images/fullsized/59/Bonded-1.jpg
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: 59/Bonded-2.jpg
+  - image_path: ~/assets/images/fullsized/59/Bonded-2.jpg
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: 59/Bonded-3.jpg
+  - image_path: ~/assets/images/fullsized/59/Bonded-3.jpg
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: 59/Bonded-4.jpg
+  - image_path: ~/assets/images/fullsized/59/Bonded-4.jpg
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-categories: [ Bonded, Bottled in Bond, 100Proof, 700ml ]
-last_modified_at: '2024-07-10T23:55:45+00:00'
+tags: [ Bonded, Bottled in Bond, 100Proof, 700ml ]
+updateDate: 2024-07-10T23:55:45+00:00
 price: 45.99
 brand: "Jack Daniel's"
+author: chris
 ---
 For 2022 Jack Daniel's announced, and released, two new expressions. Both of these are released in a 700ml (and also a 1L version). The word on these releases is that they will be available regularly going forward, and are not limited releases like the 10 Year and Heritage barrels released over the last few years (more of those coming however).
 
@@ -58,4 +58,5 @@ I ended up picking up two bottles of this in Oklahoma City in early May 2022. Si
 **Proof:** 100  
 **Size:** 700ml  
 **Price:** $34.99  
+
 

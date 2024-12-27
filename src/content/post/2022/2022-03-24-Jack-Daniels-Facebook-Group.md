@@ -1,13 +1,13 @@
 ---
-layout: post
 title: "Jack Daniel's Facebook Group"
-date: '2022-03-24T00:00:00+00:00'
+publishDate: 2022-03-24T00:00:00+00:00
 permalink: JackDanielsFacebookGroup
-image: 58/Group-1.jpg
+image: ~/assets/images/fullsized/58/Group-1.jpg
 description: "Taken over by spammers, the good guys have won and gained control over a large Jack Daniel's Facebook Group"
-categories: [ Other ] 
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Other ] 
+updateDate: 2024-07-01T15:55:45+00:00
 product: false
+author: chris
 ---
 For the past 6 or 9 months, there has been a Jack Daniel's Facebook Group [Jack Daniels Tennessee Whiskey](https://www.facebook.com/groups/tennesseewhiskey) that has been controlled at first by someone in Vietnam, and then someone in another part of Asia, that has simply put, been over run by scammers and frauds.
 
@@ -32,3 +32,4 @@ While I am the sole admin right now, I have no visions of trying to maintain a f
 If you're looking for a place to buy/sell whiskey, this is not the group for you. This is a place to talk about Jack Daniel's and other Tennessee Whiskey, so grab a drink, have a seat, and stay for a while.
 
 [Jack Daniels Tennessee Whiskey](https://www.facebook.com/groups/tennesseewhiskey)
+

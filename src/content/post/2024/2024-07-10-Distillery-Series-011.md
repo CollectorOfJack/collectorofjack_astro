@@ -1,28 +1,28 @@
 ---
-layout: post
 title: "Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
-date: '2024-07-10T10:55:00+00:00'
+publishDate: 2024-07-10T10:55:00+00:00
 permalink: DistillerySeries011
-image: 78/DistillerySeries011-1.jpg
+image: ~/assets/images/fullsized/78/DistillerySeries011-1.jpg
 description: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Añejo, Tequila, Reunion"
-author: ChrisHammond
+
 gallery:
   DistillerySeries011:
-  - image_path: 78/DistillerySeries011-1.jpg
+  - image_path: ~/assets/images/fullsized/78/DistillerySeries011-1.jpg
     image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 78/DistillerySeries011-2.jpg
+  - image_path: ~/assets/images/fullsized/78/DistillerySeries011-2.jpg
     image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: 78/DistillerySeries011-3.jpg
+  - image_path: ~/assets/images/fullsized/78/DistillerySeries011-3.jpg
     image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
 
-categories: [ Distillery Series, Tasters, Box, 375ml, Añejo, Tequila, Reunion ]
+tags: [ Distillery Series, Tasters, Box, 375ml, Añejo, Tequila, Reunion ]
 price: 199.99
 brand: "Jack Daniel's"
-# last_modified_at: '2024-07-07T15:55:45+00:00'
+# updateDate: 2024-07-07T15:55:45+00:00
+author: chris
 ---
 Released in July 2023, the Straight Tennessee Whiskey Finished In Añejo Tequila Barrels was the fourth in the renamed [Distillery Series](/series/tasters-distillery) and number 11 overall when including the Tennessee Taster's line.
 

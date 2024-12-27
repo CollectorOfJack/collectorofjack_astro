@@ -1,33 +1,32 @@
 ---
-layout: post
 title: Tennessee Tasters' High Angel's Share Barrels (2018)
-date: '2019-06-18T15:07:41+00:00'
-last_modified_at: '2024-07-01T15:55:45+00:00'
+publishDate: 2019-06-18T15:07:41+00:00
+updateDate: 2024-07-01T15:55:45+00:00
 permalink: HighAngelsShare
-image: 3/AngelsShare-1.jpg
+image: ~/assets/images/fullsized/3/AngelsShare-1.jpg
 description: A collector's guide to the Jack Daniel's Tennessee Tasters' Series High Angel's Share, one of the best bottles you can try
 gallery:
   HighAngelsShare:
-  - image_path: 3/AngelsShare-1.jpg
+  - image_path: ~/assets/images/fullsized/3/AngelsShare-1.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series High Angel's Share
     image-copyright: © CollectorOfJack.com
-  - image_path: 3/AngelsShare-2.jpg
+  - image_path: ~/assets/images/fullsized/3/AngelsShare-2.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series High Angel's Share
     image-copyright: © CollectorOfJack.com
-  - image_path: 3/AngelsShare-3.jpg
+  - image_path: ~/assets/images/fullsized/3/AngelsShare-3.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series High Angel's Share
     image-copyright: © CollectorOfJack.com
-  - image_path: 3/AngelsShare-4.jpg
+  - image_path: ~/assets/images/fullsized/3/AngelsShare-4.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series High Angel's Share
     image-copyright: © CollectorOfJack.com
-  - image_path: 3/AngelsShare-5.jpg
+  - image_path: ~/assets/images/fullsized/3/AngelsShare-5.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series High Angel's Share
     image-copyright: © CollectorOfJack.com
-categories: [ Distillery Series, Tasters Series, 375ml, High Proof, "Angel's", Tasters, TN Tasters ]
+tags: [ Distillery Series, Tasters Series, 375ml, High Proof, "Angel's", Tasters, TN Tasters ]
 price: 249.99
 brand: "Jack Daniel's"
+author: chris
 ---
-
 In October 2018 Jack Daniel's put out a press release announcing a new [Tasters' Series](/series/tasters-distillery) of bottles/releases. I won't go into the full details of the press release, [you can read it here](http://pressroom.jackdaniels.com/jack-daniels-launches-limited-edition-tennessee-tasters-selection/), but I do want to document the releases as I acquire them! 
 
 Towards the end of the month they released the first two bottles in the series, High Angel's Share Barrels and Smoked Hickory Finish. This post is about the High Angel's Share Barrels release.
@@ -45,3 +44,4 @@ Lucky for me they did! A big shout out to K-n-K for picking them up for me. Here
 **Proof**: 107  
 **Size**: 375ml  
 **Price**: $49
+

@@ -1,35 +1,35 @@
 ---
-layout: post
 title: Gentleman Jack Limited Edition Time Piece Bottle
-date: '2019-06-18T14:58:04+00:00'
+publishDate: 2019-06-18T14:58:04+00:00
 permalink: GentlemanJackTimePiece
-image: 2/Day1-4.jpg
+image: ~/assets/images/fullsized/2/Day1-4.jpg
 description: A collector's guide to the Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
 gallery:
   GentlemanJackTimePiece:
-  - image_path: 2/Day1-4.jpg
+  - image_path: ~/assets/images/fullsized/2/Day1-4.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: 2/Day1-5.jpg
+  - image_path: ~/assets/images/fullsized/2/Day1-5.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: 2/Day1-6.jpg
+  - image_path: ~/assets/images/fullsized/2/Day1-6.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: 2/Day1-7.jpg
+  - image_path: ~/assets/images/fullsized/2/Day1-7.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: 2/Day1-8.jpg
+  - image_path: ~/assets/images/fullsized/2/Day1-8.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: 2/Day1-9.jpg
+  - image_path: ~/assets/images/fullsized/2/Day1-9.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
 
-categories: [ Limited Edition, Gentleman Jack, 1L ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Limited Edition, Gentleman Jack, 1L ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 299.99
 brand: "Jack Daniel's"
+author: chris
 ---
 One of the things I want to do here on this blog is document the various Jack Daniel's collectables, primarily bottles, that I've managed to acquire over time. This is the first post in that series.
 
@@ -49,3 +49,4 @@ If you're looking for a Gentleman Jack Limited Edition Time Piece bottle, check 
 **Proof:** 100  
 **Size:** 1L  
 **Price:** $69  
+

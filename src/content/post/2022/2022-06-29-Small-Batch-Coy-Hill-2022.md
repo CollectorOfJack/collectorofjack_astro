@@ -1,19 +1,19 @@
 ---
-layout: post
 title: "Jack Daniel's Small Batch Coy Hill"
-date: '2022-06-29T10:00:00+00:00'
+publishDate: 2022-06-29T10:00:00+00:00
 permalink: SmallBatchCoyHill2022
-image: 61/smallbatchcoyhill-1.jpg
+image: ~/assets/images/fullsized/61/smallbatchcoyhill-1.jpg
 description: "Coy Hill take 2"
 gallery:
   SmallBatchCoyHill2022:
-  - image_path: 61/smallbatchcoyhill-1.jpg
+  - image_path: ~/assets/images/fullsized/61/smallbatchcoyhill-1.jpg
     image-caption: Jack Daniel's Small Batch Coy Hill 2022
     image-copyright: CollectorOfJack.com
-categories: [ Coy Hill, Special Release, High Proof, 375ml ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Coy Hill, Special Release, High Proof, 375ml ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 899.99
 brand: "Jack Daniel's"
+author: chris
 ---
 Hot off the presses and hot to the tongue, Jack Daniel's has announced that this Friday starting at 8am at the White Rabbit Bottle Shop you can get the new Small Batch Coy Hill 375ml bottle! 
 
@@ -37,4 +37,5 @@ I am still trying to figure out if I can get over to Lynchburg this week, unlike
 **Proof:** 143.6-155.1  
 **Size:** 375ml  
 **Price:** $55
+
 

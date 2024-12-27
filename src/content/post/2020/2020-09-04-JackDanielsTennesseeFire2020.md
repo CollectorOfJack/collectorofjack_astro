@@ -1,30 +1,29 @@
 ---
-layout: post
 title: Jack Daniel's Tennessee Fire Updated Bottle
-date: '2020-09-04T00:00:00+00:00'
+publishDate: 2020-09-04T00:00:00+00:00
 permalink: JackDanielsTennesseeFire2020
-image: 35/JackDanielsFire2020-1.jpg
+image: ~/assets/images/fullsized/35/JackDanielsFire2020-1.jpg
 description: Jack Daniel's Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.
 gallery:
   JackDanielsTennesseeFire2020:
-  - image_path: 35/JackDanielsFire2020-1.jpg
+  - image_path: ~/assets/images/fullsized/35/JackDanielsFire2020-1.jpg
     image-caption: Jack Daniel's Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.
     image-copyright: © CollectorOfJack.com
-  - image_path: 35/JackDanielsFire2020-2.jpg
+  - image_path: ~/assets/images/fullsized/35/JackDanielsFire2020-2.jpg
     image-caption: Jack Daniel's Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.
     image-copyright: © CollectorOfJack.com
-  - image_path: 35/JackDanielsFire2020-3.jpg
+  - image_path: ~/assets/images/fullsized/35/JackDanielsFire2020-3.jpg
     image-caption: Jack Daniel's Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.
     image-copyright: © CollectorOfJack.com
-  - image_path: 35/JackDanielsFire2020-4.jpg
+  - image_path: ~/assets/images/fullsized/35/JackDanielsFire2020-4.jpg
     image-caption: Jack Daniel's Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.
     image-copyright: © CollectorOfJack.com
-categories: [ Flavor, Fire, Cinnamon ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Flavor, Fire, Cinnamon ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 49.99
 brand: "Jack Daniel's"
+author: chris
 ---
-
 Somehow I haven't blogged about the Jack Daniel's Tennessee Fire, and here we are with a second iteration of the bottle already! Maybe soon we'll get some pictures of the original bottle, for now we'll cover the newly designed bottle that was released in 2019 and most markets in 2020.
 
 Tennessee Fire was the second offering of flavored liqueurs from Jack Daniel's, first was Honey, and third was Tennessee Apple.
@@ -65,3 +64,4 @@ You can find it at most retailers, nothing special about it from a purchasing pe
 **Proof:** 70  
 **Size:** 750ml  
 **Price:** $19.99  
+

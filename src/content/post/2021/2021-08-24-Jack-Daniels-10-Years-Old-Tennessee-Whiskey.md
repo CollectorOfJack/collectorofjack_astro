@@ -1,20 +1,20 @@
 ---
-layout: post
 title: Jack Daniels 10-Years Old Tennessee Whiskey
-date: '2021-08-24T00:10:00+00:00'
+publishDate: 2021-08-24T00:10:00+00:00
 permalink: 10YearsOldTennesseeWhiskey
-image: 53/10YearsOldTennesseeWhiskey-1.jpg
+image: ~/assets/images/fullsized/53/10YearsOldTennesseeWhiskey-1.jpg
 description: A preview of Jack Daniels 10-Years Old Tennessee Whiskey
 gallery:
   10YearsOldTennesseeWhiskey:
-  - image_path: 53/10YearsOldTennesseeWhiskey-1.jpg
+  - image_path: ~/assets/images/fullsized/53/10YearsOldTennesseeWhiskey-1.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: Image Courtesy of Jack Daniel's Social Media
-categories: [ 10 Years, 10 Years Old, Aged ]
+tags: [ 10 Years, 10 Years Old, Aged ]
  
-last_modified_at: '2024-07-01T15:55:45+00:00'
+updateDate: 2024-07-01T15:55:45+00:00
 price: 299.99
 brand: "Jack Daniel's"
+author: chris
 ---
 Earlier this summer we blogged about the Coy Hill High Proof coming out this fall, well we've got another new release from the Jack Daniel's Distillery coming in early September! 
 
@@ -31,4 +31,5 @@ From a message that Chris Fletcher and Jack Daniel's has posted on social media:
 **Proof:** 97
 **Size:** 750ml  
 **Price:** $74.99  
+
 

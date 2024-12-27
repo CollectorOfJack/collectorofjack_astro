@@ -1,25 +1,25 @@
 ---
-layout: post
 title: "Two new Tennessee Tasters bottles from Jack Daniel's"
-date: '2022-10-05T09:30:00+00:00'
-last_modified_at: '2024-07-01T15:55:45+00:00'
+publishDate: 2022-10-05T09:30:00+00:00
+updateDate: 2024-07-01T15:55:45+00:00
 permalink: October2022TennesseeTasters
-image: 62/october2022tennesseetasters-1.jpg
+image: ~/assets/images/fullsized/62/october2022tennesseetasters-1.jpg
 description: "Two new Tennessee Tasters bottles from Jack Daniel's"
 keywords: Tennessee, Tasters, Tennessee Tasters, Distillery Series, Toasted Barrel Finished Rye, Toasted Maple Barrel, Lexie Phillips, Josh Phillips
 gallery:
   october2022tennesseetasters:
-  - image_path: 62/october2022tennesseetasters-1.jpg
+  - image_path: ~/assets/images/fullsized/62/october2022tennesseetasters-1.jpg
     image-caption: Lexie and Jack Daniel's Bottles
     image-copyright: Jack Daniel Distillery
-  - image_path: 62/october2022tennesseetasters-2.jpg
+  - image_path: ~/assets/images/fullsized/62/october2022tennesseetasters-2.jpg
     image-caption: Two new Jack Daniel's Bottles
     image-copyright: Jack Daniel Distillery
-  - image_path: 62/october2022tennesseetasters-3.jpg
+  - image_path: ~/assets/images/fullsized/62/october2022tennesseetasters-3.jpg
     image-caption: From LiquorPlanet's Facebook page
     image-copyright: Liquor Planet
-categories: [ Tasters Series, Tennessee Tasters, TN Tasters, Toasted Barrel, Rye, Maple, Tasters ]
+tags: [ Tasters Series, Tennessee Tasters, TN Tasters, Toasted Barrel, Rye, Maple, Tasters ]
 product: false
+author: chris
 ---
 Hot off the presses Jack Daniel's has just announced two new bottles in the Tennessee Taster's series, and is now calling them [Jack Daniel's Distillery Series](/series/tasters-distillery).
 
@@ -48,4 +48,5 @@ Information about them from Jack Daniel's social media:
 **Proof:** 101  
 **Size:** 375ml  
 **Price:** $41
+
 

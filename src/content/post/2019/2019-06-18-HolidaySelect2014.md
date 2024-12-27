@@ -1,67 +1,66 @@
 ---
-layout: post
 title: Jack Daniel's Holiday Select 2014
-date: '2019-06-18T17:01:39+00:00'
+publishDate: 2019-06-18T17:01:39+00:00
 permalink: HolidaySelect2014
-image: 10/HolidaySelect2014-1.jpg
+image: ~/assets/images/fullsized/10/HolidaySelect2014-1.jpg
 description: A collector's guide to the Jack Daniel's Holiday Select Release from 2014
 gallery:
   HolidaySelect2014:
-  - image_path: 10/HolidaySelect-1.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect-1.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect-2.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect-2.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect-3.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect-3.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect-4.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect-4.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect-5.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect-5.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect-6.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect-6.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect-7.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect-7.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect-8.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect-8.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect2014-1.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-1.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect2014-2.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-2.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect2014-3.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-3.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect2014-4.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-4.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect2014-5.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-5.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect2014-6.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-6.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect2014-7.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-7.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: 10/HolidaySelect2014-8.jpg
+  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-8.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
 
-categories: [ Special Release, Single Barrel, 750ml, Holiday Select, "2014" ]
-last_modified_at: '2024-07-01T15:55:45+00:00'
+tags: [ Special Release, Single Barrel, 750ml, Holiday Select, "2014" ]
+updateDate: 2024-07-01T15:55:45+00:00
 price: 299.99
 brand: "Jack Daniel's"
+author: chris
 ---
-
 In our [last blog post we covered the third in the Holiday Select series](/HolidaySelect2013), in this one, we cover the fourth and final (as of 2018) release, the Holiday Select 2014 Limited Edition bottle from Jack Daniel's. 
 
 This bottle, unlike all the other Holiday Select bottles comes in a box that has the face cut out to showcase the bottle. If you open the box, the back slides out and the bottle can be freed from the holder inside. The Sides of the box read Limited Edition 2014, while the back of the box (and the bottle) reads:
@@ -84,4 +83,5 @@ Originally priced around $89, you'll be hard pressed to find it for anything les
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $250 you should pick it up!
+
 
