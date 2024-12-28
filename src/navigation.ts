@@ -3,21 +3,26 @@ import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
 export const headerData = {
   links: [
    
-    {
-      text: 'About',
-      href: getPermalink('/about'),
-    },
+    
     {
       text: 'Blog',
       href: getBlogPermalink(),
+    },
+    {
+      text: 'Series',
+      href: getPermalink('/series'),
+    },
+    {
+      text: 'Trading List',
+      href: getPermalink('/huntlist'),
     },
     {
       text: 'Contact',
       href: getPermalink('/contact'),
     },
     {
-      text: 'Series',
-      href: getPermalink('/series'),
+      text: 'About',
+      href: getPermalink('/about'),
     },
     {
       text: 'Search',
@@ -34,7 +39,7 @@ export const footerData = {
       links: [
         { text: 'About', href: '/about' },
         { text: 'Series', href: '/series' },
-        { text: 'Hunt List', href: '/huntlist' },
+        { text: 'Hunt/Searcing for List', href: '/huntlist' },
         { text: 'Contact', href: '/contact' },
       ],
     },
