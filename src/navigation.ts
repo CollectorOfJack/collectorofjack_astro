@@ -9,7 +9,7 @@ export const headerData = {
       href: getBlogPermalink(),
     },
     {
-      text: 'Series',
+      text: 'Series Releases',
       href: getPermalink('/series'),
     },
     {
@@ -38,7 +38,7 @@ export const footerData = {
       title: 'Collector Of Jack',
       links: [
         { text: 'About', href: '/about' },
-        { text: 'Series', href: '/series' },
+        { text: 'Series Releases', href: '/series' },
         { text: 'Hunt/Searcing for List', href: '/huntlist' },
         { text: 'Contact', href: '/contact' },
       ],
