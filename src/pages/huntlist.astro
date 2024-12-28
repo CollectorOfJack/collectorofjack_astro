@@ -1,0 +1,63 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+import pageImage from '~/assets/images/About-1.jpg'; // Replace with an image of your collection
+
+const metadata = {
+  title: "My Jack Daniel's Hunt List",
+};
+---
+
+<Layout metadata={metadata}>
+  <Hero
+    tagline="My Jack Daniel's Hunt List"
+    image={{
+      src: pageImage,
+      alt: 'My Jack Daniel’s Collection', // Update alt text
+    }}
+  >
+    <Fragment slot="title">
+      The Bottles I'm Hunting For
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      And the bottles I have available to trade
+    </Fragment>
+  </Hero>
+
+
+  <Features3
+    title="My Jack Daniel's Hunt List"
+    subtitle="Help me complete my collection!"
+    columns={2} 
+    isBeforeContent={true}
+    items={[
+      {
+        title: "Bottles I'm Looking For",
+        description:
+          "This is a list of the Jack Daniel's bottles I'm currently searching for. If you have any of these and are interested in trading, please get in touch!",
+        icon: 'tabler:search',
+      },
+      {
+        title: "Bottles Available for Trade",
+        description:
+          "These are the Jack Daniel's bottles I currently have available for trade. I'm open to offers for the bottles on my hunt list.",
+        icon: 'tabler:gift',
+      },
+      // ... Add your specific hunt list and trade list items here ...
+      // Example:
+      {
+        title: "Jack Daniel's Sinatra Select",
+        description: "Limited edition release honoring Frank Sinatra.",
+        icon: 'tabler:bottle',
+      },
+      {
+        title: "Jack Daniel's Single Barrel Rye",
+        description: "My personal favorite - willing to trade for something special!",
+        icon: 'tabler:bottle',
+      }, 
+    ]}
+  />
+</Layout>
