@@ -145,9 +145,9 @@ export async function generateGalleryImages(inputPath, breakpoints, format, outp
     try {
       // Check if the image already exists in `generated-images`
       await fs.access(outputPath);
-      console.log(`Image already exists: ${outputPath}`);
+      //console.log(`Image already exists: ${outputPath}`);
     } catch {
-      console.log(`Generating image: ${outputPath}`);
+      //console.log(`Generating image: ${outputPath}`);
       // Generate the image if it doesn't exist
       await sharp(inputPath)
         .resize({ width, height }) // Set both width and calculated height
@@ -158,9 +158,9 @@ export async function generateGalleryImages(inputPath, breakpoints, format, outp
     // Copy the image from `generated-images` to `public/assets/images`
     try {
       await fs.copyFile(outputPath, publicOutputPath);
-      console.log(`Copied image to public directory: ${publicOutputPath}`);
+      //console.log(`Copied image to public directory: ${publicOutputPath}`);
     } catch (error) {
-      console.error(`Error copying image to public directory: ${error.message}`);
+      //console.error(`Error copying image to public directory: ${error.message}`);
     }
 
     // Generate a relative path for the public directory

@@ -17,7 +17,7 @@ gallery:
     image-caption: "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle."
     image-copyright: © CollectorOfJack.com
 tags: [ TN Tasters, Tennessee Tasters, 375ml, Reunion, Tasters Series, Tasters ]
-price: 199.99
+price: $199.99
 brand: "Jack Daniel's"
 author: chris
 ---

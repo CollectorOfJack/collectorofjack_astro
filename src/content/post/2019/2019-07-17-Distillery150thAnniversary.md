@@ -20,7 +20,7 @@ gallery:
       image-copyright: © CollectorOfJack.com
 tags: [ Distillery, 750ml, 150th, Lynchburg ]
 updateDate: 2024-09-20T08:55:45+00:00
-price: 249.99
+price: $249.99
 gtin: "8218400280"
 brand: "Jack Daniel's"
 author: chris

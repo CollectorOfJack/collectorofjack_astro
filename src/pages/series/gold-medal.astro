@@ -7,7 +7,7 @@ import Features3 from '~/components/widgets/Features3.astro';
 import pageImage from '~/assets/images/fullsized/TastersSeriesGroup-1.jpg';
 
 const metadata = {
-  title: "Jack Daniel's Releases/Series",
+  title: "Jack Daniel's Gold Medal Series",
 };
 ---
 
@@ -15,19 +15,18 @@ const metadata = {
   <!-- Hero Widget ******************* -->
 
   <Hero
-    tagline="Jack Daniel's Releases & Series"
+    tagline="Special Releases from Jack Daniel's"
     image={{
       src: pageImage,
-      alt: 'Various Jack Daniel’s bottles from different series and releases.',
+      alt: "Jack Daniel's Gold Medal Bottles",
     }}
   >
     <Fragment slot="title">
-      Explore the world of 
-      <span class="text-accent dark:text-white highlight">Jack Daniel's Series</span>
+      <span class="text-accent dark:text-white highlight">Jack Daniel's Gold Medal Series</span>
     </Fragment>
 
     <Fragment slot="subtitle">
-      Discover the unique collections and releases that make Jack Daniel’s a legend in whiskey history.
+      A list of bottles that Jack Daniel's has released in the Gold Medal series, celebrating some of their award winning whiskeys. 
     </Fragment>
   </Hero>
 
@@ -36,57 +35,73 @@ const metadata = {
   <Stats
     title="Quick Facts"
     stats={[
-      { title: 'First Release', amount: '1866' },
-      { title: 'Number of Series', amount: '10+' },
-      { title: 'Limited Edition Bottles', amount: '100+' },
-      { title: 'Global Reach', amount: '170+ countries' },
+      { title: 'First Gold Medal', amount: '1904' },
+      { title: 'Number Releases', amount: '7' },
+      { title: 'Available in', amount: 'Worldwide' },
     ]}
   />
 
   <!-- Features3 Widget ************** -->
 
   <Features3
-    title="Notable Jack Daniel's Series"
-    subtitle="A curated selection of iconic releases"
+    title="Gold Medal Series"
+    subtitle="A curated selection of gold medal releases"
     columns={2}
     isBeforeContent={true}
     items={[
       {
-        title: 'Master Distiller Series',
+        title: "1904 St. Louis World’s Fair",
         description:
-          'A tribute to the seven master distillers who have crafted Jack Daniel’s over the years. Each bottle highlights a unique era of the brand’s history.',
+          "The first gold medal won by Jack Daniel’s at the 1904 St. Louis World’s Fair, signifying the start of its international acclaim.",
         icon: 'tabler:bottle',
+        //link: ''
+        
       },
       {
-        title: 'Single Barrel Select',
+        title: '1905 Liege, Belgium',
         description:
-          'Each barrel is hand-selected for its distinct flavor profile, offering a one-of-a-kind whiskey experience.',
+          "Recognition at the Liege Exposition Universelle, further solidifying Jack Daniel’s reputation in Europe.",
+        icon: 'tabler:bottle',        
+        // link: '/',
+      },
+      {
+        title: '1913 Ghent, Belgium',
+        description:
+          "Awarded a gold medal at the Exposition Universelle et Internationale in Ghent.",
         icon: 'tabler:barrel',
+        //link: '/BarrelReunion1',
       },
       {
-        title: 'Tennessee Tasters’ Selection',
+        title: '1914 London, England',
         description:
-          'Limited edition experimental whiskeys showcasing innovative finishes and flavor profiles.',
-        icon: 'tabler:flask',
+          "Honored at the Anglo-American Exposition in London, marking a significant achievement in the UK.",
+        icon: 'tabler:bottle',
+        //link: '/TennesseeTastersBarrelProofRye',  
       },
       {
-        title: 'Bonded Series',
+        title: '1915 San Francisco, California',
         description:
-          'A nod to the Bottled-in-Bond Act, this series highlights Jack Daniel’s commitment to quality and tradition.',
-        icon: 'tabler:certificate',
+          "Gold medal awarded at the Panama-Pacific International Exposition in San Francisco.",
+        icon: 'tabler:bottle',
+        //link: '/BarrelReunion2',  
       },
       {
-        title: 'Holiday Select',
+        title: '1954 Brussels, Belgium',
         description:
-          'Seasonal releases crafted to celebrate the holidays, often featuring collectible packaging.',
-        icon: 'tabler:gift',
+          "Recognition at the Brussels Exposition, highlighting the brand’s continuous excellence.",
+        icon: 'tabler:barrel',
+        //link: '/JamaicanAllSpice',  
       },
       {
-        title: 'Legacy Edition',
+        title: '1981 Amsterdam, Netherlands',
         description:
-          'A series that revisits classic Jack Daniel’s labels, offering a glimpse into the brand’s storied past.',
-        icon: 'tabler:history',
+          "Commemoration of the 1981 gold medal awarded at the International Wine and Spirits Competition in Amsterdam.",
+        icon: 'tabler:barrel',
+        //link: '/TwinBlend',  
       },
     ]}
   />
+
+  
+
 </Layout>

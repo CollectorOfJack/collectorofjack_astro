@@ -20,7 +20,7 @@ gallery:
     image-copyright: CollectorOfJack.com
 tags: [ Bonded, Bottled in Bond, 100Proof, 700ml ]
 updateDate: 2024-07-10T23:55:45+00:00
-price: 45.99
+price: $45.99
 brand: "Jack Daniel's"
 author: chris
 ---

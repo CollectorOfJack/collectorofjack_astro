@@ -39,7 +39,7 @@ gallery:
 tags: [ 750ml, Single Barrel, Music ]
 
 updateDate: 2024-07-01T15:55:45+00:00
-price: 249.99
+price: $249.99
 brand: "Jack Daniel's"
 author: chris
 ---

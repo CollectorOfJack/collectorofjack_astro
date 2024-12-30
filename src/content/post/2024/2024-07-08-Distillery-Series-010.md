@@ -27,7 +27,7 @@ gallery:
     image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips Front from Angle
     image-copyright: CollectorOfJack.com
 tags: [ Distillery Series, Tasters, Box, 375ml, Toasted, Pecan ]
-price: 199.99
+price: $199.99
 brand: "Jack Daniel's"
 # updateDate: 2024-07-07T15:55:45+00:00
 author: chris

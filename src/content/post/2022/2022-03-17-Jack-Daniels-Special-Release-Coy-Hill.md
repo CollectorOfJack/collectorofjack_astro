@@ -21,7 +21,7 @@ gallery:
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
 tags: [ Coy Hill, Special Release, High Proof ]
-price: 1199.99
+price: $1199.99
 brand: "Jack Daniel's"
 author: chris
 ---

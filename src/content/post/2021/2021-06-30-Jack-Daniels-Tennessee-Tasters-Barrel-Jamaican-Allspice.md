@@ -20,7 +20,7 @@ gallery:
     image-caption: Tennessee Tasters' Jamaican Allspice Finished with toasted Jamaican Allspice Wood left side
     image-copyright: © CollectorOfJack.com
 tags: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series, Tasters ]
-price: 79.99
+price: $79.99
 brand: "Jack Daniel's"
 author: chris
 ---

@@ -52,6 +52,10 @@ export interface Post {
   gallery?: {
     [key: string]: GalleryImage[]; // Allow for different named galleries within a post
   };
+
+  price?: string;
+
+  brand?: string;
 }
 
 export interface GalleryImage {

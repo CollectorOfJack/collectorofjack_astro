@@ -19,7 +19,7 @@ gallery:
     image-copyright: CollectorOfJack.com
 
 tags: [ Distillery Series, Tasters, Box, 375ml, Oloroso, Sherry, Reunion ]
-price: 199.99
+price: $199.99
 brand: "Jack Daniel's"
 # updateDate: 2024-07-07T15:55:45+00:00
 author: chris

@@ -32,7 +32,7 @@ gallery:
 
 tags: [ High Roller, "2024", Friends, Truck ]
 updateDate: 2024-07-01T15:55:45+00:00
-price: 79.99
+price: $79.99
 brand: "High Roller"
 author: chris
 ---

@@ -24,7 +24,7 @@ gallery:
 
 tags: [ 750ml, Heritage Barrel, Special Release, Box ]
 updateDate: 2024-07-01T15:55:45+00:00
-price: 99.99
+price: $99.99
 brand: "Jack Daniel's"
 author: chris
 ---

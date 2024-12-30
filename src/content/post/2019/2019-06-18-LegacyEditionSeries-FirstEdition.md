@@ -23,7 +23,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 tags: [ Legacy, 750ml ]
 updateDate: 2024-07-01T15:55:45+00:00
-price: 149.99
+price: $149.99
 brand: "Jack Daniel's"
 author: chris
 ---

@@ -19,6 +19,8 @@ const generatePermalink = async ({
   publishDate,
   category,
   url,
+  price,
+  brand,
   galleryPath,
   gallery,
 }: {
@@ -29,6 +31,8 @@ const generatePermalink = async ({
   url: string | undefined;
   galleryPath: string | undefined;
   gallery: [];
+  price: string | undefined;
+  brand: string | undefined;
 }) => {
   const year = String(publishDate.getFullYear()).padStart(4, '0');
   const month = String(publishDate.getMonth() + 1).padStart(2, '0');
@@ -72,6 +76,8 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     draft = false,
     metadata = {},
     url,
+    price,
+    brand,
     galleryPath,
     gallery,
   } = data;
@@ -115,6 +121,8 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     readingTime: remarkPluginFrontmatter?.readingTime,
     galleryPath,
     gallery,
+    price,
+    brand,
   };
 };
 

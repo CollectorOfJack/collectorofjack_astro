@@ -20,7 +20,7 @@ gallery:
     image-copyright: © CollectorOfJack.com
 tags: [ Other, Jim Beam, Red Sox, World Series ]
 updateDate: 2024-07-01T15:55:45+00:00
-price: 199.99
+price: $199.99
 brand: "Jim Beam"
 author: chris
 ---

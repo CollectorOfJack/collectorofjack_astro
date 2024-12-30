@@ -37,8 +37,8 @@ const metadata = {
     title="Quick Facts"
     stats={[
       { title: 'First Release', amount: '1866' },
-      { title: 'Number of Series', amount: '10+' },
-      { title: 'Limited Edition Bottles', amount: '100+' },
+      { title: 'Number of Series', amount: '5+' },
+      { title: 'Limited Edition Bottles', amount: '40+' },
       { title: 'Global Reach', amount: '170+ countries' },
     ]}
   />
@@ -51,24 +51,28 @@ const metadata = {
     columns={2}
     isBeforeContent={true}
     items={[
+      
       {
-        title: 'Master Distiller Series',
+        title: 'Gold Medal',
         description:
-          'A tribute to the seven master distillers who have crafted Jack Daniel’s over the years. Each bottle highlights a unique era of the brand’s history.',
-        icon: 'tabler:bottle',
-      },
-      {
-        title: 'Single Barrel Select',
-        description:
-          'Each barrel is hand-selected for its distinct flavor profile, offering a one-of-a-kind whiskey experience.',
+          "Commemorating Jack Daniel's gold medal awarded whiskies.",
         icon: 'tabler:barrel',
+        link: '/series/gold-medal',
       },
       {
         title: 'Tennessee Tasters’ Selection',
         description:
           'Limited edition experimental whiskeys showcasing innovative finishes and flavor profiles.',
         icon: 'tabler:flask',
+        link: '/series/tasters-distillery',
       },
+      {
+        title: 'Holiday Select',
+        description:
+          'Seasonal releases crafted to celebrate the holidays, often featuring collectible packaging.',
+        icon: 'tabler:gift',
+      },
+
       {
         title: 'Bonded Series',
         description:
@@ -76,10 +80,10 @@ const metadata = {
         icon: 'tabler:certificate',
       },
       {
-        title: 'Holiday Select',
+        title: 'Master Distiller Series',
         description:
-          'Seasonal releases crafted to celebrate the holidays, often featuring collectible packaging.',
-        icon: 'tabler:gift',
+          'A tribute to the seven master distillers who have crafted Jack Daniel’s over the years. Each bottle highlights a unique era of the brand’s history.',
+        icon: 'tabler:bottle',
       },
       {
         title: 'Legacy Edition',

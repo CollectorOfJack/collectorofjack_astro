@@ -20,7 +20,7 @@ gallery:
     image-caption: Jack Daniel's Tennessee Tasters' 14E19 'Twin' Blend | Whiskey
     image-copyright: © CollectorOfJack.com
 tags: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series Tasters, Tasters ]
-price: 89.99
+price: $89.99
 brand: "Jack Daniel's"
 author: chris
 ---
