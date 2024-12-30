@@ -8,7 +8,7 @@
 /category/tasters-series/ /tag/tasters-series 301
 /category/375ml/ /tag/375ml 301
 /category/high-proof/ /tag/high-proof 301
-/category/angel-s/ /tag/angel-s 301
+/category/angel-s/ /tag/angels 301
 /category/tasters/ /tag/tasters 301
 /category/tn-tasters/ /tag/tn-tasters 301
 /category/tennessee-tasters/ /tag/tennessee-tasters 301
@@ -49,7 +49,7 @@
 /category/holiday/ /tag/holiday 301
 /category/calendar/ /tag/calendar 301
 /category/mini-bottles/ /tag/mini-bottles 301
-/category/before-after/ /tag/before-after 301
+/category/before-after/ /tag/before-and-after 301
 /category/friends/ /tag/friends 301
 /category/tasting/ /tag/tasting 301
 /category/florida/ /tag/florida 301
@@ -118,8 +118,18 @@
 /category/oak/ /tag/oak 301
 /category/toasted/ /tag/toasted 301
 /category/pecan/ /tag/pecan 301
-/category/a%C3%B1ejo/ /tag/a%C3%B1ejo 301
+/category/a%C3%B1ejo/ /tag/anejox 301
 /category/tequila/ /tag/tequila 301
 /category/oloroso/ /tag/oloroso 301
 /category/sherry/ /tag/sherry 301
 /category/heroes-selection/ /tag/heroes-selection 301
+/category /search 301
+/category/ /search 301
+/page2/ /blog/2 301
+/page3/ /blog/3 301
+/page4/ /blog/4 301
+/page5/ /blog/5 301
+/page6/ /blog/6 301
+/page7/ /blog/7 301
+/page8/ /blog/8 301
+/page9/ /blog/9 301
