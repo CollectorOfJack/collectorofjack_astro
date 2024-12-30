@@ -1,0 +1,50 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+import pageImage from '~/assets/images/hero-image.png'; // Replace with an image of your collection
+
+const metadata = {
+  title: "Collector Of Jack Shipping and Return Policies",
+};
+---
+
+<Layout metadata={metadata}>
+  <Hero
+    tagline="Collector Of Jack Shipping and Return Policies"
+    image={{
+      src: pageImage,
+      alt: 'My Jack Daniel’s Collection', // Update alt text
+    }}
+  >
+    <Fragment slot="title">
+      Collector Of Jack Shipping and Return Policies
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      Information you're looking for
+    </Fragment>
+  </Hero>
+
+  <Features3
+    title="Our Policies"
+    subtitle="Do you want to trade?"
+    columns={2} 
+    isBeforeContent={true}
+    items={[
+      {
+        title: "Shipping Policy",
+        description:
+          "We currently do not offer shipping for any alcohol products. All trades must be picked up in-person.",
+        icon: 'tabler:search',
+      },
+      {
+        title: "Return Policy",
+        description:
+          "All trades are final. We do not accept returns or exchanges for any products once they have been received. Please ensure that you are completely satisfied with your transaction before completing the transaction.",
+        icon: 'tabler:gift',
+      },
+    ]}
+  />
+</Layout>

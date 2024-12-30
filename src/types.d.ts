@@ -160,6 +160,7 @@ export interface Item {
   classes?: Record<string, string>;
   callToAction?: CallToAction;
   image?: Image;
+  link?: string;
 }
 
 export interface Price {
@@ -215,6 +216,7 @@ export interface ItemGrid {
   columns?: number;
   defaultIcon?: string;
   classes?: Record<string, string>;
+  link?: string;
 }
 
 export interface Collapse {

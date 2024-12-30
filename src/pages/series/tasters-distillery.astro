@@ -1,0 +1,117 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+import pageImage from '~/assets/images/fullsized/TastersSeriesGroup-1.jpg';
+
+const metadata = {
+  title: "Jack Daniel's Tennessee Tasters' and Distillery Series Releases",
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="Special Releases from Jack Daniel's"
+    image={{
+      src: pageImage,
+      alt: "Jack Daniel's Tennessee Tasters' Releases.",
+    }}
+  >
+    <Fragment slot="title">
+      <span class="text-accent dark:text-white highlight">Jack Daniel's Tennessee Tasters' and Distillery Series Releases</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      A list of bottles that are included in the combination of the Tennessee Tasters' and Distillery series releases from Jack Daniel's Distillery
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    title="Quick Facts"
+    stats={[
+      { title: 'First Release', amount: '2018' },
+      { title: 'Number Releases', amount: '14' },
+      { title: 'Available in', amount: 'TN' },
+    ]}
+  />
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Tennessee Tasters' Series"
+    subtitle="A curated selection of iconic releases"
+    columns={2}
+    isBeforeContent={true}
+    items={[
+      {
+        title: "High Angel’s Share Barrels (2018)",
+        description:
+          "107-proof whiskey with deep flavors due to higher evaporation.",
+        icon: 'tabler:flask',
+        link: '/HighAngelsShare',
+      },
+      {
+        title: 'Hickory Smoked (2018)',
+        description:
+          " Finished with charred hickory staves, offering smoky flavor.",
+        icon: 'tabler:bottle',        
+        link: '/HickorySmoked',
+      },
+      {
+        title: 'Barrel Reunion #1 (2019)',
+        description:
+          "Finished in wine barrels with notes of vanilla and toasted oak.",
+        icon: 'tabler:barrel',
+        link: '/BarrelReunion1',
+      },
+      {
+        title: 'Barrel Proof Rye (2019)',
+        description:
+          "A 127.6-proof rye with complex fruity flavors.",
+        icon: 'tabler:gift',
+        link: '/TennesseeTastersBarrelProofRye',  
+      },
+      {
+        title: 'Barrel Reunion 2 (2020)',
+        description:
+          "a Middle Tennessee craft brewery finished their oatmeal stout using our barrels",
+        icon: 'tabler:gift',
+        link: '/BarrelReunion2',  
+      },
+      {
+        title: 'Jamaican Allspice (2020)',
+        description:
+          "Features Jamaican allspice wood for a fruit-forward flavor profile.",
+        icon: 'tabler:gift',
+        link: '/JamaicanAllSpice',  
+      },
+      {
+        title: '14E19 ‘Twin’ Blend Whiskey (2020)',
+        description:
+          "Straight Tennessee Whiskey blended with Straight Tennessee Rye Whiskey",
+        icon: 'tabler:gift',
+        link: '/TwinBlend',  
+      },
+    ]}
+  />
+
+  <div class="series-releases">
+    <h2>Highlighted Releases</h2>
+    <ul>
+      <li><strong>High Angel's Share Barrels (2018):</strong> 107-proof whiskey with deep flavors due to higher evaporation.</li>
+      <li><strong>Hickory Smoked (2018):</strong> Finished with charred hickory staves, offering smoky flavor.</li>
+      <li><strong>Barrel Reunion #1 (2019):</strong> Finished in wine barrels with notes of vanilla and toasted oak.</li>
+      <li><strong>Barrel Proof Rye (2019):</strong> A 127.6-proof rye with complex fruity flavors.</li>
+      <li><strong>Jamaican Allspice (2020):</strong> Features Jamaican allspice wood for a fruit-forward flavor profile.</li>
+      <li><strong>Toasted Maple Barrel Rye (2022):</strong> Finished in high-toast, no-char maple barrels with honey and vanilla notes.</li>
+      <li><strong>Oloroso Sherry Casks:</strong> Offers rich, sherry-influenced flavors.</li>
+    </ul>
+    <p>Explore more limited-edition and experimental releases at the Jack Daniel's Distillery in Lynchburg, Tennessee, or select markets.</p>
+  </div>
+</Layout>
