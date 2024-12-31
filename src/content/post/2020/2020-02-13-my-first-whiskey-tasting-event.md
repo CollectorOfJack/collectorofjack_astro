@@ -3,8 +3,6 @@ title: My first whiskey tasting event
 publishDate: 2020-02-13T05:01:49+00:00
 url: my-first-whiskey-tasting-event
 image: ~/assets/images/fullsized/29/2-7-2020-9.jpg
-redirect_from: 
-  - "a-jack-daniel-s-collector-blog/my-first-whiskey-tasting-event"
 excerpt: Just before Covid, I held my first whiskey tasting, and it was a blast!
 gallery:
   FirstWhiskeyTasting:

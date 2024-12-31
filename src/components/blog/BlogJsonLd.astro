@@ -79,14 +79,14 @@ const blogSchema = {
     "@id": url,
   },
 };
-console.log('inside json');
+//console.log('inside json');
 // Prepare Product schema if product-related fields are present
 let productSchema;
 
-console.log('price: ', price);
+//console.log('price: ', price);
 
 if (price || brand || sku || gtin) {
-  console.log('inside product');
+  //console.log('inside product');
   productSchema = {
     "@context": "https://schema.org",
     "@type": "Product",
