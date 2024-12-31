@@ -1,21 +1,21 @@
 ---
-title: "Jack Daniel's Distillery Series 014 Tennessee Straight Rye Barreled in High Toast Maple Barrel"
+title: "Jack Daniel's Distillery Series 014 Tennessee Straight Rye Finished in High Toast Maple Barrel"
 publishDate: 2024-12-30T19:55:00+00:00
 url: 2024/DistillerySeries014
 image: ~/assets/images/fullsized/83/DistillerySeries014-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, this is the 013 release Twice Barreled Tennessee Straight Rye Whiskey"
-keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Twice Barreled"
+keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Finished, Maple"
 
 gallery:
   DistillerySeries014:
   - image_path: ~/assets/images/fullsized/83/DistillerySeries014-1.jpg
-    image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Barreled in High Toast Maple Barrel
+    image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Finished in High Toast Maple Barrel
     image-copyright: Photo Courtesy of R. Berreth
   - image_path: ~/assets/images/fullsized/83/DistillerySeries014-2.jpg
-    image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Barreled in High Toast Maple Barrel
+    image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Finished in High Toast Maple Barrel
     image-copyright: Photo Courtesy of R. Berreth
   - image_path: ~/assets/images/fullsized/83/DistillerySeries014-3.jpg
-    image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Barreled in High Toast Maple Barrel
+    image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Finished in High Toast Maple Barrel
     image-copyright: Photo Courtesy of R. Berreth
 
 tags: [ Distillery Series, Tasters, 375ml, Rye, Maple, Toast ]
