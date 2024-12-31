@@ -1,0 +1,75 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Note from '~/components/widgets/Note.astro';
+import Features from '~/components/widgets/Features.astro';
+import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
+import FAQs from '~/components/widgets/FAQs.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import CallToAction from '~/components/widgets/CallToAction.astro';
+
+import heroImage from '~/assets/images/hero-image.png';
+
+const metadata = {
+  title: "Thank you!",
+  ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Explore the Collection!',
+        href: '/blog',
+        target: '_self',
+        icon: 'tabler:glass',
+      },
+      { text: 'About us', href: '/about' },
+    ]}
+    image={{ src: heroImage, alt: 'Collector Of Jack Hero Image', aspectRatio: '2:1.999' }}
+  >
+    <Fragment slot="title">
+      Thank you <span class="hidden xl:inline">for reaching out!</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      <span class="hidden sm:inline">
+        <span class="font-semibold">CollectorOfJack.com</span> is your premier source for Jack Daniel's history, collectibles, and news.
+      </span>
+    </Fragment>
+  </Hero>
+
+  <!-- BlogLatestPost Widget **************** -->
+
+  <BlogLatestPosts
+    id="blog"
+    title="Check Out Our Blog"
+    information={`Stay updated with news, reviews, and deep dives into Jack Daniel's history!`}
+  >
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-yellow-50 dark:bg-transparent"></div>
+    </Fragment>
+  </BlogLatestPosts>
+
+  <!-- CallToAction Widget *********** -->
+
+  <CallToAction
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Explore the Collection!',
+        href: '/blog',
+        target: '_blank',
+        icon: 'tabler:glass',
+      },
+    ]}
+  >
+    <Fragment slot="title"> CollectorOfJack.com </Fragment>
+
+    <Fragment slot="subtitle"> Your ultimate Jack Daniel's resource! </Fragment>
+  </CallToAction>
+</Layout>
