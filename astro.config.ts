@@ -66,12 +66,12 @@ export default defineConfig({
         },
       },
       img: {
-        concurrency: 8, // Adjust based on CPU cores
+        concurrency: 4, // Adjust based on CPU cores
       },
-      Image: true,
+      Image: false,
       JavaScript: true,
       SVG: true,
-      Logger: 0, // Minimal logging for compress
+      Logger: 2, // Minimal logging for compress
 //      hooks: {
 //        onCompressionStart: (file) => console.log(`Compressing: ${file}`),
 //        onCompressionEnd: (file) => console.log(`Finished: ${file}`),
