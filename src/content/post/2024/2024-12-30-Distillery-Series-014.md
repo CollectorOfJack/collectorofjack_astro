@@ -10,13 +10,13 @@ gallery:
   DistillerySeries014:
   - image_path: ~/assets/images/fullsized/83/DistillerySeries014-1.jpg
     image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Barreled in High Toast Maple Barrel
-    image-copyright: CollectorOfJack.com
+    image-copyright: Photo Courtesy of R. Berreth
   - image_path: ~/assets/images/fullsized/83/DistillerySeries014-2.jpg
     image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Barreled in High Toast Maple Barrel
-    image-copyright: CollectorOfJack.com
+    image-copyright: Photo Courtesy of R. Berreth
   - image_path: ~/assets/images/fullsized/83/DistillerySeries014-3.jpg
     image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Barreled in High Toast Maple Barrel
-    image-copyright: CollectorOfJack.com
+    image-copyright: Photo Courtesy of R. Berreth
 
 tags: [ Distillery Series, Tasters, 375ml, Rye, Maple, Toast ]
 price: $249
