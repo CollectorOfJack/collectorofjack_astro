@@ -13,95 +13,97 @@ const metadata = {
 ---
 
 <Layout metadata={metadata}>
-  <!-- Hero Widget ******************* -->
+  <section class="px-6 sm:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl">
+    <!-- Hero Widget ******************* -->
 
-  <Hero
-    tagline="About CollectorOfJack.com"
-    image={{
-      src: aboutImage,
-      alt: 'Chris Hammond at Lynchburg Tennessee in 2005.',
-    }}
-  >
-    <Fragment slot="title">
-      Welcome to 
-      <span class="text-accent dark:text-white highlight">Collector Of Jack</span>
-    </Fragment>
+    <Hero
+      tagline="About CollectorOfJack.com"
+      image={{
+        src: aboutImage,
+        alt: 'Chris Hammond at Lynchburg Tennessee in 2005.',
+      }}
+    >
+      <Fragment slot="title">
+        Welcome to 
+        <span class="text-accent dark:text-white highlight">Collector Of Jack</span>
+      </Fragment>
 
-    <Fragment slot="subtitle">
-      A comprehensive journey into the world of Jack Daniel's, brought to you by
-      <span class="text-accent dark:text-white highlight"><a href="https://www.chrishammond.com" target="_blank">Chris Hammond</a></span>.
-      Explore stories, rare finds, and the passion behind the collection.
-    </Fragment>
-  </Hero>
+      <Fragment slot="subtitle">
+        A comprehensive journey into the world of Jack Daniel's, brought to you by
+        <span class="text-accent dark:text-white highlight"><a href="https://www.chrishammond.com" target="_blank">Chris Hammond</a></span>.
+        Explore stories, rare finds, and the passion behind the collection.
+      </Fragment>
+    </Hero>
 
-  <!-- Stats Widget ****************** -->
+    <!-- Stats Widget ****************** -->
 
-  <Stats
-    title="Collection Stats"
-    stats={[
-      { title: 'First Bottle Acquired', amount: '1996' },
-      { title: 'Bottles in the Collection', amount: '300+' },
-      { title: 'Visits to Lynchburg, TN', amount: '5+' },
-      { title: 'Years of Collecting', amount: '28+' },
-    ]}
-  />
+    <Stats
+      title="Collection Stats"
+      stats={[
+        { title: 'First Bottle Acquired', amount: '1996' },
+        { title: 'Bottles in the Collection', amount: '300+' },
+        { title: 'Visits to Lynchburg, TN', amount: '5+' },
+        { title: 'Years of Collecting', amount: '28+' },
+      ]}
+    />
 
-  <!-- Features3 Widget ************** -->
+    <!-- Features3 Widget ************** -->
 
-  <Features3
-    title="Our Journey"
-    subtitle="From a single sip to a lifetime collection"
-    columns={3}
-    isBeforeContent={true}
-    items={[
-      {
-        title: 'The First Taste',
-        description:
-          "It all started with a single sip in 1996. That moment sparked a fascination with the craftsmanship, history, and culture surrounding Jack Daniel’s Tennessee Whiskey.",
-        icon: 'tabler:glass',
-      },
-      {
-        title: 'A Growing Collection',
-        description:
-          'Over the years, the collection grew to include rare bottles, limited editions, and unique memorabilia from around the world.',
-        icon: 'tabler:archive',
-      },
-      {
-        title: 'Whiskey Enthusiast',
-        description:
-          "CollectorOfJack.com is a celebration of all things Jack Daniel’s, from the brand’s history to the stories behind each bottle in the collection.",
-        icon: 'tabler:book',
-      },
-    ]}
-  />
+    <Features3
+      title="Our Journey"
+      subtitle="From a single sip to a lifetime collection"
+      columns={3}
+      isBeforeContent={true}
+      items={[
+        {
+          title: 'The First Taste',
+          description:
+            "It all started with a single sip in 1996. That moment sparked a fascination with the craftsmanship, history, and culture surrounding Jack Daniel’s Tennessee Whiskey.",
+          icon: 'tabler:glass',
+        },
+        {
+          title: 'A Growing Collection',
+          description:
+            'Over the years, the collection grew to include rare bottles, limited editions, and unique memorabilia from around the world.',
+          icon: 'tabler:archive',
+        },
+        {
+          title: 'Whiskey Enthusiast',
+          description:
+            "CollectorOfJack.com is a celebration of all things Jack Daniel’s, from the brand’s history to the stories behind each bottle in the collection.",
+          icon: 'tabler:book',
+        },
+      ]}
+    />
 
-  <!-- Steps2 Widget ****************** -->
+    <!-- Steps2 Widget ****************** -->
 
-  <Steps2
-    title="Milestones"
-    subtitle="A timeline of achievements in building a world-class collection."
-    isReversed={true}
-    callToAction={{
-      text: 'Read My Story',
-      href: '/JackDanielsCollector',
-    }}
-    items={[
-      {
-        title: 'Tennessee Squire',
-        description: 'Since 2020',
-        icon: 'tabler:crown',
-      },
-      {
-        title: 'Limited Editions Acquired',
-        description: 'Curated a collection featuring some of the rarest and most sought-after Jack Daniel’s releases.',
-        icon: 'tabler:star',
-      },
-      {
-        title: 'Community and Events',
-        description:
-          'Engaged with fellow enthusiasts at events, sharing stories and showcasing the collection’s highlights.',
-        icon: 'tabler:users',
-      },
-    ]}
-  />
+    <Steps2
+      title="Milestones"
+      subtitle="A timeline of achievements in building a world-class collection."
+      isReversed={true}
+      callToAction={{
+        text: 'Read My Story',
+        href: '/JackDanielsCollector',
+      }}
+      items={[
+        {
+          title: 'Tennessee Squire',
+          description: 'Since 2020',
+          icon: 'tabler:crown',
+        },
+        {
+          title: 'Limited Editions Acquired',
+          description: 'Curated a collection featuring some of the rarest and most sought-after Jack Daniel’s releases.',
+          icon: 'tabler:star',
+        },
+        {
+          title: 'Community and Events',
+          description:
+            'Engaged with fellow enthusiasts at events, sharing stories and showcasing the collection’s highlights.',
+          icon: 'tabler:users',
+        },
+      ]}
+    />
+  </section>
 </Layout>

@@ -1,6 +1,7 @@
 ---
 import Hero from '~/components/widgets/Hero.astro';
 import Layout from '~/layouts/PageLayout.astro';
+import Features2 from '~/components/widgets/Features2.astro';
 import Features3 from '~/components/widgets/Features3.astro';
 
 import pageImage from '~/assets/images/2008-1.jpg'; // Replace with an image of your collection
@@ -26,11 +27,44 @@ const metadata = {
     </Fragment>
   </Hero>
 
+  <Features2
+  title="My Jack Daniel’s Collection"
+  subtitle="Explore my hunt list, trade opportunities, and trading preferences."
+  columns={2}
+  items={[
+    {
+      title: "Hunt List",
+      description:
+        "This is a list of Jack Daniel’s bottles and memorabilia that I am actively searching for. If you have something I might be interested in, please let me know!",
+      icon: 'tabler:search',
+    },
+    {
+      title: "Trade Opportunities",
+      description:
+        "These are the items I currently have available for trade. My goal is to grow my collection, so I prefer trading rather than selling.",
+      icon: 'tabler:gift',
+    },
+    {
+      title: "Trading Locations",
+      description:
+        "I prefer trades within a 5-hour drive of St. Louis but am open to discussing other options if you’re farther away. Reach out, and we can coordinate!",
+      icon: 'tabler:map-pin',
+    },
+    {
+      title: "Legal Notice",
+      description:
+        "I’m not interested in selling bottles at this time due to potential legal issues. My focus is on trading to expand my collection.",
+      icon: 'tabler:alert-circle',
+    },
+  ]}
+/>
+
+
 
   <Features3
   title="My Jack Daniel's Hunt List"
   subtitle="Help me complete my collection!"
-  columns={2}
+  columns={3}
   isBeforeContent={true}
   items={[
     {
@@ -87,7 +121,7 @@ const metadata = {
 <Features3
   title="Items Available For Trade"
   subtitle="These are the Jack Daniel's bottles I currently have available for trade."
-  columns={2}
+  columns={3}
   isBeforeContent={true}
   items={[
     {
