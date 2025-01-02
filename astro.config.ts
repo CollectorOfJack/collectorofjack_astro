@@ -71,7 +71,7 @@ export default defineConfig({
       Image: false,
       JavaScript: true,
       SVG: true,
-      Logger: 2, // Minimal logging for compress
+      Logger: 0, // Minimal logging for compress
 //      hooks: {
 //        onCompressionStart: (file) => console.log(`Compressing: ${file}`),
 //        onCompressionEnd: (file) => console.log(`Finished: ${file}`),
