@@ -1,15 +1,15 @@
 ---
 import Hero from '~/components/widgets/Hero.astro';
 import Layout from '~/layouts/PageLayout.astro';
+import Features2 from '~/components/widgets/Features2.astro';
 import Features3 from '~/components/widgets/Features3.astro';
 
-import pageImage from '~/assets/images/About-1.jpg'; // Replace with an image of your collection
+import pageImage from '~/assets/images/2008-1.jpg'; // Replace with an image of your collection
 
 const metadata = {
   title: "My Jack Daniel's Hunt List",
 };
 ---
-
 <Layout metadata={metadata}>
   <Hero
     tagline="My Jack Daniel's Hunt List"
@@ -27,37 +27,225 @@ const metadata = {
     </Fragment>
   </Hero>
 
+  <Features2
+  title="My Jack Daniel’s Collection"
+  subtitle="Explore my hunt list, trade opportunities, and trading preferences."
+  columns={2}
+  items={[
+    {
+      title: "Hunt List",
+      description:
+        "This is a list of Jack Daniel’s bottles and memorabilia that I am actively searching for. If you have something I might be interested in, please let me know!",
+      icon: 'tabler:search',
+    },
+    {
+      title: "Trade Opportunities",
+      description:
+        "These are the items I currently have available for trade. My goal is to grow my collection, so I prefer trading rather than selling.",
+      icon: 'tabler:gift',
+    },
+    {
+      title: "Trading Locations",
+      description:
+        "I prefer trades within a 5-hour drive of St. Louis but am open to discussing other options if you’re farther away. Reach out, and we can coordinate!",
+      icon: 'tabler:map-pin',
+    },
+    {
+      title: "Legal Notice",
+      description:
+        "I’m not interested in selling bottles at this time due to potential legal issues. My focus is on trading to expand my collection.",
+      icon: 'tabler:alert-circle',
+    },
+  ]}
+/>
+
+
 
   <Features3
-    title="My Jack Daniel's Hunt List"
-    subtitle="Help me complete my collection!"
-    columns={2} 
-    isBeforeContent={true}
-    items={[
-      {
-        title: "Bottles I'm Looking For",
-        description:
-          "This is a list of the Jack Daniel's bottles I'm currently searching for. If you have any of these and are interested in trading, please get in touch!",
-        icon: 'tabler:search',
-      },
-      {
-        title: "Bottles Available for Trade",
-        description:
-          "These are the Jack Daniel's bottles I currently have available for trade. I'm open to offers for the bottles on my hunt list.",
-        icon: 'tabler:gift',
-      },
-      // ... Add your specific hunt list and trade list items here ...
-      // Example:
-      {
-        title: "Jack Daniel's Sinatra Select",
-        description: "Limited edition release honoring Frank Sinatra.",
-        icon: 'tabler:bottle',
-      },
-      {
-        title: "Jack Daniel's Single Barrel Rye",
-        description: "My personal favorite - willing to trade for something special!",
-        icon: 'tabler:bottle',
-      }, 
-    ]}
-  />
+  title="My Jack Daniel's Hunt List"
+  subtitle="Help me complete my collection!"
+  columns={3}
+  isBeforeContent={true}
+  items={[
+    {
+      title: "Jack Daniel’s Alabama Bicentennial",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Silver Cornet Decanter",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "1904 Gold Medal Series w/ box",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "1905 Gold Medal Series w/ or w/out box",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "1915 Gold Medal Series Box",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Special Release Coy Hill High Proof",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Small Batch Coy Hill",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "2023 Special Release Twice Barreled Tennessee Rye",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s American Single Malt (Duty Free or Military Purchase)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Distillery Series #10 (Pecan)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s 1895 Replica Bottle Whiskey",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Special Release 2024 Coy Hill",
+      icon: 'tabler:bottle',
+    },
+  ]}
+/>
+
+<Features3
+  title="Items Available For Trade"
+  subtitle="These are the Jack Daniel's bottles I currently have available for trade."
+  columns={3}
+  isBeforeContent={true}
+  items={[
+    {
+      title: "Gentleman Jack Limited Edition Time Piece Bottle",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Tennessee Tasters’ High Angel’s Share Barrels (2018)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Tennessee Tasters’ Hickory Smoked (2018)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Tennessee Tasters’ Barrel Proof Rye (2019)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Tennessee Tasters’ Barrel Reunion 1 (2019)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Tennessee Tasters’ Barrel Reunion 2 (2019)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Tennessee Tasters’ Jamaican Allspice (2020)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Tennessee Tasters’ Twin Blend (2020)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Master Distiller Series No. 1 (750mL)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Master Distiller Series No. 2 (750mL)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Master Distiller Series No. 3 (750mL)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Master Distiller Series No. 4 (750mL)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Master Distiller Series No. 5 (750mL)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Master Distiller Series No. 6 (750mL)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Scenes of Lynchburg #6 (750mL)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Scenes of Lynchburg #7 (750mL)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Holiday Calendar 2019",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Holiday Calendar 2020",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Holiday Countdown 2021 (12 pack)",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Special Release Heritage Barrel 2019",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Eric Church Single Barrel 2019",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Eric Church Single Barrel 2020",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Barrel Proof Rye Special Release 2020",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Twice Barreled Special Release 2022",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s Special Release Coy Hill High Proof",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s 10 Years Old Tennessee Whiskey Batch 1",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s 10 Year Batch 2",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s 10 Year Batch 3",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s 12 Year Batch 1",
+      icon: 'tabler:bottle',
+    },
+    {
+      title: "Jack Daniel’s 12 Year Batch 2",
+      icon: 'tabler:bottle',
+    },
+  ]}
+/>
+
+
 </Layout>

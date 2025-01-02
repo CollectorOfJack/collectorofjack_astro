@@ -63,6 +63,6 @@ analytics:
       id: "G-SR5PB9ZBBL"
       partytown: false
     cloudflare: #turnstile
-      id: "0x4AAAAAAA1-cZp-m0OLmLCR"
+      id: "0x4AAAAAAA4Ssw-3JWFWKq-w"
 ui:
-  theme: 'light' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
+  theme: 'dark' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"

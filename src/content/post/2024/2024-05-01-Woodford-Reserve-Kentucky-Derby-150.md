@@ -19,7 +19,7 @@ gallery:
     image-caption: Woodford Reserve Kentucky Derby 150th Bourbon along with 3 other years
     image-copyright: CollectorOfJack.com
 tags: [ Woodford Reserve, Bourbon, Kentucky Derby, 150th, "2024" ]
-price: 80.00
+price: $80.00
 brand: "Woodford Reserve"
 author: chris
 ---

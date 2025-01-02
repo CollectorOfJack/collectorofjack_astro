@@ -37,6 +37,7 @@ gallery:
     image-copyright: CollectorOfJack.com
 
 tags: [ Heroes Selection, Box, 750ml, Rye, Barrel Proof ]
+
 price: $89
 brand: "Jack Daniel's"
 # updateDate: 2024-11-22T10:45:00+00:00

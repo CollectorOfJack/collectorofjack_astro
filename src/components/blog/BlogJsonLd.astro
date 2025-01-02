@@ -16,9 +16,26 @@ export interface Props {
     height: number;
     format: string;
   };
+  price?: string; // Added for Product schema
+  brand?: string; // Added for Product schema
+  sku?: string;   // Optional SKU
+  gtin?: string;  // Optional GTIN
 }
 
-const { title, description, publishDate, updateDate, tags, authorId, url, image } = Astro.props;
+const { 
+  title, 
+  description, 
+  publishDate, 
+  updateDate, 
+  tags, 
+  authorId, 
+  url, 
+  image, 
+  price, 
+  brand, 
+  sku, 
+  gtin 
+} = Astro.props;
 
 // Fetch authors from the collection
 const authors = await getCollection('authors');
@@ -35,11 +52,8 @@ if (!authorSlug || !author) {
   console.error(`Author "${authorSlug}" not found in authors collection.`);
 }
 
-// Debugging information
-//console.log('BlogJsonLd Data:', { title, description, publishDate, updateDate, tags, author, url, image });
-
-// Prepare schema for JSON-LD
-const schema = {
+// Prepare BlogPosting schema
+const blogSchema = {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   headline: title || 'Untitled Post',
@@ -65,6 +79,69 @@ const schema = {
     "@id": url,
   },
 };
----
+//console.log('inside json');
+// Prepare Product schema if product-related fields are present
+let productSchema;
 
-<script type="application/ld+json" set:html={JSON.stringify(schema)} />
+//console.log('price: ', price);
+
+if (price || brand || sku || gtin) {
+  //console.log('inside product');
+  productSchema = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: title || 'Unnamed Product',
+    image: image?.src || '',
+    description: description || '',
+    sku: sku || '',
+    gtin12: gtin || undefined,
+    brand: {
+      "@type": "Brand",
+      name: brand || 'Collector Of Jack',
+    },
+    offers: {
+      "@type": "Offer",
+      url: url || '',
+      priceCurrency: "USD",
+      price: price?.replace('$', '') || "999.99",
+      itemCondition: "https://schema.org/NewCondition",
+      availability: "https://schema.org/LimitedAvailability",
+      hasMerchantReturnPolicy: {
+        "@type": "MerchantReturnPolicy",
+        applicableCountry: "US",
+        returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
+        merchantReturnDays: 15,
+        returnMethod: "https://schema.org/ReturnInStore",
+      },
+      shippingDetails: {
+        "@type": "OfferShippingDetails",
+        shippingRate: {
+          "@type": "MonetaryAmount",
+          value: 0.00,
+          currency: "USD",
+        },
+        shippingDestination: {
+          "@type": "DefinedRegion",
+          addressCountry: "US",
+        },
+        deliveryTime: {
+          "@type": "ShippingDeliveryTime",
+          transitTime: {
+            "@type": "QuantitativeValue",
+            minValue: 0,
+            maxValue: 0,
+            unitCode: "DAY",
+          },
+        },
+        shippingLabel: "No shipping offered",
+      },
+    },
+    google_product_category: "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits",
+  };
+}
+---
+<script type="application/ld+json" set:html={JSON.stringify(blogSchema)} />
+
+{productSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
+)}

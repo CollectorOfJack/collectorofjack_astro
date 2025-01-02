@@ -77,7 +77,7 @@ const processedGalleries = await Promise.all(
 
 {
   processedGalleries.map(({ galleryName, images }) => (
-    <h2>{galleryName}</h2>
+    <h2>{galleryName} Gallery</h2>
     <div class="gallery" key={galleryName}>
       {images.length > 0 ? (
         <>

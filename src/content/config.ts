@@ -53,6 +53,8 @@ const postCollection = defineCollection({
     author: z.string(),
     metadata: metadataDefinition(),
     url: z.string().optional(),
+    price: z.string().optional(), 
+    brand: z.string().optional(), 
     galleryPath: z.string().optional(),
     gallery: z
       .record( // Use z.record to allow dynamic keys

@@ -1,0 +1,107 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+import pageImage from '~/assets/images/fullsized/TastersSeriesGroup-1.jpg';
+
+const metadata = {
+  title: "Jack Daniel's Gold Medal Series",
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="Special Releases from Jack Daniel's"
+    image={{
+      src: pageImage,
+      alt: "Jack Daniel's Gold Medal Bottles",
+    }}
+  >
+    <Fragment slot="title">
+      <span class="text-accent dark:text-white highlight">Jack Daniel's Gold Medal Series</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      A list of bottles that Jack Daniel's has released in the Gold Medal series, celebrating some of their award winning whiskeys. 
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    title="Quick Facts"
+    stats={[
+      { title: 'First Gold Medal', amount: '1904' },
+      { title: 'Number Releases', amount: '7' },
+      { title: 'Available in', amount: 'Worldwide' },
+    ]}
+  />
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Gold Medal Series"
+    subtitle="A curated selection of gold medal releases"
+    columns={3}
+    isBeforeContent={true}
+    items={[
+      {
+        title: "1904 St. Louis World’s Fair",
+        description:
+          "The first gold medal won by Jack Daniel’s at the 1904 St. Louis World’s Fair, signifying the start of its international acclaim.",
+        icon: 'tabler:bottle',
+        //link: ''
+        
+      },
+      {
+        title: '1905 Liege, Belgium',
+        description:
+          "Recognition at the Liege Exposition Universelle, further solidifying Jack Daniel’s reputation in Europe.",
+        icon: 'tabler:bottle',        
+        // link: '/',
+      },
+      {
+        title: '1913 Ghent, Belgium',
+        description:
+          "Awarded a gold medal at the Exposition Universelle et Internationale in Ghent.",
+        icon: 'tabler:barrel',
+        //link: '/BarrelReunion1',
+      },
+      {
+        title: '1914 London, England',
+        description:
+          "Honored at the Anglo-American Exposition in London, marking a significant achievement in the UK.",
+        icon: 'tabler:bottle',
+        //link: '/TennesseeTastersBarrelProofRye',  
+      },
+      {
+        title: '1915 San Francisco, California',
+        description:
+          "Gold medal awarded at the Panama-Pacific International Exposition in San Francisco.",
+        icon: 'tabler:bottle',
+        //link: '/BarrelReunion2',  
+      },
+      {
+        title: '1954 Brussels, Belgium',
+        description:
+          "Recognition at the Brussels Exposition, highlighting the brand’s continuous excellence.",
+        icon: 'tabler:barrel',
+        //link: '/JamaicanAllSpice',  
+      },
+      {
+        title: '1981 Amsterdam, Netherlands',
+        description:
+          "Commemoration of the 1981 gold medal awarded at the International Wine and Spirits Competition in Amsterdam.",
+        icon: 'tabler:barrel',
+        //link: '/TwinBlend',  
+      },
+    ]}
+  />
+
+  
+
+</Layout>

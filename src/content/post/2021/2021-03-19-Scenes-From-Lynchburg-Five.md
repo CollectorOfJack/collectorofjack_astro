@@ -17,7 +17,7 @@ gallery:
     image-caption: Jack Daniel's Scenes From Lynchburg Number Five
     image-copyright: © CollectorOfJack.com
 tags: [ Lynchburg, 750ml, Scenes ]
-price: 149.99
+price: $149.99
 brand: "Jack Daniel's"
 author: chris
 ---

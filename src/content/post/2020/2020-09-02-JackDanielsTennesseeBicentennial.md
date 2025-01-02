@@ -30,7 +30,7 @@ gallery:
     image-caption: 1796-1996 A special release honoring the state of Tennessee's Bicentennial in 1996
     image-copyright: © CollectorOfJack.com
 tags: [ 750ml, Bicentennial, "1996", Tennessee ]
-price: 499.99
+price: $499.99
 brand: "Jack Daniel's"
 author: chris
 ---

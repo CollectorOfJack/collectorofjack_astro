@@ -13,7 +13,7 @@ export const headerData = {
       href: getPermalink('/series'),
     },
     {
-      text: 'Trading List',
+      text: 'Trade List',
       href: getPermalink('/huntlist'),
     },
     {
@@ -39,7 +39,7 @@ export const footerData = {
       links: [
         { text: 'About', href: '/about' },
         { text: 'Series Releases', href: '/series' },
-        { text: 'Hunt/Searcing for List', href: '/huntlist' },
+        { text: 'Hunt/Searching for List', href: '/huntlist' },
         { text: 'Contact', href: '/contact' },
       ],
     },

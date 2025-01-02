@@ -17,12 +17,6 @@ gallery:
     image-caption: Jack Daniel's Holiday Select Barrel
     image-copyright: © CollectorOfJack.com
 
-redirect_from: 
-  - "about"
-  - "About"
-  - "about/"
-  - "About/"
-
 tags: [ About ] 
 product: false
 author: chris
