@@ -1,6 +1,7 @@
 ---
 title: 'Terms and Conditions'
 layout: '~/layouts/MarkdownLayout.astro'
+description: "Collector of Jack's terms which lays out some of our terms of service and policies."
 ---
 
 _Last updated_: December 27, 2024

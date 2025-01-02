@@ -1,6 +1,7 @@
 ---
 title: 'Privacy Policy'
 layout: '~/layouts/MarkdownLayout.astro'
+description: "Collector of Jack's privacy policy which lays out how we use data obtained via the website."
 ---
 
 _Last updated_: December 27, 2024
