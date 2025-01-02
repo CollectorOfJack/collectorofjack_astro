@@ -26,7 +26,7 @@ For the purposes of this Privacy Policy:
 - **Service** refers to the CollectorOfJack.com website.
 - **Service Provider** refers to any natural or legal person who processes data on behalf of the Company, including third-party services assisting in delivering or analyzing the Service.
 - **Usage Data** refers to data collected automatically, such as page visit durations or other analytics.
-- **Website** refers to CollectorOfJack.com, accessible at [https://www.CollectorOfJack.com](https://www.CollectorOfJack.com).
+- **Website** refers to CollectorOfJack.com, accessible at [https://CollectorOfJack.com](https://CollectorOfJack.com).
 - **You** means the individual accessing the Service or the entity on behalf of which the individual is accessing or using the Service.
 
 ## Collecting and Using Your Personal Data

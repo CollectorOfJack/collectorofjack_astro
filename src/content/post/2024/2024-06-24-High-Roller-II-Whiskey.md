@@ -77,3 +77,4 @@ This being the first release, and potentially a limited run, these bottles ultim
  
 ### Collector Of Jack's Value Assessment
 
+Get your hands on one of these bottles if you can! You can bring them to an event with the High Roller and have the owner/drivers sign the bottle!

@@ -24,7 +24,7 @@ For the purposes of these Terms and Conditions:
 - **Service** refers to the Website.
 - **Terms and Conditions** (also referred to as "Terms") mean these Terms and Conditions, forming the entire agreement between You and the Company regarding the use of the Service.
 - **Third-party Social Media Service** means any services or content provided by a third party that may be displayed, included, or made available through the Service.
-- **Website** refers to CollectorOfJack.com, accessible at [https://www.CollectorOfJack.com](https://www.CollectorOfJack.com). 
+- **Website** refers to CollectorOfJack.com, accessible at [https://CollectorOfJack.com](https://CollectorOfJack.com). 
 - **You** means the individual accessing or using the Service, or the entity on behalf of which such individual is accessing or using the Service.
 
 ## Acknowledgment

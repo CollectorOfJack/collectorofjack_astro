@@ -1,6 +1,6 @@
 site:
   name: CollectorOfJack
-  site: 'https://www.collectorofjack.com'
+  site: 'https://collectorofjack.com'
   base: '/' # '/CollectorOfJack_astro/'
   trailingSlash: false
 
