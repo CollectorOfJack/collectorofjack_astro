@@ -3,7 +3,7 @@ title: "Jack Daniel's and McLaren Racing: A Toast to High-Speed Partnership"
 publishDate: 2023-11-18T10:30:00+00:00
 url: JackDanielsMcLaren
 image: ~/assets/images/fullsized/67/McLaren-6.jpg
-excerpt: "Join us at CollectorOfJack.com as we celebrate our 5th anniversary and explore the exciting partnership between Jack Daniel's and McLaren Racing. Discover the limited edition whiskey bottle and branding on McLaren's 2023 F1 cars, symbolizing a fusion of motorsports thrill and whiskey heritage. With Chris Hammond ramping up content, expect more frequent and engaging posts on the world of whiskey collecting"
+excerpt: "Join us at CollectorOfJack.com as we celebrate our 5th anniversary and explore the exciting partnership between Jack Daniel's and McLaren Racing. Discover the limited edition whiskey bottle and branding on McLaren's 2023 F1 cars, symbolizing a fusion of motorsports thrill and whiskey heritage. With Chris Hammond ramping up content, expect more frequent and engaging posts on the world of whiskey collecting."
 keywords: Jack Daniel's McLaren Partnership, CollectorOfJack.com Anniversary, Formula 1 Whiskey Collaboration, McLaren Racing 2023, Limited Edition Jack Daniel’s Bottle, Whiskey Collecting Blog, Chris Hammond Content, Motorsports and Whiskey Heritage, McLaren F1 Team, Jack Daniel's Branding in F1, Whiskey Collectors Community, High-Speed Whiskey Partnership, CollectorOfJack Updates
 
 gallery:

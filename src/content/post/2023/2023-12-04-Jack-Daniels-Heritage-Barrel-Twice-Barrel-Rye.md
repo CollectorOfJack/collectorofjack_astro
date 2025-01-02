@@ -3,7 +3,8 @@ title: "Jack Daniel's Twice Barreled Heritage Barrel Rye"
 publishDate: 2023-12-04T13:30:00+00:00
 url: TwiceBarreledRye
 image: ~/assets/images/fullsized/69/TwiceBarreledRye-1.jpg
-excerpt: "The Jack Daniel's Distillery Special Release for 2023 is a Twice Barreled Heritage Barrel Rye, featuring Straight Rye Whiskey aged in new oak barrels and then matured in our handmade heritage barrels which are heavily toasted and lightly charred to create a unique flavor."
+excerpt: "The 2023 Jack Daniel's Special Release is a Twice Barreled Heritage Barrel Rye, aged in new oak barrels and matured in handmade heritage barrels for a unique flavor."
+
 keywords: "Jack Daniel’s Bottle, Jack Daniel’s Single Barrel, Barrel Proof, Rye, Barrel Proof Rye"
 
 gallery:
