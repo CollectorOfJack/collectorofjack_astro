@@ -11,7 +11,7 @@ metadata:
   title:
     default: CollectorOfJack
     template: '%s — Collector Of Jack'
-  description: Explore Tennessee whiskey insights with Chris Hammond's 25+ years of experience collecting Jack Daniel's. Get tips, pricing info, and where to find the best Jack Daniel's!
+  description: Explore Tennessee whiskey insights with Chris Hammond's 25+ years of collecting Jack Daniel's. Get tips, pricing info, and where to find the best Jack Daniel's!
   robots:
     index: true
     follow: true
