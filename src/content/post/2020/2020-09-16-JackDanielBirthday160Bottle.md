@@ -38,6 +38,8 @@ gallery:
     image-copyright: © CollectorOfJack.com
 tags: [ Master Distiller, Birthday ]
 updateDate: 2024-07-01T15:55:45+00:00
+price: $359.99
+brand: "Jack Daniel's"
 author: chris
 ---
 In 2010, the Jack Daniel's distillery released a beautiful black bottle for Jack Daniel's 160th birthday. No one is actually sure what day in the month of September is his actual birthday, so they celebrate all month long in Lynchburg Tennessee. The bottle came with a black box, both adorned in white silver and red accents.
