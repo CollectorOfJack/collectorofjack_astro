@@ -3,15 +3,15 @@ title: "Jack Daniel's Small Batch Coy Hill"
 publishDate: 2022-06-29T10:00:00+00:00
 url: SmallBatchCoyHill2022
 image: ~/assets/images/fullsized/61/smallbatchcoyhill-1.jpg
-excerpt: "Coy Hill take 2"
+excerpt: "The second 'Coy Hill' release from Jack Daniel's, this one was very limited and sized as a 375ml bottle"
 gallery:
   SmallBatchCoyHill2022:
   - image_path: ~/assets/images/fullsized/61/smallbatchcoyhill-1.jpg
     image-caption: Jack Daniel's Small Batch Coy Hill 2022
     image-copyright: CollectorOfJack.com
 tags: [ Coy Hill, Special Release, High Proof, 375ml ]
-updateDate: 2024-07-01T15:55:45+00:00
-price: $899.99
+updateDate: 2025-01-03T11:03:45+00:00
+price: $1599.99
 brand: "Jack Daniel's"
 author: chris
 ---
@@ -38,4 +38,9 @@ I am still trying to figure out if I can get over to Lynchburg this week, unlike
 **Size:** 375ml  
 **Price:** $55
 
+## How Much Is Jack Daniel's Small Batch Coy Hill?
+Originally priced around $55, this is one of the hardest to find Jack Daniel's bottles you will look for. Expect to pay north of One Thousand dollars if you find one.
+ 
+### Collector Of Jack's Value Assessment
+If you can find it, you should probably pick it up. If it is under $1k, definitely
 
