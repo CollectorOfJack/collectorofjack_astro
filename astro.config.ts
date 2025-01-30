@@ -32,11 +32,7 @@ export default defineConfig({
       applyBaseStyles: false,
     }),
     sitemap(),
-    mdx({
-      extendDefaultComponents: {
-        Image: 'astro:assets',
-      },
-    }),
+    mdx(),
     icon({
       include: {
         tabler: ['*'],
@@ -60,22 +56,11 @@ export default defineConfig({
     ),
     compress({
       CSS: true,
-      HTML: {
-        'html-minifier-terser': {
-          removeAttributeQuotes: false,
-        },
-      },
-      img: {
-        concurrency: 4, // Adjust based on CPU cores
-      },
+      HTML: true,
       Image: false,
       JavaScript: true,
-      SVG: true,
-      Logger: 0, // Minimal logging for compress
-//      hooks: {
-//        onCompressionStart: (file) => console.log(`Compressing: ${file}`),
-//        onCompressionEnd: (file) => console.log(`Finished: ${file}`),
-//      },
+      SVG: false,
+      Logger: 0, 
     }),
     astrowind({
       config: './src/config.yaml',
@@ -90,7 +75,9 @@ export default defineConfig({
       lazyImagesRehypePlugin,
     ],
   },
-
+  build:{
+    concurrency: 4,
+  },
   vite: {
     resolve: {
       alias: {
