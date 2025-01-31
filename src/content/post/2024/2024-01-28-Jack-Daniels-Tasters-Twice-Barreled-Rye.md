@@ -21,7 +21,7 @@ author: chris
 
 **Update July 2024:** Released at the Distillery on 7/16/2024.
 
-**[Read our blog on this one](/DistillerySeries013)**
+**[Read our blog on this one](/2024/DistillerySeries013)**
 
 The 13th release in the Jack Daniel's [Distillery Series](/series/tasters-distillery), formerly Tennessee Tasters' has been announced, a Twice Barreled Rye. 
 
