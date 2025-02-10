@@ -3,11 +3,14 @@ export default async (request: Request) => {
   
     // Check if the "rbmphoto" query parameter exists
     if (url.searchParams.has("rbmphoto")) {
-      // Redirect to the clean URL without any query parameters
+      // Remove query parameters
+      url.searchParams.delete("rbmphoto");
+  
+      // Redirect to the clean URL (without the "rbmphoto" parameter)
       return new Response(null, {
         status: 301,
         headers: {
-          Location: url.origin + url.pathname, // Removes all query params
+          Location: url.origin + url.pathname,
         },
       });
     }
