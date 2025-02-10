@@ -55,10 +55,10 @@ export default defineConfig({
       })
     ),
     compress({
-      CSS: true,
-      HTML: true,
+      CSS: false,
+      HTML: false,
       Image: false,
-      JavaScript: true,
+      JavaScript: false,
       SVG: false,
       Logger: 0, 
     }),
