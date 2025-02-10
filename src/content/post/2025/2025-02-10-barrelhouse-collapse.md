@@ -5,7 +5,7 @@ url: 2025/barrelhouse-collapse
 image: ~/assets/images/2025/february/barrelhousecollapse.jpg
 excerpt: "Word on various facebook pages is that Jack Daniel's had a partial barrelhouse collapse this morning."
 keywords: "Jack Daniel's, barrelhouse"
-tags: [ 'news' ]
+tags: [ 'news', 'tennessee', 'barrelhouse', 'lynchburg' ]
 # updateDate: 2024-11-22T11:23:45+00:00
 author: chris
 ---
