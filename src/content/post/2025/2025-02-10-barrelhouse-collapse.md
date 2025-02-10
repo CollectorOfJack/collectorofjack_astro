@@ -13,9 +13,9 @@ This morning news appears to be breaking that Jack Daniel's has had a barrelhous
 
 I saw it first on the [BarrelHouse107](https://www.facebook.com/Barrelhouse107) Facebook page (picture above from their post) and then also on [The Lynchburg Times](https://www.facebook.com/lynchburgtimes) facebook page.
 
-> "reports of a partial warehouse collapse behind the Jack Daniel's South Bottling Plant on Monday morning at around 5:40 a.m"
+> reports of a partial warehouse collapse behind the Jack Daniel's South Bottling Plant on Monday morning at around 5:40 a.m
 
-> "Here's what we've been able to confirm: It happened at a older warehouse. There were no injuries. Some whiskey spilled but not a large volume."
+> Here's what we've been able to confirm: It happened at a older warehouse. There were no injuries. Some whiskey spilled but not a large volume.
 
 > - The Lynchburg Times
 
