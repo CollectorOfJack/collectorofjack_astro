@@ -13,8 +13,3 @@
 [[edge_functions]]
   function = "redirect-tags"
   path = "/tags"
-[[redirects]]
-  from = "/:slug*"
-  to = "/:slug"
-  status = 301
-  force = true
