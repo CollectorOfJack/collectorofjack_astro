@@ -13,4 +13,3 @@
 [[edge_functions]]
   function = "redirect-tags"
   path = "/tags"
-
