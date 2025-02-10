@@ -13,7 +13,4 @@
 [[edge_functions]]
   function = "redirect-tags"
   path = "/tags"
-[[edge_functions]]
-  function = "remove-rbmphoto"
-  path = "/*"
 

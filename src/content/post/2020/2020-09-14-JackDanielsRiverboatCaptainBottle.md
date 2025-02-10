@@ -121,7 +121,7 @@ The inside of the hang tag read:
 
 > Even at the turn of the century, when steamboat travel was in its decline, a visiting riverboat captain might be overheard asking the whereabouts of Mr. Jack Daniel. Whether Mr. Jack was on hand or not, there was always an ample supply of his fine Tennessee sippin' whiskey reserved for the steamboat master's personal bottle. After all, a deal's a deal.
 
-> The bottle you hold, the RIVERBOARD CAPTAIN'S BOTTLE, was created to reflect the elegance of the days when steamboats ruled the great waters of our nation. The bell design tapers into a perfectly flat bottom to discourage tipping, a feature the Captains of the era fully appreciated in times of rough waters.  
+> The bottle you hold, the RIVERBOAT CAPTAIN'S BOTTLE, was created to reflect the elegance of the days when steamboats ruled the great waters of our nation. The bell design tapers into a perfectly flat bottom to discourage tipping, a feature the Captains of the era fully appreciated in times of rough waters.  
 
 > You'll be pleased to know that the whiskey inside your RIVERBOAT CAPTAIN'S BOTTLE is still made the old way -- the same mellow potable Mr. Jack Daniel offered to the carriage trade of the steamboat age.
 
