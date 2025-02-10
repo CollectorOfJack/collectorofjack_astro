@@ -10,7 +10,6 @@
 [[edge_functions]]
   function = "remove-rbmphoto"
   path = "/*"
-
 [[edge_functions]]
   function = "force-lowercase"
   path = "/*"
