@@ -11,7 +11,12 @@ author: chris
 ---
 This morning news appears to be breaking that Jack Daniel's has had a barrelhouse collapse in the hills around Lynchburg Tennessee.
 
+## Update 2:
+24 hours later here's what we know so far. It was a partial collapse of warehouse 2-15, with about 15% of the barrels inside the building being impacted. Conflicting reports of the building itself, likely built in the 1960s or 1970s and could hold 19,000 barrels. 
 
+So 15% of 19k barrels is almost 3k barrels. That's a lot of whiskey potentially spilled, and likely an environmental concern. Everything I've seen says the whiskey has been contained, but who knows what that means yet. You'd hate to see the whiskey make it to a local waterway and what damage that might cause. 
+
+## Update 1:
 > @10:43 a.m. | We now have an official statement from Brown-Forman. "Overnight, there was a partial collapse of a Jack Daniel Distillery barrel house in Lynchburg, TN. No individuals were inside the barrel house at the time and there were no injuries to any employees. We are working with distillery and local officials to assess the damage," according to Svend Jansen, Jack Daniel's Global Public Relations Director. 
 > - The Lynchburg Times
 
