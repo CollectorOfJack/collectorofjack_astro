@@ -1,7 +1,7 @@
 ---
 title: "Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle + Box "
 publishDate: 2019-06-18T17:32:40+00:00
-url: 150thAnniversary
+url: 150thanniversary
 image: ~/assets/images/fullsized/18/Jack150Box.jpg
 excerpt: A collector's guide to the Jack Daniel's 150th Anniversary Tennessee Whiskey Bottle and the Black Box that it comes packaged in.
 gallery:
@@ -116,6 +116,7 @@ As of March 2019, you can find this bottle on a few websites, for around $150.
 **Proof:** 100  
 **Size:** 1L  
 **Price:** $100  
+
 
 
 

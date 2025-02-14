@@ -2,7 +2,7 @@
 title: "How Much Is My Jack Daniels Collection Worth?"
 publishDate: 2022-12-20T21:30:00+00:00
 updateDate: 2024-07-01T15:55:45+00:00
-url: HowMuchIsMyJackDanielsCollectionWorth
+url: howmuchismyjackdanielscollectionworth
 type: article
 keywords: "Jack Daniel's, Collection, Value, Estimate, Tracker, Worth"
 image: ~/assets/images/fullsized/64/Collection-1.jpg
@@ -69,5 +69,6 @@ Do you want to sell them all at once or one at a time?
 Do you want to sell them to a private collector or a retailer?  
 
 If you are in our around St. Louis (5-6 hour radius) and interested in selling, [be sure to reach out to me](/contact). I might be interested.
+
 
 

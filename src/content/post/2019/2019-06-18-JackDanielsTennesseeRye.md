@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Tennessee Rye
 publishDate: 2019-06-18T17:28:55+00:00
-url: jackdanielstennesseeRye
+url: jackdanielstennesseerye
 image: ~/assets/images/fullsized/17/JackDanielsRye1L-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Tennessee Rye
 gallery:
@@ -105,5 +105,6 @@ Originally priced around the same price as Old No. 7, Jack Daniel's Tennessee Ry
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $60 you should pick it up.
+
 
 

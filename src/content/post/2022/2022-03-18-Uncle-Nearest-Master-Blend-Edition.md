@@ -1,7 +1,7 @@
 ---
 title: Uncle Nearest Master Blend Edition
 publishDate: 2022-03-18T00:14:00+00:00
-url: UncleNearestMasterBlendEdition
+url: unclenearestmasterblendedition
 image: ~/assets/images/fullsized/57/UncleNearestMasterBlend-1.jpg
 excerpt: Uncle Nearest Master Blend Edition available only at the distillery
 gallery:
@@ -58,5 +58,6 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Proof:** 122.9  
 **Size:** 750ml  
 **Price:** $149.99  
+
 
 

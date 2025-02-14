@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's 160th Birthday Bottle 1850-2010
 publishDate: 2020-09-16T10:00:00+00:00
-url: JackDanielBirthday160Bottle
+url: jackdanielbirthday160bottle
 image: ~/assets/images/fullsized/37/CollectorOfJack-15.jpg
 excerpt: Mr. Jack's 160th Birthday 1850 to 2010
 gallery:
@@ -73,4 +73,5 @@ You can find the bottle online, listed around $570 as of September 2020.
 **Proof:** 80  
 **Size:** 750ml  
 **Price:** $29.99 
+
 

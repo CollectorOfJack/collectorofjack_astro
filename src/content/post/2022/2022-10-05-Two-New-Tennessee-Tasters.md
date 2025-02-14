@@ -2,7 +2,7 @@
 title: "Two new Tennessee Tasters bottles from Jack Daniel's"
 publishDate: 2022-10-05T09:30:00+00:00
 updateDate: 2024-07-01T15:55:45+00:00
-url: October2022TennesseeTasters
+url: october2022tennesseetasters
 image: ~/assets/images/fullsized/62/october2022tennesseetasters-1.jpg
 excerpt: "Two new Tennessee Tasters bottles from Jack Daniel's"
 keywords: Tennessee, Tasters, Tennessee Tasters, Distillery Series, Toasted Barrel Finished Rye, Toasted Maple Barrel, Lexie Phillips, Josh Phillips
@@ -48,5 +48,6 @@ Information about them from Jack Daniel's social media:
 **Proof:** 101  
 **Size:** 375ml  
 **Price:** $41
+
 
 

@@ -2,7 +2,7 @@
 title: Tennessee Tasters' Barrel Proof Rye
 publishDate: 2020-08-30T22:32:40+00:00
 updateDate: 2024-07-01T15:55:45+00:00
-url: TennesseeTastersBarrelProofRye
+url: tennesseetastersbarrelproofrye
 image: ~/assets/images/fullsized/31/TennesseeTasters4-1.jpg
 excerpt: The Tennessee Tasters' Barrel Proof Rye Bottle
 gallery:
@@ -36,5 +36,6 @@ As with all the Tasters' Series these bottles were originally only available in 
 **Proof:** 127.6  
 **Size:** 375ml  
 **Price:** $39.99  
+
 
 

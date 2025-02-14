@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Legacy Edition 2
 publishDate: 2019-07-05T14:17:35+00:00
-url: LegacyEdition2
+url: legacyedition2
 image: ~/assets/images/fullsized/20/JDLegacyEdition2-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
 gallery:
@@ -75,4 +75,5 @@ The bottle should be available in all 50 states, if you don't see it yet, check 
 **Proof**: 86   
 **Size**: 750ml  
 **Price**: $25   
+
 

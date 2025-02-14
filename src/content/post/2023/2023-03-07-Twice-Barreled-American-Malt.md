@@ -1,7 +1,7 @@
 ---
 title: "Jack Daniel's Twice Barreled American Single Malt 2022 Special Release"
 publishDate: 2023-03-07T23:30:00+00:00
-url: TwiceBarreledAmericanMalt
+url: twicebarreledamericanmalt
 image: ~/assets/images/fullsized/66/JackDanielsTwiceBarreled-1.jpg
 excerpt: "Explore JD's Twice Barreled American Single Malt 2022, with a unique flavor from double barreling and Oloroso Sherry Cask finishing. Discover this exquisite collector's item."
 keywords: Jack Daniels, American Single Malt, Twice Barreled, 2022 Special Release, Heritage
@@ -67,4 +67,5 @@ Secondary for this bottle started out really high, north of $250, but fell towar
 
 ### Collector Of Jack's Value Assessment
 Don't spend more then $225 for a bottle. 
+
 

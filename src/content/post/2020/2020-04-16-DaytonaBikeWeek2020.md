@@ -1,7 +1,7 @@
 ---
 title: Daytona Bike Week 2020 Collector's Bottle
 publishDate: 2020-04-16T04:26:58+00:00
-url: DaytonaBikeWeek2020
+url: daytonabikeweek2020
 image: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-14.jpg
 excerpt: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
 gallery:
@@ -86,4 +86,5 @@ I look forward to partaking in future bottle sales that these groups do!
 **Proof**: 94  
 **Size**: 750ml  
 **Price**: $75  
+
 

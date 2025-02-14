@@ -1,7 +1,7 @@
 ---
 title: "Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels"
 publishDate: 2024-07-07T15:00:00+00:00
-url: DistillerySeries008
+url: distilleryseries008
 image: ~/assets/images/fullsized/75/DistillerySeries008-1.jpg
 excerpt: "Jack Daniel's Distillery Series debuts with a rye whiskey finished in high-toast maple barrels. Formerly the Tasters Series."
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Maple"
@@ -67,3 +67,4 @@ Originally priced around $43, you will have a hard time finding release 008 stil
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $60 you should pick it up.
+

@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Heritage Barrel 2019
 publishDate: 2019-11-11T03:51:06+00:00
-url: HeritageBarrel2019
+url: heritagebarrel2019
 image: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Heritage Barrel 2019 Release
 gallery:
@@ -49,4 +49,5 @@ I ended up paying $80/each for my two bottles. Wait, what? Yeah, two bottles. La
 **Proof**: 100   
 **Size**: 750ml  
 **Price**: $65+  
+
 

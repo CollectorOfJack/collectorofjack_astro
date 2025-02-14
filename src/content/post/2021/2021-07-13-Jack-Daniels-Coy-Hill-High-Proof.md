@@ -1,7 +1,7 @@
 ---
 title: Jack Daniels Coy Hill High Proof
 publishDate: 2021-07-14T00:20:00+00:00
-url: JackDanielsCoyHillHighProof
+url: jackdanielscoyhillhighproof
 image: ~/assets/images/fullsized/51/JackDanielsCoyHillHighProof-1.jpg
 excerpt: Jack Daniel's Single Barrel Coy Hill High Proof
 gallery:
@@ -28,6 +28,7 @@ It appears as though the next "special release" bottle from Jack Daniel's will b
 > This special release series highlights our innovation in whiskey making here at Jack Daniel Distillery. Hand-selected from the highest parts of our barrel houses and bottled from single barrels, we extens this one-of-kind craftsmanship to you.
 
 We look forward to this one!
+
 
 
 

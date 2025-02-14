@@ -1,7 +1,7 @@
 ---
 title: Jack Daniels 10-Years Old Tennessee Whiskey
 publishDate: 2021-08-24T00:10:00+00:00
-url: 10YearsOldTennesseeWhiskey
+url: 10yearsoldtennesseewhiskey
 image: ~/assets/images/fullsized/53/10YearsOldTennesseeWhiskey-1.jpg
 excerpt: A preview of Jack Daniels 10-Years Old Tennessee Whiskey
 gallery:
@@ -31,5 +31,6 @@ From a message that Chris Fletcher and Jack Daniel's has posted on social media:
 **Proof:** 97
 **Size:** 750ml  
 **Price:** $74.99  
+
 
 

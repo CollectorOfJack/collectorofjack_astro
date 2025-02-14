@@ -1,7 +1,7 @@
 ---
 title: 2019 Jack Daniel's Holiday Countdown Calendar
 publishDate: 2019-12-19T16:41:16+00:00
-url: 2019AdventCalendar
+url: 2019adventcalendar
 image: ~/assets/images/fullsized/27/HolidayCalendar2019-1.jpg
 excerpt: A collector's guide to the Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
 gallery:
@@ -52,4 +52,5 @@ Happy Holidays!
 **Proof**: Varies   
 **Size**: 20 x 50ml  
 **Price**: $90  
+
 

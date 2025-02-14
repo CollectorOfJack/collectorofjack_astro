@@ -1,7 +1,7 @@
 ---
 title: "Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
 publishDate: 2024-07-10T10:55:00+00:00
-url: DistillerySeries011
+url: distilleryseries011
 image: ~/assets/images/fullsized/78/DistillerySeries011-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Añejo, Tequila, Reunion"
@@ -67,3 +67,4 @@ Originally priced around $43, you may still be able to find release 011 on shelv
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $60 you should pick it up.
+

@@ -2,7 +2,7 @@
 title: Jack Daniels Special Release Coy Hill High Proof
 publishDate: 2022-03-17T00:14:00+00:00
 updateDate: 2024-07-01T15:55:45+00:00
-url: JackDanielsSpecialReleaseCoyHillHighProof
+url: jackdanielsspecialreleasecoyhillhighproof
 image: ~/assets/images/fullsized/56/CoyHill-1.jpg
 excerpt: "Jack Daniels Special Release Coy Hill High Proof, an extremely high proof whiskey released in 2021"
 keywords: "Coy Hill, Special Release, High Proof, Jack Daniel"
@@ -67,4 +67,5 @@ You'll be hard pressed to find this bottle for less than $500, with most going f
 
 ### Collector Of Jack's Value Assessment
 Coy Hill is one of the hardest to find bottles, if you can get one, you should scoop it up! I may have an extra bottle if you've got anything interesting to trade!
+
 

@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Bottled in Bond
 publishDate: 2019-10-26T13:47:16+00:00
-url: BottledInBond
+url: bottledinbond
 image: ~/assets/images/fullsized/23/BottledInBond-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Bottled In Bond release available in international travel marketplaces
 gallery:
@@ -88,4 +88,5 @@ This is a beautiful bottle, and box, as you can see in the photo gallery here on
 **Proof**: 100   
 **Size**: 750ml  
 **Price**: $38+  
+
 

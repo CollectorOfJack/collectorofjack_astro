@@ -1,7 +1,7 @@
 ---
 title: "Jack Daniels Triple Mash"
 publishDate: 2022-06-27T23:00:00+00:00
-url: JackDanielsTripleMash
+url: jackdanielstriplemash
 image: ~/assets/images/fullsized/60/TripleMash-1.jpg
 excerpt: "The first of two new offerings from Jack Daniel's"
 gallery:
@@ -60,5 +60,6 @@ I found this bottle at Dogwood Wine and Spirits in Ellisville, Missouri towards 
 **Proof:** 100  
 **Size:** 700ml  
 **Price:** $39.99  
+
 
 

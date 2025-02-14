@@ -1,7 +1,7 @@
 ---
 title: 2020 Holiday Countdown Calendar
 publishDate: 2020-11-29T20:00:00+00:00
-url: 2020HolidayCountdownCalendar
+url: 2020holidaycountdowncalendar
 image: ~/assets/images/fullsized/40/HolidayCountdown2020-1.jpg
 excerpt: 2020's Advent Calendar
 gallery:
@@ -67,4 +67,5 @@ If you're looking for last year's calendar, we've still got some to trade for ot
 **Proof:** Varies  
 **Size:** 20 x 50ml  
 **Price:** $40.99  
+
 

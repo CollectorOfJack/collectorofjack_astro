@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Tennessee Fire Updated Bottle
 publishDate: 2020-09-04T00:00:00+00:00
-url: JackDanielsTennesseeFire2020
+url: jackdanielstennesseefire2020
 image: ~/assets/images/fullsized/35/JackDanielsFire2020-1.jpg
 excerpt: Jack Daniel's Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.
 gallery:
@@ -64,4 +64,5 @@ You can find it at most retailers, nothing special about it from a purchasing pe
 **Proof:** 70  
 **Size:** 750ml  
 **Price:** $19.99  
+
 

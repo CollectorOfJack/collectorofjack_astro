@@ -1,7 +1,7 @@
 ---
 title: "Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks"
 publishDate: 2024-07-18T22:55:00+00:00
-url: DistillerySeries012
+url: distilleryseries012
 image: ~/assets/images/fullsized/79/DistillerySeries012-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Oloroso Sherry Casks"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Oloroso, Sherry, Reunion"
@@ -67,3 +67,4 @@ Originally priced around $43, you may still be able to find release 012 on shelv
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $60 you should pick it up.
+

@@ -1,7 +1,7 @@
 ---
 title: "Jack Daniel's Distillery Series 014 Tennessee Straight Rye Finished in High Toast Maple Barrel"
 publishDate: 2024-12-30T19:55:00+00:00
-url: 2024/DistillerySeries014
+url: 2024/distilleryseries014
 image: ~/assets/images/fullsized/83/DistillerySeries014-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, this is the 013 release Twice Barreled Tennessee Straight Rye Whiskey"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Finished, Maple"
@@ -43,3 +43,4 @@ Originally priced around $45, you may still be able to find release 014 on shelv
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $100 you should pick it up.
+

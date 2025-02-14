@@ -1,7 +1,7 @@
 ---
 title: "Jack Daniel's Small Batch Coy Hill"
 publishDate: 2022-06-29T10:00:00+00:00
-url: SmallBatchCoyHill2022
+url: smallbatchcoyhill2022
 image: ~/assets/images/fullsized/61/smallbatchcoyhill-1.jpg
 excerpt: "The second 'Coy Hill' release from Jack Daniel's, this one was very limited and sized as a 375ml bottle"
 gallery:
@@ -43,4 +43,5 @@ Originally priced around $55, this is one of the hardest to find Jack Daniel's b
  
 ### Collector Of Jack's Value Assessment
 If you can find it, you should probably pick it up. If it is under $1k, definitely
+
 

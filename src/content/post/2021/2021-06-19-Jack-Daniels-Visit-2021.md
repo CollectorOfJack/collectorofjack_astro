@@ -2,7 +2,7 @@
 title: Jack Daniel's Visit June 2021
 excerpt: "A blog post about my visit to Lynchburg Tennessee in June 2021, which coincided with the Green Family reunion weekend."
 publishDate: 2021-06-19T16:20:00+00:00
-url: JackDanielsDistilleryVisit2021
+url: jackdanielsdistilleryvisit2021
 image: ~/assets/images/fullsized/47/Trip20216-16-2021-4.jpg
 gallery:
   JackDanielsDistilleryVisit2021g1:
@@ -127,5 +127,6 @@ On the way home I made a quick stop by the Nearest Green Distillery to see if I 
 I did make one last liquor store stop at Liquor Planet in Murfreesboro. I had stopped there a couple of times previously, one of the St Louis Bourbon Society Admins has posted a photo from there the prior day with a particular Jack Daniel's Single barrel that I wanted, so I stopped in to pick it up. It was just a store pick, but it has a picture of Randall Fanning and Goose, along with one other person (Will perhaps?) applied via a decal, I wanted to add that to my collection so I picked one up. 
 
 The rest of the trip was uneventful, which is always nice. Until the next trip, this one will hold me over.
+
 
 
