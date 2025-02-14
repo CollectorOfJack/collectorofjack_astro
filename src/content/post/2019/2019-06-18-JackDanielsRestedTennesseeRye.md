@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Rested Tennessee Rye
 publishDate: 2019-06-18T17:24:44+00:00
-url: JackDanielsRestedTennesseeRye
+url: jackdanielsrestedtennesseerye
 image: ~/assets/images/fullsized/15/JackDanielsRestedRye-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
 gallery:

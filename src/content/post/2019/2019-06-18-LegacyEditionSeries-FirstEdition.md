@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Legacy Edition Series - First Edition
 publishDate: 2019-06-18T15:20:11+00:00
-url: LegacyEditionSeries-FirstEdition
+url: legacyeditionseries-firstedition
 image: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Legacy Edition Series First Edition release, the green label
 gallery:

@@ -5,7 +5,7 @@ keywords: "jack, daniel's, jd, whiskey, collection, collector, glasses, bottles,
 type: article
 publishDate: 2018-11-18T13:36:55+00:00
 updateDate: 2024-11-15T10:55:45+00:00
-url: JackDanielsCollector
+url: jackdanielscollector
 image: ~/assets/images/fullsized/1/post-bg1.jpg
 
 gallery:

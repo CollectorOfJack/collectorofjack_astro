@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's 125th Anniversary Red Dog Saloon
 publishDate: 2019-06-18T17:16:06+00:00
-url: RedDogSaloon
+url: reddogsaloon
 image: ~/assets/images/fullsized/13/RedDogSaloon-1.jpg
 excerpt: A collector's guide to the Jack Daniel's ode to the Red Dog Saloon release
 gallery:

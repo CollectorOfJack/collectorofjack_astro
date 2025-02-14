@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Holiday Select 2012
 publishDate: 2019-06-18T15:28:40+00:00
-url: HolidaySelect2012
+url: holidayselect2012
 image: ~/assets/images/fullsized/8/HolidaySelect2012-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2012
 gallery:

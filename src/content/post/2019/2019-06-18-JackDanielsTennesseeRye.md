@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Tennessee Rye
 publishDate: 2019-06-18T17:28:55+00:00
-url: JackDanielsTennesseeRye
+url: jackdanielstennesseeRye
 image: ~/assets/images/fullsized/17/JackDanielsRye1L-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Tennessee Rye
 gallery:

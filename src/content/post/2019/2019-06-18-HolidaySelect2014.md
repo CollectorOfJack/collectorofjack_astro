@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Holiday Select 2014
 publishDate: 2019-06-18T17:01:39+00:00
-url: HolidaySelect2014
+url: holidayselect2014
 image: ~/assets/images/fullsized/10/HolidaySelect2014-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2014
 gallery:

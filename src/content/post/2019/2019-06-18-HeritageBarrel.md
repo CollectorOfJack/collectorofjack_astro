@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Single Barrel Heritage Barrel (2018)
 publishDate: 2019-06-18T15:18:24+00:00
-url: HeritageBarrel
+url: heritagebarrel
 image: ~/assets/images/fullsized/5/HeritageBarrel-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Single Barrel Heritage Barrel released in 2018
 gallery:

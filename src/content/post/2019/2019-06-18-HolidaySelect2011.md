@@ -1,7 +1,7 @@
 ---
 title: Jack Daniel's Holiday Select 2011 Whiskey
 publishDate: 2019-06-18T15:22:33+00:00
-url: HolidaySelect2011
+url: holidayselect2011
 image: ~/assets/images/fullsized/7/HolidaySelect2011-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2011
 keywords: "Jack Daniel's, Holiday Select, 2011, Limited Edition, Tennessee Whiskey, Holiday, Single Barrel, Christmas, Lynchburg, Tennessee, CollectorOfJack"

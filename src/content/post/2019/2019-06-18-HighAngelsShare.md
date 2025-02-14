@@ -2,7 +2,7 @@
 title: Tennessee Tasters' High Angel's Share Barrels (2018)
 publishDate: 2019-06-18T15:07:41+00:00
 updateDate: 2024-07-01T15:55:45+00:00
-url: HighAngelsShare
+url: highangelsshare
 image: ~/assets/images/fullsized/3/AngelsShare-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Tennessee Tasters' Series High Angel's Share, one of the best bottles you can try
 gallery:
