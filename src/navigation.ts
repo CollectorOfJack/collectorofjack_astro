@@ -49,7 +49,7 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-bluesky', href: 'https://collectorofjack.bsky.social' },
+    { ariaLabel: 'X', icon: 'tabler:brand-bluesky', href: 'https://bsky.app/profile/collectorofjack.com' },
     { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://instagram.com/CollectorOfJack' },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://facebook.com/CollectorOfJack' },
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
