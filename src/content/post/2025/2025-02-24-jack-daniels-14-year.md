@@ -5,7 +5,7 @@ url: 2025/14year
 image: ~/assets/images/2025/february/jd14.jpg
 excerpt: "Get searching for that Jack Daniel's 14 Year Tennessee Whiskey!"
 keywords: "Jack Daniel's, barrelhouse"
-tags: [ 'news', 'tennessee', 'jack daniels', '14year', '10year','12year', 'mclaren ]
+tags: [ 'news', 'tennessee', 'jack daniels', '14year', '10year','12year', 'mclaren' ]
 updateDate: 2025-02-10T10:57:00+00:00
 author: chris
 ---
@@ -20,4 +20,3 @@ Via other Facebook groups it appears that this 14 year bottle is available today
  - McLaren 2025
 
  If anyone pickes up a bottle or two of those for me, let me know!
- 
