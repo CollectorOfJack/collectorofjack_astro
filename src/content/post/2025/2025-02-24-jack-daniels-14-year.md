@@ -7,6 +7,8 @@ excerpt: "Get searching for that Jack Daniel's 14 Year Tennessee Whiskey!"
 keywords: "Jack Daniel's, barrelhouse"
 tags: [ 'news', 'tennessee', 'jack daniels', '14year', '10year','12year', 'mclaren' ]
 updateDate: 2025-02-10T10:57:00+00:00
+price: $89.00
+brand: "Jack Daniel's"
 author: chris
 ---
 This morning Jack Daniel's [posted on their Facebook page](https://www.facebook.com/jackdaniels/posts/pfbid0d1ix5VNMtF87Hv1om4CLXv1woFfLa8Rh1rS6hBNHqjkfRfDHRSFTosUGPWbWFoKMl) about their release of Jack Daniel's 14 Year. 
