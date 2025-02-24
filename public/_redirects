@@ -156,7 +156,11 @@
 /galleries/150thAnniversary/* /150thAnniversary 301
 /galleries/JackDanielsEricChurch/* /JackDanielsEricChurch 301
 /galleries/JackDanielsTripleMash/* /JackDanielsTripleMash 301
-/galleries/JackDanielsDistilleryVisit2021/* /JackDanielsDistilleryVisit2021 301
+/galleries/JackDanielsDistilleryVisit2021G2/* /jackdanielsdistilleryvisit2021 301
+/galleries/JackDanielsDistilleryVisit2021g2/* /jackdanielsdistilleryvisit2021 301
+/galleries/JackDanielsDistilleryVisit2021/* /jackdanielsdistilleryvisit2021 301
+/JackDanielsDistilleryVisit2021 /jackdanielsdistilleryvisit2021 301
+/galleries/jackdanielsdistilleryvisit2021g2/* /jackdanielsdistilleryvisit2021 301
 /galleries/GentlemanJackTimePiece/* /GentlemanJackTimePiece 301
 /galleries/JackDanielsCoyHill/* /JackDanielsCoyHill 301
 /galleries/HolidaySelect2012/* /HolidaySelect2012 301
