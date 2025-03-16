@@ -1,0 +1,82 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+import pageImage from '~/assets/images/fullsized/10/HolidaySelect2014-1.jpg';
+
+const metadata = {
+  title: "Jack Daniel's Holiday Select Series",
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="Limited Edition Holiday Releases from Jack Daniel's"
+    image={{
+      src: pageImage,
+      alt: "Jack Daniel's Holiday Select Series Bottles.",
+    }}
+  >
+    <Fragment slot="title">
+      <span class="text-accent dark:text-white highlight">Jack Daniel's Holiday Select Series</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      A special annual release of Jack Daniel's, crafted to celebrate the holidays with unique barrel selections.
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    title="Quick Facts"
+    stats=[
+      { title: 'First Release', amount: '2011' },
+      { title: 'Number of Releases', amount: '4' },
+      { title: 'Holiday-Themed', amount: 'Yes' },
+    ]
+  />
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Holiday Select Series"
+    subtitle="A collection of limited-edition holiday-themed Jack Daniel’s releases."
+    columns={2}
+    isBeforeContent={true}
+    items=[
+      {
+        title: "Holiday Select 2011",
+        description:
+          "The first in the series, crafted from barrels selected from the Jack Daniel’s Holiday Barrel Tree.",
+        icon: 'tabler:bottle',
+        link: '/holidayselect2011',
+      },
+      {
+        title: 'Holiday Select 2012',
+        description:
+          "A continuation of the holiday tradition, offering deep, oaky flavors with a festive twist.",
+        icon: 'tabler:bottle',        
+        link: '/holidayselect2012',
+      },
+      {
+        title: 'Holiday Select 2013',
+        description:
+          "Crafted with hand-selected barrels from the distillery’s holiday display, featuring smooth vanilla and spice notes.",
+        icon: 'tabler:bottle',
+        link: '/holidayselect2013',
+      },
+      {
+        title: 'Holiday Select 2014',
+        description:
+          "The final release in the Holiday Select series, embodying the essence of holiday warmth and craftsmanship.",
+        icon: 'tabler:bottle',
+        link: '/holidayselect2014',  
+      },
+    ]
+  />
+</Layout>
