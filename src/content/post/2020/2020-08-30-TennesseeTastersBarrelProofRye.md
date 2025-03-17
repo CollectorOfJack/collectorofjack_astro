@@ -6,7 +6,7 @@ url: tennesseetastersbarrelproofrye
 image: ~/assets/images/fullsized/31/TennesseeTasters4-1.jpg
 excerpt: The Tennessee Tasters' Barrel Proof Rye Bottle
 gallery:
-  TennesseeTastersBarrelProofRye:
+  tennesseetastersbarrelproofrye:
   - image_path: ~/assets/images/fullsized/31/TennesseeTasters4-1.jpg
     image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
