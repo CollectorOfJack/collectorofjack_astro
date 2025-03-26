@@ -22,14 +22,13 @@ gallery:
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
 tags: [ Legacy, 750ml ]
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-03-26T11:44:45+00:00
 price: $149.99
 brand: "Jack Daniel's"
 author: chris
 ---
 The Jack Daniel's Legacy Edition Series is a new line of bottles, with the First Edition, being released in fall 2018. The bottle sells for about the same price as your average 1/5th (750ml) of Old No. 7, and can be found in markets all over the United States (from our own experience we have found it in Nebraska and Missouri so far).   
 
-  
 This First Edition bottle commemorates the colorful history of the Jack Daniel's label, often associated with the tried and true Black and White label. This green and gold trimmed label was used some time before 1904, and has a nice red background behind the Old No. 7 emblem. The Jack Daniel's inside is bottled at 86 proof.   
    
 It'll be interesting to see what additional bottles are released under the Legacy Edition Series bottles.   
@@ -38,6 +37,13 @@ It'll be interesting to see what additional bottles are released under the Legac
 **Proof**: 86   
 **Size**: 750ml  
 **Price**: $35   
+
+## How Much Is Jack Daniel's Legacy Edition Series - First Edition
+Originally priced around $39, towards the end of it's time on the shelf you could find it for under $15 a bottle! Those days are long gone now though, you won't find this on a regular store shelf anymore.
+ 
+### Collector Of Jack's Value Assessment
+If you can find it for under $150 pick it up.
+
 
 
 

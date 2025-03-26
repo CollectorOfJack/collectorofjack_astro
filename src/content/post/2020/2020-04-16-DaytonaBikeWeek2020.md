@@ -49,7 +49,7 @@ gallery:
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
 tags: [ Single Barrel, Florida, Sunshine State Squires ]
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-03-26T11:55:45+00:00
 price: $125.99
 brand: "Jack Daniel's"
 author: chris
@@ -76,8 +76,8 @@ The etched bottle reads the same as the coaster, and the back of the coin:
 > 2020
 
 I ended up ordering two of these bottles, and 3 extra sleeves. As I've gotten into the various Facebook groups I've seen these custom bottles and sleeves that have “scenes”, and when you have multiple boxes next to each other you can see the full scene, you can see this in the photos below as I have a shot of one of the sleeves fully spread out.
-I look forward to partaking in future bottle sales that these groups do!
 
+I look forward to partaking in future bottle sales that these groups do!
 
 **Bottled**: March 10, 2020  
 **Barrel Number**: 20-01418  
@@ -87,4 +87,10 @@ I look forward to partaking in future bottle sales that these groups do!
 **Size**: 750ml  
 **Price**: $75  
 
+
+## How Much Is Daytona Bike Week 2020 Collector's Bottle?
+Originally priced around $89, this is one you had to be part of a special squire's group to order. You'll have to find it through someone who previously purchased this.
+ 
+### Collector Of Jack's Value Assessment
+If you can find it for under $200 pick it up.
 
