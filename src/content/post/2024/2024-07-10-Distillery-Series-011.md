@@ -2,19 +2,19 @@
 title: "Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
 publishDate: 2024-07-10T10:55:00+00:00
 url: distilleryseries011
-image: ~/assets/images/fullsized/78/DistillerySeries011-1.jpg
+image: ~/assets/images/fullsized/78/distilleryseries011-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Añejo, Tequila, Reunion"
 
 gallery:
-  DistillerySeries011:
-  - image_path: ~/assets/images/fullsized/78/DistillerySeries011-1.jpg
+  distilleryseries011:
+  - image_path: ~/assets/images/fullsized/78/distilleryseries011-1.jpg
     image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/78/DistillerySeries011-2.jpg
+  - image_path: ~/assets/images/fullsized/78/distilleryseries011-2.jpg
     image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/78/DistillerySeries011-3.jpg
+  - image_path: ~/assets/images/fullsized/78/distilleryseries011-3.jpg
     image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
 

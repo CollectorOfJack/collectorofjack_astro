@@ -2,28 +2,28 @@
 title: "Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels"
 publishDate: 2024-07-07T16:00:00+00:00
 url: distilleryseries009
-image: ~/assets/images/fullsized/76/DistillerySeries009-1.jpg
+image: ~/assets/images/fullsized/76/distilleryseries009-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 009, Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Oak"
 
 gallery:
-  DistillerySeries009:
-  - image_path: ~/assets/images/fullsized/76/DistillerySeries009-1.jpg
+  distilleryseries009:
+  - image_path: ~/assets/images/fullsized/76/distilleryseries009-1.jpg
     image-caption: Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/76/DistillerySeries009-2.jpg
+  - image_path: ~/assets/images/fullsized/76/distilleryseries009-2.jpg
     image-caption: Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/76/DistillerySeries009-3.jpg
+  - image_path: ~/assets/images/fullsized/76/distilleryseries009-3.jpg
     image-caption: Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/76/DistillerySeries009-4.jpg
+  - image_path: ~/assets/images/fullsized/76/distilleryseries009-4.jpg
     image-caption: Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/76/DistillerySeries009-5.jpg
+  - image_path: ~/assets/images/fullsized/76/distilleryseries009-5.jpg
     image-caption: Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/76/DistillerySeries009-6.jpg
+  - image_path: ~/assets/images/fullsized/76/distilleryseries009-6.jpg
     image-caption: Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels Front from Angle
     image-copyright: CollectorOfJack.com
 tags: [ Distillery Series, Tasters, Box, 375ml, Rye, Oak ]

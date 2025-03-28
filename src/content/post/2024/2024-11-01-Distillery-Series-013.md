@@ -2,25 +2,25 @@
 title: "Jack Daniel's Distillery Series 013 Twice Barreled Tennessee Straight Rye Whiskey"
 publishDate: 2024-11-01T07:55:00+00:00
 url: 2024/distilleryseries013
-image: ~/assets/images/fullsized/81/DistillerySeries013-1.jpg
+image: ~/assets/images/fullsized/81/distilleryseries013-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, this is the 013 release Twice Barreled Tennessee Straight Rye Whiskey"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Twice Barreled"
 
 gallery:
-  DistillerySeries013:
-  - image_path: ~/assets/images/fullsized/81/DistillerySeries013-1.jpg
+  distilleryseries013:
+  - image_path: ~/assets/images/fullsized/81/distilleryseries013-1.jpg
     image-caption: Jack Daniel's Distillery Series 013 Twice Barreled Tennessee Straight Rye Whiskey Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/81/DistillerySeries013-2.jpg
+  - image_path: ~/assets/images/fullsized/81/distilleryseries013-2.jpg
     image-caption: Jack Daniel's Distillery Series 013 Twice Barreled Tennessee Straight Rye Whiskey Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/81/DistillerySeries013-3.jpg
+  - image_path: ~/assets/images/fullsized/81/distilleryseries013-3.jpg
     image-caption: Jack Daniel's Distillery Series 013 Twice Barreled Tennessee Straight Rye Whiskey Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/81/DistillerySeries013-4.jpg
+  - image_path: ~/assets/images/fullsized/81/distilleryseries013-4.jpg
     image-caption: Jack Daniel's Distillery Series 013 Twice Barreled Tennessee Straight Rye Whiskey Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/81/DistillerySeries013-5.jpg
+  - image_path: ~/assets/images/fullsized/81/distilleryseries013-5.jpg
     image-caption: Jack Daniel's Distillery Series 013 Twice Barreled Tennessee Straight Rye Whiskey Side/Rear of Bottle
     image-copyright: Copyright 2024 CollectorOfJack.com
 
@@ -30,7 +30,7 @@ price: $199
 brand: "Jack Daniel's"
 updateDate: 2024-11-22T11:23:45+00:00
 redirect_from:
-  - DistillerySeries013
+  - distilleryseries013
 author: chris
 ---
 Released in the summer of 2024, the Twice Barreled Tennessee Straight Rye Whiskey was the sixth in the renamed [Distillery Series](/series/tasters-distillery) and number 13 overall when including the Tennessee Taster's line.

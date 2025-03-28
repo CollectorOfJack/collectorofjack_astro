@@ -2,19 +2,19 @@
 title: "Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks"
 publishDate: 2024-07-18T22:55:00+00:00
 url: distilleryseries012
-image: ~/assets/images/fullsized/79/DistillerySeries012-1.jpg
+image: ~/assets/images/fullsized/79/distilleryseries012-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Oloroso Sherry Casks"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Oloroso, Sherry, Reunion"
 
 gallery:
-  DistillerySeries012:
-  - image_path: ~/assets/images/fullsized/79/DistillerySeries012-1.jpg
+  distilleryseries012:
+  - image_path: ~/assets/images/fullsized/79/distilleryseries012-1.jpg
     image-caption: Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/79/DistillerySeries012-2.jpg
+  - image_path: ~/assets/images/fullsized/79/distilleryseries012-2.jpg
     image-caption: Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/79/DistillerySeries012-3.jpg
+  - image_path: ~/assets/images/fullsized/79/distilleryseries012-3.jpg
     image-caption: Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
 

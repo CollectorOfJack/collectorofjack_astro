@@ -2,28 +2,28 @@
 title: "Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips"
 publishDate: 2024-07-08T23:55:00+00:00
 url: distilleryseries010
-image: ~/assets/images/fullsized/77/DistillerySeries010-1.jpg
+image: ~/assets/images/fullsized/77/distilleryseries010-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips"
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Toasted, Pecan"
 
 gallery:
-  DistillerySeries010:
-  - image_path: ~/assets/images/fullsized/77/DistillerySeries010-1.jpg
+  distilleryseries010:
+  - image_path: ~/assets/images/fullsized/77/distilleryseries010-1.jpg
     image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/77/DistillerySeries010-2.jpg
+  - image_path: ~/assets/images/fullsized/77/distilleryseries010-2.jpg
     image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/77/DistillerySeries010-3.jpg
+  - image_path: ~/assets/images/fullsized/77/distilleryseries010-3.jpg
     image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/77/DistillerySeries010-4.jpg
+  - image_path: ~/assets/images/fullsized/77/distilleryseries010-4.jpg
     image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/77/DistillerySeries010-5.jpg
+  - image_path: ~/assets/images/fullsized/77/distilleryseries010-5.jpg
     image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/77/DistillerySeries010-6.jpg
+  - image_path: ~/assets/images/fullsized/77/distilleryseries010-6.jpg
     image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips Front from Angle
     image-copyright: CollectorOfJack.com
 tags: [ Distillery Series, Tasters, Box, 375ml, Toasted, Pecan ]
