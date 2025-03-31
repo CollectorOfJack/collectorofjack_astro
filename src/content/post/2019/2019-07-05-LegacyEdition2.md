@@ -5,7 +5,7 @@ url: legacyedition2
 image: ~/assets/images/fullsized/20/jdlegacyedition2-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
 gallery:
-  LegacyEdition2:
+  Legacy Edition Series - Second Edition:
   - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-1.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
@@ -43,8 +43,9 @@ In May of 2019 Jack Daniel's released the second in their Legacy Edition line. T
 
 > Tennessee- The second release in the limited edition Legacy Series is reminiscent of an early 1900s era design. Its anchor and rope crest and black background speak to the quiet confidence and character of the Tennessee Whiskey that rests within.
 
-While the label is predominantly black, it has notes of gold and red, along with gray and white decorating the design. The front label reads
+While the label is predominantly black, it has notes of gold and red, along with gray and white decorating the design. 
 
+## The front label reads
 > Rich Mellow  
 > Jack Daniel's Old No. 7  
 > Old Time Sour Mash  
@@ -53,14 +54,13 @@ While the label is predominantly black, it has notes of gold and red, along with
 > Lynchburg, Tennessee, USA  
 > 43% Alc. By Vol. (86 Proof)  
 
-
-The right side of the bottle reads:
+## The right side of the bottle reads:
 > Legacy Edition 2  
 > Our second bottling in the Limited Edition Legacy Series is reminiscent of an early 1900s era design. Its anchor and rope crest and black background speak to the quiet confidence and character of the Tennessee whiskey that rests within.  
 > “Every day we make it, we'll make it the best we can”
 > Jack Daniel
 
-The left side of the bottle reads:
+## The left side of the bottle reads:
 > The Oldest Registered Distillery In The United States  
 > DSP-TENN No. 1 Est. 1866  
 > Old No. 7 Brand  

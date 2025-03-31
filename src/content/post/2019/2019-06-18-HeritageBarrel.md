@@ -5,7 +5,7 @@ url: heritagebarrel
 image: ~/assets/images/fullsized/5/heritagebarrel-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Single Barrel Heritage Barrel released in 2018
 gallery:
-  HeritageBarrel:
+  Heritage Barrel:
   - image_path: ~/assets/images/fullsized/5/heritagebarrel-1.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
@@ -35,8 +35,7 @@ In late September 2018 Jack Daniel's announced a new Special Release Tennessee W
 
 [JackDaniels.com](https://www.jackdaniels.com/en-us/whiskey/limited/single-barrel-heritage-barrel)
 
-The included cardboard wrapped on the neck of the bottle, reads:
-
+## The included cardboard wrapped on the neck of the bottle, reads:
 > Master Distiller Jeff Arnett and his team of whiskey makers created a truly unique whiskey for this special release of Jack Daniel's Single Barrel.
 > The “Heritage Barrel” expression of Jack Daniel's Single Barrel was crafted with a low temperature, heavy toasted barrel which creates a light but rich char full of deep flavor. A lower 100 entry proof allows our grain bill to assert itself creating a special Tennessee Whiskey with notes of light baking spices, vanilla, and toasted oak with long, lingering finish.
 > Aged to perfection at the top of one of the highest elevated barrelhouses, 1-09, on Coy Hill. What emerges is a flavorful and rich Tennessee Whiskey that we think you'll appreciate.
@@ -56,5 +55,4 @@ Good luck hunting!
 **Proof:** 100  
 **Size:** 750ml  
 **Price:** $89  
-
 

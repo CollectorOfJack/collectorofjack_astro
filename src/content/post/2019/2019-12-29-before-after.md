@@ -5,7 +5,7 @@ url: before-after
 image: ~/assets/images/fullsized/28/beforeandafter-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Before and After Charcoal Mellowing release 
 gallery:
-  BeforeAndAfter:
+  Before And After:
   - image_path: ~/assets/images/fullsized/28/beforeandafter-1.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com

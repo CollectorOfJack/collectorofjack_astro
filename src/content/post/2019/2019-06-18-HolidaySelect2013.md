@@ -5,7 +5,7 @@ url: holidayselect2013
 image: ~/assets/images/fullsized/9/holidayselect2013-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2013
 gallery:
-  HolidaySelect2013:
+  Holiday Select 2013:
   - image_path: ~/assets/images/fullsized/9/holidayselect2013-1.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2013
     image-copyright: © CollectorOfJack.com

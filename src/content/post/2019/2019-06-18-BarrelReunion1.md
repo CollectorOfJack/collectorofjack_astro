@@ -6,7 +6,7 @@ url: barrelreunion1
 image: ~/assets/images/fullsized/19/collectorofjack-7.jpg
 excerpt: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle.
 gallery:
-  BarrelReunion1:
+  Barrel Reunion 1:
   - image_path: ~/assets/images/fullsized/19/collectorofjack-7.jpg
     image-caption: "Jack Daniel's Tennessee Tasters' Series Barrel Reunion #1 bottle."
     image-copyright: © CollectorOfJack.com

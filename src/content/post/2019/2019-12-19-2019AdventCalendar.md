@@ -5,7 +5,7 @@ url: 2019adventcalendar
 image: ~/assets/images/fullsized/27/holidaycalendar2019-1.jpg
 excerpt: A collector's guide to the Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
 gallery:
-  2019AdventCalendar:
+  2019 Advent Calendar:
   - image_path: ~/assets/images/fullsized/27/holidaycalendar2019-1.jpg
     image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
     image-copyright: © CollectorOfJack.com
@@ -21,7 +21,7 @@ gallery:
   - image_path: ~/assets/images/fullsized/27/holidaycalendar2019-5.jpg
     image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
     image-copyright: © CollectorOfJack.com
-tags: [ Holiday, Calendar, Mini Bottles ]
+tags: [ Holiday, Calendar, Mini Bottles, Advent ]
 updateDate: 2024-07-01T15:55:45+00:00
 price: $299.99
 brand: "Jack Daniel's"
@@ -33,12 +33,11 @@ I spent quite a bit of time this fall trying to find this calendar in the St. Lo
 
 The countdown calendar comes with 20 50ML bottles, and 4 shot glasses. The bottles are a mix of Tennessee Honey, Old #7, Tennessee Fire, Gentleman Jack, Single Barrel Select and Rye.
 
-The front of the box reads
-
+## The front of the box reads
 > Jack Daniel Distillery Lynchburg Tenn.  
 > Holiday Countdown Calendar
 
-The back has the logos, and a description of each of the various libations along with: 
+## The back has the logos, and a description of each of the various libations along with: 
 > Happy Holidays from Our Family to Yours  
 > In Lynchburg, Tennessee, the holidays are about traditions old and new. While old traditions warm the heart, there's something special about starting a new one. We hope that as you open a new calendar door, you'll share a toast with the folks closest to you.
 
@@ -52,6 +51,4 @@ Happy Holidays!
 **Proof**: Varies   
 **Size**: 20 x 50ml  
 **Price**: $90  
-
-
 

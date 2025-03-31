@@ -5,7 +5,7 @@ url: jackdanielsrestedtennesseerye
 image: ~/assets/images/fullsized/15/jackdanielsrestedrye-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
 gallery:
-  JackDanielsRestedTennesseeRye:
+  Jack Daniels Rested Tennessee Rye:
   - image_path: ~/assets/images/fullsized/15/jackdanielsrestedrye-1.jpg
     image-caption: Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
     image-copyright: © CollectorOfJack.com

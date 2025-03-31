@@ -5,7 +5,7 @@ url: jackdanielsunagedtennesseerye
 image: ~/assets/images/fullsized/14/jackdanielsrye1-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Unaged Tennessee Rye, the first foray into Rye for Jack Daniels
 gallery:
-  JackDanielsUnagedTennesseeRye:
+  Jack Daniels Unaged Tennessee Rye:
   - image_path: ~/assets/images/fullsized/14/jackdanielsrye1-1.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com

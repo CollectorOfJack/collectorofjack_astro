@@ -5,7 +5,7 @@ url: winterjack
 image: ~/assets/images/fullsized/12/winterjack-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Winter Jack, Tennessee Cider
 gallery:
-  WinterJack:
+  Winter Jack:
   - image_path: ~/assets/images/fullsized/12/winterjack-1.jpg
     image-caption: Jack Daniel's Winter Jack, Tennessee Cider
     image-copyright: © CollectorOfJack.com

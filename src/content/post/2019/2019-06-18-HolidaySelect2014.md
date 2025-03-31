@@ -5,7 +5,7 @@ url: holidayselect2014
 image: ~/assets/images/fullsized/10/holidayselect2014-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2014
 gallery:
-  HolidaySelect2014:
+  Holiday Select 2014:
   - image_path: ~/assets/images/fullsized/10/holidayselect-1.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
@@ -83,6 +83,4 @@ Originally priced around $89, you'll be hard pressed to find it for anything les
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $250 you should pick it up!
-
-
 

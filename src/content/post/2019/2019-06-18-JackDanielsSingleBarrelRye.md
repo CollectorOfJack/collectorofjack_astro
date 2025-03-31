@@ -5,7 +5,7 @@ url: jackdanielssinglebarrelrye
 image: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Single Barrel Rye bottle 
 gallery:
-  JackDanielsSingleBarrelRye:
+  Jack Daniels Single Barrel Rye:
   - image_path: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-1.jpg
     image-caption: Jack Daniel's Single Barrel Rye bottle 
     image-copyright: © CollectorOfJack.com

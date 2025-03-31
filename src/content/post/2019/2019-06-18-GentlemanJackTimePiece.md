@@ -5,7 +5,7 @@ url: gentlemanjacktimepiece
 image: ~/assets/images/fullsized/2/day1-4.jpg
 excerpt: A collector's guide to the Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
 gallery:
-  GentlemanJackTimePiece:
+  Gentleman Jack Time Piece:
   - image_path: ~/assets/images/fullsized/2/day1-4.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com

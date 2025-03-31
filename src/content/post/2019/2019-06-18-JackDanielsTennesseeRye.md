@@ -5,7 +5,7 @@ url: jackdanielstennesseerye
 image: ~/assets/images/fullsized/17/jackdanielsrye1l-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Tennessee Rye
 gallery:
-  JackDanielsTennesseeRye:
+  Jack Daniels Tennessee Rye:
   - image_path: ~/assets/images/fullsized/17/jackdanielsrye1l-1.jpg
     image-caption: Jack Daniel's Tennessee Rye 1 Liter
     image-copyright: © CollectorOfJack.com

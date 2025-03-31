@@ -26,7 +26,7 @@ brand: "Jack Daniel's"
 author: chris
 ---
 In 2016 Jack Daniel's celebrated the 150th anniversary of the Jack Daniel's Distillery in Lynchburg, TN. They commemorated this with a special edition bottle in a black and gold label.
-The front of the bottle reads:
+## The front of the bottle reads:
 > Jack Daniel's   
 > 1866 150th 2016  
 > Anniversary of the Jack Daniel Distillery  
@@ -37,11 +37,10 @@ The front of the bottle reads:
 > Lynchburg, Tennessee, USA  
 > 43% Alc By Vol. (86 Proof)  
 
-The right side of the bottle reads:
-
+## The right side of the bottle reads:
 > This Special Eight-six Proof Old No.7 Is a Tribute to a Legacy of Whiskey Craftsmanship &amp; The Birthplace of an American Classic
 
-The left side reads:
+## The left side reads:
 > The year 2016 Marks 150 Years of Jack Daniel Distillery The Oldest Registered Distillery in The United States of America  
 
 I don't believe the bottle was limited in release, and was likely available in all 50 states. I haven't seen one on a shelf in quite a few years however. You can find it online for around $130.  
@@ -51,6 +50,3 @@ I don't believe the bottle was limited in release, and was likely available in a
 **Proof:** 86  
 **Size:** 750ml  
 **Price:** $24.99  
-
-
-

@@ -6,7 +6,7 @@ url: hickorysmoked
 image: ~/assets/images/fullsized/4/hickorysmoked-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Hickory Smoked release "Tennessee Whiskey Finish with Charred Hickory Staves"
 gallery:
-  HickorySmoked:
+  Hickory Smoked:
   - image_path: ~/assets/images/fullsized/4/hickorysmoked-1.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com

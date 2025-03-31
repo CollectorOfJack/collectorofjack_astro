@@ -5,7 +5,7 @@ url: legacyeditionseries-firstedition
 image: ~/assets/images/fullsized/6/legacyeditionseriesfirstedition-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Legacy Edition Series First Edition release, the green label
 gallery:
-  LegacyEditionSeries-FirstEdition:
+  Legacy Edition Series - First Edition:
   - image_path: ~/assets/images/fullsized/6/legacyeditionseriesfirstedition-1.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
