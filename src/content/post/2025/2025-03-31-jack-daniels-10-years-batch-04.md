@@ -37,7 +37,7 @@ gallery:
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
     image-copyright: CollectorOfJack.com
 ---
-This post covers another one of the age statement release series of releases from Jack Daniel's, specifically batch 04 of the 10 Years Old release of Jack Daniel's.
+This post covers another one of the [age statement release series](/series/aged-releases) of releases from Jack Daniel's, specifically batch 04 of the 10 Years Old release of Jack Daniel's.
 
 ### How did I get a bottle?
 I was able to locate this bottle at a liquor store in Clarksville, Tennessee. I picked this bottle along with another bottle of [High Angel's Share](/highangelsshare) for a too good to be listed price!
