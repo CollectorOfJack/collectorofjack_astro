@@ -43,7 +43,7 @@ Lucky for me they did! A big shout out to K-n-K for picking them up for me. Here
 **Release**: October 2018  
 **Proof**: 107  
 **Size**: 375ml  
-**Price**: $49
+**Price**: $49  
 
 ## How Much Is Jack Daniel's Tennessee Tasters' High Angel's Share Barrels?
 Originally priced around $49, I have recently seen it on a shelf at $99, but that was the first time in 5 years I've seen it on a shelf.
