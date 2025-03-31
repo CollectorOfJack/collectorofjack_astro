@@ -33,7 +33,7 @@ price: $149.99
 brand: "Jack Daniel's"
 author: chris
 ---
-[Last year, Jack Daniel's brought their Holiday Countdown Calendar](/2019AdventCalendar) to the states, this year they bring it again and supposedly make it easier to find!
+[Last year, Jack Daniel's brought their Holiday Countdown Calendar](/2019adventcalendar) to the states, this year they bring it again and supposedly make it easier to find!
 
 That being said, I haven't seen one in Missouri since early October (I was able to get some from Total Wine here in the St. Louis area). Which is a step up from last year. I had to drive to Memphis to find one, I couldn't find them in St. Louis until January. Once they were here though, Lukas (Dogwood) had them until late summer, I may have purchased a case of them late in the summer.
 
