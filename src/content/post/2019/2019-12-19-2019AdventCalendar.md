@@ -2,23 +2,23 @@
 title: 2019 Jack Daniel's Holiday Countdown Calendar
 publishDate: 2019-12-19T16:41:16+00:00
 url: 2019adventcalendar
-image: ~/assets/images/fullsized/27/HolidayCalendar2019-1.jpg
+image: ~/assets/images/fullsized/27/holidaycalendar2019-1.jpg
 excerpt: A collector's guide to the Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
 gallery:
   2019AdventCalendar:
-  - image_path: ~/assets/images/fullsized/27/HolidayCalendar2019-1.jpg
+  - image_path: ~/assets/images/fullsized/27/holidaycalendar2019-1.jpg
     image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/27/HolidayCalendar2019-2.jpg
+  - image_path: ~/assets/images/fullsized/27/holidaycalendar2019-2.jpg
     image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/27/HolidayCalendar2019-3.jpg
+  - image_path: ~/assets/images/fullsized/27/holidaycalendar2019-3.jpg
     image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/27/HolidayCalendar2019-4.jpg
+  - image_path: ~/assets/images/fullsized/27/holidaycalendar2019-4.jpg
     image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/27/HolidayCalendar2019-5.jpg
+  - image_path: ~/assets/images/fullsized/27/holidaycalendar2019-5.jpg
     image-caption: Jack Daniel's 2019 Holiday Calendar, the Advent Calendar finally makes it to the United States
     image-copyright: © CollectorOfJack.com
 tags: [ Holiday, Calendar, Mini Bottles ]
@@ -52,5 +52,6 @@ Happy Holidays!
 **Proof**: Varies   
 **Size**: 20 x 50ml  
 **Price**: $90  
+
 
 

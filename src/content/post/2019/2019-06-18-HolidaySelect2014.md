@@ -2,56 +2,56 @@
 title: Jack Daniel's Holiday Select 2014
 publishDate: 2019-06-18T17:01:39+00:00
 url: holidayselect2014
-image: ~/assets/images/fullsized/10/HolidaySelect2014-1.jpg
+image: ~/assets/images/fullsized/10/holidayselect2014-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2014
 gallery:
   HolidaySelect2014:
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect-1.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect-1.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect-2.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect-2.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect-3.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect-3.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect-4.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect-4.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect-5.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect-5.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect-6.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect-6.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect-7.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect-7.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect-8.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect-8.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-1.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect2014-1.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-2.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect2014-2.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-3.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect2014-3.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-4.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect2014-4.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-5.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect2014-5.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-6.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect2014-6.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-7.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect2014-7.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/10/HolidaySelect2014-8.jpg
+  - image_path: ~/assets/images/fullsized/10/holidayselect2014-8.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2014
     image-copyright: © CollectorOfJack.com
 
@@ -83,5 +83,6 @@ Originally priced around $89, you'll be hard pressed to find it for anything les
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $250 you should pick it up!
+
 
 

@@ -2,23 +2,23 @@
 title: Jack Daniel's Single Barrel Heritage Barrel (2018)
 publishDate: 2019-06-18T15:18:24+00:00
 url: heritagebarrel
-image: ~/assets/images/fullsized/5/HeritageBarrel-1.jpg
+image: ~/assets/images/fullsized/5/heritagebarrel-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Single Barrel Heritage Barrel released in 2018
 gallery:
   HeritageBarrel:
-  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-1.jpg
+  - image_path: ~/assets/images/fullsized/5/heritagebarrel-1.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-2.jpg
+  - image_path: ~/assets/images/fullsized/5/heritagebarrel-2.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-3.jpg
+  - image_path: ~/assets/images/fullsized/5/heritagebarrel-3.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-4.jpg
+  - image_path: ~/assets/images/fullsized/5/heritagebarrel-4.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/5/HeritageBarrel-5.jpg
+  - image_path: ~/assets/images/fullsized/5/heritagebarrel-5.jpg
     image-caption: Jack Daniel's Single Barrel Heritage Barrel released in 2018
     image-copyright: © CollectorOfJack.com
 
@@ -56,4 +56,5 @@ Good luck hunting!
 **Proof:** 100  
 **Size:** 750ml  
 **Price:** $89  
+
 

@@ -2,35 +2,35 @@
 title: Jack Daniel's Legacy Edition 2
 publishDate: 2019-07-05T14:17:35+00:00
 url: legacyedition2
-image: ~/assets/images/fullsized/20/JDLegacyEdition2-1.jpg
+image: ~/assets/images/fullsized/20/jdlegacyedition2-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
 gallery:
   LegacyEdition2:
-  - image_path: ~/assets/images/fullsized/20/JDLegacyEdition2-1.jpg
+  - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-1.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/20/JDLegacyEdition2-2.jpg
+  - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-2.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/20/JDLegacyEdition2-3.jpg
+  - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-3.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/20/JDLegacyEdition2-4.jpg
+  - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-4.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/20/JDLegacyEdition2-5.jpg
+  - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-5.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/20/JDLegacyEdition2-6.jpg
+  - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-6.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/20/JDLegacyEdition2-7.jpg
+  - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-7.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/20/JDLegacyEdition2-8.jpg
+  - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-8.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/20/JDLegacyEdition2-9.jpg
+  - image_path: ~/assets/images/fullsized/20/jdlegacyedition2-9.jpg
     image-caption: Jack Daniel's Legacy Edition Series Second Edition release, the red and black label
     image-copyright: © CollectorOfJack.com
 tags: [ Legacy, 750ml ]
@@ -75,5 +75,6 @@ The bottle should be available in all 50 states, if you don't see it yet, check 
 **Proof**: 86   
 **Size**: 750ml  
 **Price**: $25   
+
 
 

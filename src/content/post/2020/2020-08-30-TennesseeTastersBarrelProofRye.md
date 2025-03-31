@@ -3,20 +3,20 @@ title: Tennessee Tasters' Barrel Proof Rye
 publishDate: 2020-08-30T22:32:40+00:00
 updateDate: 2024-07-01T15:55:45+00:00
 url: tennesseetastersbarrelproofrye
-image: ~/assets/images/fullsized/31/TennesseeTasters4-1.jpg
+image: ~/assets/images/fullsized/31/tennesseetasters4-1.jpg
 excerpt: The Tennessee Tasters' Barrel Proof Rye Bottle
 gallery:
   tennesseetastersbarrelproofrye:
-  - image_path: ~/assets/images/fullsized/31/TennesseeTasters4-1.jpg
+  - image_path: ~/assets/images/fullsized/31/tennesseetasters4-1.jpg
     image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/31/TennesseeTasters4-2.jpg
+  - image_path: ~/assets/images/fullsized/31/tennesseetasters4-2.jpg
     image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/31/TennesseeTasters4-3.jpg
+  - image_path: ~/assets/images/fullsized/31/tennesseetasters4-3.jpg
     image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/31/TennesseeTasters4-4.jpg
+  - image_path: ~/assets/images/fullsized/31/tennesseetasters4-4.jpg
     image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
 tags: [ Tasters Series, Tennessee Tasters, TN Tasters, Barrel Proof, Rye, Barrel Proof Rye, Distillery Series, Tasters ]
@@ -36,6 +36,7 @@ As with all the Tasters' Series these bottles were originally only available in 
 **Proof:** 127.6  
 **Size:** 375ml  
 **Price:** $39.99  
+
 
 
 

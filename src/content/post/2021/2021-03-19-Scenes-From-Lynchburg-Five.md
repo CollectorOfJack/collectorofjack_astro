@@ -3,17 +3,17 @@ title: Jack Daniel's Scenes From Lynchburg Number Five
 publishDate: 2021-03-19T08:20:00+00:00
 updateDate: 2024-11-15T10:23:45+00:00
 url: scenesfromlynchburgfive
-image: ~/assets/images/fullsized/46/ScenesOfLynchburg5-1.jpg
+image: ~/assets/images/fullsized/46/scenesoflynchburg5-1.jpg
 excerpt: "Jack Daniel's Scenes From Lynchburg Number Five, a series of bottles released with images from around Lynchburg Tennessee."
 gallery:
   ScenesFromLynchburgFive:
-  - image_path: ~/assets/images/fullsized/46/ScenesOfLynchburg5-1.jpg
+  - image_path: ~/assets/images/fullsized/46/scenesoflynchburg5-1.jpg
     image-caption: Jack Daniel's Scenes From Lynchburg Number Five
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/46/ScenesOfLynchburg5-3.jpg
+  - image_path: ~/assets/images/fullsized/46/scenesoflynchburg5-3.jpg
     image-caption: Jack Daniel's Scenes From Lynchburg Number Five
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/46/ScenesOfLynchburg5-4.jpg
+  - image_path: ~/assets/images/fullsized/46/scenesoflynchburg5-4.jpg
     image-caption: Jack Daniel's Scenes From Lynchburg Number Five
     image-copyright: © CollectorOfJack.com
 tags: [ Lynchburg, 750ml, Scenes ]
@@ -65,5 +65,6 @@ Originally priced around $45, finding this on the shelf at retail is almost impo
  
 ### Collector Of Jack's Value Assessment
 If you can find one of these for under $200, I recommend you pick it up!
+
 
 

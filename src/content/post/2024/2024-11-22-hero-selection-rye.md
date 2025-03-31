@@ -2,37 +2,37 @@
 title: "Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye"
 publishDate: 2024-11-22T10:45:00+00:00
 url: 2024/heroselectionrye
-image: ~/assets/images/fullsized/82/HeroSelectionRye-2.jpg
+image: ~/assets/images/fullsized/82/heroselectionrye-2.jpg
 excerpt: "The Jack Daniel's Heroes Selection is a limited-edition whiskey series honoring military personnel. Each year, a veteran selects a unique barrel for release."
 keywords: "Jack Daniel's, Military, Heroes Selection, Rye, Tennessee Rye Whiskey"
 
 gallery:
   HeroSelectionRye:
-  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-2.jpg
+  - image_path: ~/assets/images/fullsized/82/heroselectionrye-2.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Front of Box
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-1.jpg
+  - image_path: ~/assets/images/fullsized/82/heroselectionrye-1.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Side of Box
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-3.jpg
+  - image_path: ~/assets/images/fullsized/82/heroselectionrye-3.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Side of Box
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-9.jpg
+  - image_path: ~/assets/images/fullsized/82/heroselectionrye-9.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Rear of Box
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-4.jpg
+  - image_path: ~/assets/images/fullsized/82/heroselectionrye-4.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Front of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-5.jpg
+  - image_path: ~/assets/images/fullsized/82/heroselectionrye-5.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Front of Bottle second dog tag
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-6.jpg
+  - image_path: ~/assets/images/fullsized/82/heroselectionrye-6.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Rear of Bottle
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-7.jpg
+  - image_path: ~/assets/images/fullsized/82/heroselectionrye-7.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Rear of Bottle v2
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/82/HeroSelectionRye-8.jpg
+  - image_path: ~/assets/images/fullsized/82/heroselectionrye-8.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Bottle Neck
     image-copyright: CollectorOfJack.com
 
@@ -110,4 +110,5 @@ Originally priced around $69, you may still be able to find this release on shel
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $125 pick it up!
+
 

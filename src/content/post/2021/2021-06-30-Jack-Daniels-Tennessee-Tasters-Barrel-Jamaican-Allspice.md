@@ -3,20 +3,20 @@ title: Jack Daniel's Tennessee Tasters' Series Jamaican Allspice
 publishDate: 2021-06-30T22:20:00+00:00
 updateDate: 2024-07-01T15:55:45+00:00
 url: jamaicanallspice
-image: ~/assets/images/fullsized/49/JamaicanAllSpice-1.jpg
+image: ~/assets/images/fullsized/49/jamaicanallspice-1.jpg
 excerpt: Tennessee Tasters' Jamaican Allspice Finished with toasted Jamaican Allspice Wood
 gallery:
   JamaicanAllSpice:
-  - image_path: ~/assets/images/fullsized/49/JamaicanAllSpice-1.jpg
+  - image_path: ~/assets/images/fullsized/49/jamaicanallspice-1.jpg
     image-caption: Tennessee Tasters' Jamaican Allspice Finished with toasted Jamaican Allspice Wood front
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/49/JamaicanAllSpice-2.jpg
+  - image_path: ~/assets/images/fullsized/49/jamaicanallspice-2.jpg
     image-caption: Tennessee Tasters' Jamaican Allspice Finished with toasted Jamaican Allspice Wood right side
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/49/JamaicanAllSpice-3.jpg
+  - image_path: ~/assets/images/fullsized/49/jamaicanallspice-3.jpg
     image-caption: Tennessee Tasters' Jamaican Allspice Finished with toasted Jamaican Allspice Wood rear
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/49/JamaicanAllSpice-4.jpg
+  - image_path: ~/assets/images/fullsized/49/jamaicanallspice-4.jpg
     image-caption: Tennessee Tasters' Jamaican Allspice Finished with toasted Jamaican Allspice Wood left side
     image-copyright: © CollectorOfJack.com
 tags: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series, Tasters ]
@@ -38,6 +38,7 @@ As with all the Tasters' Series these bottles were originally only available in 
 **Proof:** 100
 **Size:** 375ml  
 **Price:** $42.99  
+
 
 
 

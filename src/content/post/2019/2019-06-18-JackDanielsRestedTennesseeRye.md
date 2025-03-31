@@ -2,23 +2,23 @@
 title: Jack Daniel's Rested Tennessee Rye
 publishDate: 2019-06-18T17:24:44+00:00
 url: jackdanielsrestedtennesseerye
-image: ~/assets/images/fullsized/15/JackDanielsRestedRye-1.jpg
+image: ~/assets/images/fullsized/15/jackdanielsrestedrye-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
 gallery:
   JackDanielsRestedTennesseeRye:
-  - image_path: ~/assets/images/fullsized/15/JackDanielsRestedRye-1.jpg
+  - image_path: ~/assets/images/fullsized/15/jackdanielsrestedrye-1.jpg
     image-caption: Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/15/JackDanielsRestedRye-2.jpg
+  - image_path: ~/assets/images/fullsized/15/jackdanielsrestedrye-2.jpg
     image-caption: Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/15/JackDanielsRestedRye-3.jpg
+  - image_path: ~/assets/images/fullsized/15/jackdanielsrestedrye-3.jpg
     image-caption: Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/15/JackDanielsRestedRye-4.jpg
+  - image_path: ~/assets/images/fullsized/15/jackdanielsrestedrye-4.jpg
     image-caption: Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/15/JackDanielsRestedRye-5.jpg
+  - image_path: ~/assets/images/fullsized/15/jackdanielsrestedrye-5.jpg
     image-caption: Jack Daniel's Rested Tennessee Rye, the second foray into Rye for Jack Daniels
     image-copyright: © CollectorOfJack.com
 
@@ -56,5 +56,6 @@ Availability as of January 9, 2018 appears to be limited. Online you can find it
 **Proof:** 80  
 **Size:** 750ml  
 **Price:** $49  
+
 
 

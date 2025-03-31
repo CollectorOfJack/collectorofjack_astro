@@ -2,23 +2,23 @@
 title: Jack Daniel's Legacy Edition Series - First Edition
 publishDate: 2019-06-18T15:20:11+00:00
 url: legacyeditionseries-firstedition
-image: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-1.jpg
+image: ~/assets/images/fullsized/6/legacyeditionseriesfirstedition-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Legacy Edition Series First Edition release, the green label
 gallery:
   LegacyEditionSeries-FirstEdition:
-  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-1.jpg
+  - image_path: ~/assets/images/fullsized/6/legacyeditionseriesfirstedition-1.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-2.jpg
+  - image_path: ~/assets/images/fullsized/6/legacyeditionseriesfirstedition-2.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-3.jpg
+  - image_path: ~/assets/images/fullsized/6/legacyeditionseriesfirstedition-3.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-4.jpg
+  - image_path: ~/assets/images/fullsized/6/legacyeditionseriesfirstedition-4.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/6/LegacyEditionSeriesFirstEdition-5.jpg
+  - image_path: ~/assets/images/fullsized/6/legacyeditionseriesfirstedition-5.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
 tags: [ Legacy, 750ml ]
@@ -43,6 +43,7 @@ Originally priced around $39, towards the end of it's time on the shelf you coul
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $150 pick it up.
+
 
 
 

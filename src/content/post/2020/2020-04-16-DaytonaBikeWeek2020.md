@@ -2,50 +2,50 @@
 title: Daytona Bike Week 2020 Collector's Bottle
 publishDate: 2020-04-16T04:26:58+00:00
 url: daytonabikeweek2020
-image: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-14.jpg
+image: ~/assets/images/fullsized/30/daytonabikeweek2020-14.jpg
 excerpt: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
 gallery:
   DaytonaBikeWeek2020:
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-1.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-1.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-2.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-2.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-3.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-3.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-4.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-4.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-5.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-5.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-6.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-6.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-7.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-7.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-8.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-8.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-9.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-9.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-10.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-10.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-11.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-11.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-12.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-12.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-13.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-13.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/30/DaytonaBikeWeek2020-14.jpg
+  - image_path: ~/assets/images/fullsized/30/daytonabikeweek2020-14.jpg
     image-caption: Jack Daniel's Daytona Bike Week 2020 Single Barrel Bottle and packaging
     image-copyright: © CollectorOfJack.com
 tags: [ Single Barrel, Florida, Sunshine State Squires ]
@@ -93,4 +93,5 @@ Originally priced around $89, this is one you had to be part of a special squire
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $200 pick it up.
+
 

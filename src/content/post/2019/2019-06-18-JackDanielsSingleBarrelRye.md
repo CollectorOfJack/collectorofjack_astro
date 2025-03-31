@@ -2,29 +2,29 @@
 title: Jack Daniel's Single Barrel Rye
 publishDate: 2019-06-18T17:26:34+00:00
 url: jackdanielssinglebarrelrye
-image: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-1.jpg
+image: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Single Barrel Rye bottle 
 gallery:
   JackDanielsSingleBarrelRye:
-  - image_path: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-1.jpg
+  - image_path: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-1.jpg
     image-caption: Jack Daniel's Single Barrel Rye bottle 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-2.jpg
+  - image_path: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-2.jpg
     image-caption: Jack Daniel's Single Barrel Rye bottle 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-3.jpg
+  - image_path: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-3.jpg
     image-caption: Jack Daniel's Single Barrel Rye bottle 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-4.jpg
+  - image_path: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-4.jpg
     image-caption: Jack Daniel's Single Barrel Rye bottle 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-5.jpg
+  - image_path: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-5.jpg
     image-caption: Jack Daniel's Single Barrel Rye bottle 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-6.jpg
+  - image_path: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-6.jpg
     image-caption: Jack Daniel's Single Barrel Rye bottle 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/16/JackDanielsSingleBarrelRye-8.jpg
+  - image_path: ~/assets/images/fullsized/16/jackdanielssinglebarrelrye-8.jpg
     image-caption: Jack Daniel's Single Barrel Rye bottle 
     image-copyright: © CollectorOfJack.com
 tags: [ Rye, 750ml, Single Barrel ]
@@ -65,6 +65,7 @@ Single Barrel Rye can be found on store shelves for $50 (1/13/2019).
 **Proof:** 94  
 **Size:** 750ml  
 **Price:** $49  
+
 
 
 

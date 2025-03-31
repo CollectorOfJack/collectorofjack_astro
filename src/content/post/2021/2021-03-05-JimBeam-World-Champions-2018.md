@@ -2,20 +2,20 @@
 title: Jim Beam Red Sox 2018 World Champions Bottle (World Series)
 publishDate: 2021-03-05T10:00:00+00:00
 url: 2018redsoxworldchampion
-image: ~/assets/images/fullsized/45/JimBeamWorldSeries-1.jpg
+image: ~/assets/images/fullsized/45/jimbeamworldseries-1.jpg
 excerpt: 2018 Red Sox World Champions Jim Beam Bourbon
 gallery:
   2018RedSoxWorldChampion:
-  - image_path: ~/assets/images/fullsized/45/JimBeamWorldSeries-1.jpg
+  - image_path: ~/assets/images/fullsized/45/jimbeamworldseries-1.jpg
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/45/JimBeamWorldSeries-2.jpg
+  - image_path: ~/assets/images/fullsized/45/jimbeamworldseries-2.jpg
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/45/JimBeamWorldSeries-3.jpg
+  - image_path: ~/assets/images/fullsized/45/jimbeamworldseries-3.jpg
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/45/JimBeamWorldSeries-4.jpg
+  - image_path: ~/assets/images/fullsized/45/jimbeamworldseries-4.jpg
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
 tags: [ Other, Jim Beam, Red Sox, World Series ]
@@ -74,5 +74,6 @@ Searching online I realy haven't found much on purchasing this bottle. There are
 **Proof:** 80
 **Size:** 750ml  
 **Price:** $23.99 
+
 
 

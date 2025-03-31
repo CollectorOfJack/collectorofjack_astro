@@ -2,14 +2,14 @@
 title: Jack Daniel's Barrel Proof Rye Special Release
 publishDate: 2020-11-23T10:00:00+00:00
 url: barrelproofryespecialrelease
-image: ~/assets/images/fullsized/39/BarrelProofRyeSpecialRelease-1.jpg
+image: ~/assets/images/fullsized/39/barrelproofryespecialrelease-1.jpg
 excerpt: 2020's Special Release
 gallery:
   BarrelProofRyeSpecialRelease:
-  - image_path: ~/assets/images/fullsized/39/BarrelProofRyeSpecialRelease-1.jpg
+  - image_path: ~/assets/images/fullsized/39/barrelproofryespecialrelease-1.jpg
     image-caption: 2020's Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/39/BarrelProofRyeSpecialRelease-2.jpg
+  - image_path: ~/assets/images/fullsized/39/barrelproofryespecialrelease-2.jpg
     image-caption: 2020's Special Release
     image-copyright: © CollectorOfJack.com
 tags: [ Special Release, Barrel Proof, Barrel Proof Rye, Single Barrel, Rye, "2020" ]
@@ -32,5 +32,6 @@ We don't have our hands on a bottle yet, but will be on the lookout! If you find
 **Proof:** 132.5 (variable?)  
 **Size:** 750ml  
 **Price:** $???  
+
 
 

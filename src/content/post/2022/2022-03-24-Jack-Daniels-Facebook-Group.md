@@ -2,7 +2,7 @@
 title: "Jack Daniel's Facebook Group"
 publishDate: 2022-03-24T00:00:00+00:00
 url: jackdanielsfacebookgroup
-image: ~/assets/images/fullsized/58/Group-1.jpg
+image: ~/assets/images/fullsized/58/group-1.jpg
 excerpt: "Taken over by spammers, the good guys have won and gained control over a large Jack Daniel's Facebook Group"
 tags: [ Other ] 
 updateDate: 2024-07-01T15:55:45+00:00
@@ -32,5 +32,6 @@ While I am the sole admin right now, I have no visions of trying to maintain a f
 If you're looking for a place to buy/sell whiskey, this is not the group for you. This is a place to talk about Jack Daniel's and other Tennessee Whiskey, so grab a drink, have a seat, and stay for a while.
 
 [Jack Daniels Tennessee Whiskey](https://www.facebook.com/groups/tennesseewhiskey)
+
 
 

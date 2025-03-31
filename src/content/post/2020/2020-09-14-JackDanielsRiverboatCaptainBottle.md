@@ -3,66 +3,66 @@ title: Jack Daniel's Riverboat Captain's Bottle
 publishDate: 2020-09-13T22:00:00+00:00
 updateDate: 2024-07-10T23:55:45+00:00
 url: jackdanielsriverboatcaptainbottle
-image: ~/assets/images/fullsized/36/RiverboatCaptain-1.jpg
+image: ~/assets/images/fullsized/36/riverboatcaptain-1.jpg
 excerpt: "Jack Daniel's Riverboat Captain's Bottle and box from 1987"
 keywords: "jack daniel's, riverboat captain, riverboat, captain, bottle, 1.75L, box, collectible, value, price, decanter"
 gallery:
   JackDanielsRiverboatCaptainBottle:
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-1.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-1.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle front of box 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-2.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-2.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle side of box
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-3.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-3.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle rear of box
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-4.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-4.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle side of box
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-5.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-5.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle front of bottle focused on hang tag
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-6.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-6.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 front of bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-7.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-7.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 rear of bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-8.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-8.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 neck and seal
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-9.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-9.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 neck and seal
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-10.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-10.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 from an angle 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-11.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-11.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 front 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-12.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-12.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 angled from top 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-13.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-13.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 top of topper
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-14.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-14.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 first page of hang tag
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-15.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-15.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 second and third page of hang tag
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-16.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-16.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 rear of hang tag
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-17.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-17.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 registration form 
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-18.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-18.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987  last page of hang tag
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/36/RiverboatCaptain-19.jpg
+  - image_path: ~/assets/images/fullsized/36/riverboatcaptain-19.jpg
     image-caption: Jack Daniel's Riverboat Captain's Bottle from 1987 rear of hang tag 
     image-copyright: © CollectorOfJack.com
 tags: [ Riverboat Captain, Box, 1.75L ]
@@ -142,5 +142,6 @@ You'll find values for this bottle all over the place on the web. Most of the "a
 
 ### Collector Of Jack's Value Assessment
 Don't spend more then $500 for a bottle, maybe $600 if the box is in GREAT shape. 
+
 
 

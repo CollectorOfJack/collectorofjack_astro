@@ -3,7 +3,7 @@ title: "Jack Daniel's 14 Years Old Tennessee Whiskey"
 publishDate: 2025-02-24T11:51:00+00:00
 updateDate: 2025-03-26T10:20:00+06:00
 url: 2025/14year
-image: ~/assets/images/fullsized/84/JackDaniels14Year-1.jpg
+image: ~/assets/images/fullsized/84/jackdaniels14year-1.jpg
 excerpt: "Get searching for that Jack Daniel's 14 Year Tennessee Whiskey!"
 keywords: "Jack Daniel's, barrelhouse"
 tags: [ 'news', 'tennessee', 'jack daniels', '14year', '10year','12year', 'mclaren' ]
@@ -12,28 +12,28 @@ brand: "Jack Daniel's"
 author: chris
 gallery:
   Jack Daniel's 14 Years Old:
-  - image_path: ~/assets/images/fullsized/84/JackDaniels14Year-1.jpg
+  - image_path: ~/assets/images/fullsized/84/jackdaniels14year-1.jpg
     image-caption: "Jack Daniel's 14 Years Old Tennessee Whiskey"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/84/JackDaniels14Year-2.jpg
+  - image_path: ~/assets/images/fullsized/84/jackdaniels14year-2.jpg
     image-caption: "Jack Daniel's 14 Years Old Tennessee Whiskey"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/84/JackDaniels14Year-3.jpg
+  - image_path: ~/assets/images/fullsized/84/jackdaniels14year-3.jpg
     image-caption: "Jack Daniel's 14 Years Old Tennessee Whiskey"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/84/JackDaniels14Year-4.jpg
+  - image_path: ~/assets/images/fullsized/84/jackdaniels14year-4.jpg
     image-caption: "Jack Daniel's 14 Years Old Tennessee Whiskey"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/84/JackDaniels14Year-5.jpg
+  - image_path: ~/assets/images/fullsized/84/jackdaniels14year-5.jpg
     image-caption: "Jack Daniel's 14 Years Old Tennessee Whiskey"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/84/JackDaniels14Year-6.jpg
+  - image_path: ~/assets/images/fullsized/84/jackdaniels14year-6.jpg
     image-caption: "Jack Daniel's 14 Years Old Tennessee Whiskey"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/84/JackDaniels14Year-7.jpg
+  - image_path: ~/assets/images/fullsized/84/jackdaniels14year-7.jpg
     image-caption: "Jack Daniel's 14 Years Old Tennessee Whiskey"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/84/JackDaniels14Year-8.jpg
+  - image_path: ~/assets/images/fullsized/84/jackdaniels14year-8.jpg
     image-caption: "Jack Daniel's 14 Years Old Tennessee Whiskey"
     image-copyright: CollectorOfJack.com
   - image_path: ~/assets/images/2025/february/jd14.jpg
@@ -95,3 +95,4 @@ Via other Facebook groups it appears that this 14 year bottle is available today
  - McLaren 2025  
 
  If anyone pickes up a bottle or two of those for me, let me know!
+

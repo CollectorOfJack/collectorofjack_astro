@@ -2,26 +2,26 @@
 title: Blackened American Whiskey Batch 106 S&M2
 publishDate: 2021-02-14T20:00:00+00:00
 url: blackenedbatch106
-image: ~/assets/images/fullsized/44/BlackenedBatch106-1.jpg
+image: ~/assets/images/fullsized/44/blackenedbatch106-1.jpg
 excerpt: Metallica S&M2 Whiskey
 gallery:
   BlackenedBatch106:
-  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-1.jpg
+  - image_path: ~/assets/images/fullsized/44/blackenedbatch106-1.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-2.jpg
+  - image_path: ~/assets/images/fullsized/44/blackenedbatch106-2.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-3.jpg
+  - image_path: ~/assets/images/fullsized/44/blackenedbatch106-3.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-4.jpg
+  - image_path: ~/assets/images/fullsized/44/blackenedbatch106-4.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-5.jpg
+  - image_path: ~/assets/images/fullsized/44/blackenedbatch106-5.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/44/BlackenedBatch106-6.jpg
+  - image_path: ~/assets/images/fullsized/44/blackenedbatch106-6.jpg
     image-caption: Metallica S&M2 Whiskey
     image-copyright: © CollectorOfJack.com
 tags: [ Other, Metallica, Blackened ]
@@ -90,6 +90,7 @@ If you're looking for Blackened American Whiskey Batch 106, it can still be foun
 **Proof:** 90
 **Size:** 750ml  
 **Price:** $49
+
 
 
 

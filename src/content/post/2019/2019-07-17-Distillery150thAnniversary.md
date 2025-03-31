@@ -2,20 +2,20 @@
 title: "Jack Daniel Distillery 150th Anniversary"
 publishDate: 2019-07-17T04:03:07+00:00
 url: distillery150thanniversary
-image: ~/assets/images/fullsized/21/JackDaniels150thDistillery-1.jpg
+image: ~/assets/images/fullsized/21/jackdaniels150thdistillery-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Distillery 150th Anniversary Release
 gallery:
   Distillery150thAnniversary:
-    - image_path: ~/assets/images/fullsized/21/JackDaniels150thDistillery-1.jpg
+    - image_path: ~/assets/images/fullsized/21/jackdaniels150thdistillery-1.jpg
       image-caption: Jack Daniel's Distillery 150th Anniversary Release
       image-copyright: © CollectorOfJack.com
-    - image_path: ~/assets/images/fullsized/21/JackDaniels150thDistillery-2.jpg
+    - image_path: ~/assets/images/fullsized/21/jackdaniels150thdistillery-2.jpg
       image-caption: Jack Daniel's Distillery 150th Anniversary Release
       image-copyright: © CollectorOfJack.com
-    - image_path: ~/assets/images/fullsized/21/JackDaniels150thDistillery-3.jpg
+    - image_path: ~/assets/images/fullsized/21/jackdaniels150thdistillery-3.jpg
       image-caption: Jack Daniel's Distillery 150th Anniversary Release
       image-copyright: © CollectorOfJack.com
-    - image_path: ~/assets/images/fullsized/21/JackDaniels150thDistillery-4.jpg
+    - image_path: ~/assets/images/fullsized/21/jackdaniels150thdistillery-4.jpg
       image-caption: Jack Daniel's Distillery 150th Anniversary Release
       image-copyright: © CollectorOfJack.com
 tags: [ Distillery, 750ml, 150th, Lynchburg ]
@@ -51,5 +51,6 @@ I don't believe the bottle was limited in release, and was likely available in a
 **Proof:** 86  
 **Size:** 750ml  
 **Price:** $24.99  
+
 
 

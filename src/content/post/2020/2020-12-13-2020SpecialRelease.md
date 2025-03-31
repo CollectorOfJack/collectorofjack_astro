@@ -2,56 +2,56 @@
 title: Jack Daniel's 2020 Special Release Barrel Proof Rye
 publishDate: 2020-12-13T20:00:00+00:00
 url: 2020specialrelease
-image: ~/assets/images/fullsized/43/BarrelProofRye2020-1.jpg
+image: ~/assets/images/fullsized/43/barrelproofrye2020-1.jpg
 excerpt: Barrel Proof Rye
 gallery:
   2020SpecialRelease:
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-1.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-1.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-2.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-2.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-3.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-3.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-4.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-4.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-5.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-5.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-6.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-6.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-7.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-7.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-8.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-8.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-9.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-9.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-10.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-10.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-11.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-11.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-12.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-12.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-13.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-13.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-14.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-14.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-15.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-15.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/43/BarrelProofRye2020-16.jpg
+  - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-16.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com
 tags: [ Special Release, Barrel Proof, Barrel Proof Rye, Single Barrel, Rye, "2020" ]
@@ -104,5 +104,6 @@ If you can get your hands on one of these bottles, go for it! There are various 
 **Proof:** 130.8 (variable)  
 **Size:** 750ml  
 **Price:** $79
+
 
 

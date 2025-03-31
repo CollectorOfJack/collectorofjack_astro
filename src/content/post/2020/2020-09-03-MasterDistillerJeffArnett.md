@@ -2,14 +2,14 @@
 title: Jack Daniel's Master Distiller Jeff Arnett
 publishDate: 2020-09-03T10:00:00+00:00
 url: masterdistillerjeffarnett
-image: ~/assets/images/fullsized/34/JeffArnett-1.jpg
+image: ~/assets/images/fullsized/34/jeffarnett-1.jpg
 excerpt: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
 gallery:
   MasterDistillerJeffArnett:
-  - image_path: ~/assets/images/fullsized/34/JeffArnett-1.jpg
+  - image_path: ~/assets/images/fullsized/34/jeffarnett-1.jpg
     image-caption: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/34/JeffArnett-2.jpg
+  - image_path: ~/assets/images/fullsized/34/jeffarnett-2.jpg
     image-caption: The 7th (8th?) Master Distiller for Jack Daniel's, Jeff Arnett
     image-copyright: © CollectorOfJack.com
 tags: [ Master Distiller, Jeff Arnett ]
@@ -42,5 +42,6 @@ Word is that Brown Foreman will make the announcement for Jeff's replacement in 
 Will the brand try to fill the role with someone who provides more diversity to the brand? In today's day and age, I would assume that BF is looking at this as an option.
 
 I don't know that I have an opinion as to which direction they should go, but I look forward to following along as the brand continues to mature and age.
+
 
 

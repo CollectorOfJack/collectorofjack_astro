@@ -2,22 +2,22 @@
 title: "Jack Daniel's Single Barrel Barrel Proof Rye"
 publishDate: 2023-11-22T21:30:00+00:00
 url: barrelproofrye
-image: ~/assets/images/fullsized/68/2023SingleBarrelBarrelProofRye-1.jpg
+image: ~/assets/images/fullsized/68/2023singlebarrelbarrelproofrye-1.jpg
 excerpt: "In 2023 Jack Daniel's started bottling and releasing their Single Barrel Barrel Proof Rye, to go along with their Single Barrel Barrel Proof Tennessee Whiskey."
 keywords: "Jack Daniel’s Bottle, Jack Daniel’s Single Barrel, Barrel Proof, Rye, Barrel Proof Rye"
 
 gallery:
   JackDanielsMcLaren:
-  - image_path: ~/assets/images/fullsized/68/2023SingleBarrelBarrelProofRye-1.jpg
+  - image_path: ~/assets/images/fullsized/68/2023singlebarrelbarrelproofrye-1.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Front
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/68/2023SingleBarrelBarrelProofRye-2.jpg
+  - image_path: ~/assets/images/fullsized/68/2023singlebarrelbarrelproofrye-2.jpg
     image-caption: Jack Daniel's Single Barrel Barrel Proof Rye
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/68/2023SingleBarrelBarrelProofRye-3.jpg
+  - image_path: ~/assets/images/fullsized/68/2023singlebarrelbarrelproofrye-3.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Rear
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/68/2023SingleBarrelBarrelProofRye-4.jpg
+  - image_path: ~/assets/images/fullsized/68/2023singlebarrelbarrelproofrye-4.jpg
     image-caption: Jack Daniel's Single Barrel Barrel Proof Rye
     image-copyright: CollectorOfJack.com
 tags: [ Rye, 750ml, Barrel Proof Rye, Barrel Proof, 750ml, Single Barrel ]
@@ -56,5 +56,6 @@ Jack Daniel's Single Barrel Barrel Proof Rye is worth retail price. You shouldn'
 
 ### Collector Of Jack's Value Assessment
 A great bottle to own, go for the higher proofs you can find, or bottls with specific bottling dates that are important to you.
+
 
 

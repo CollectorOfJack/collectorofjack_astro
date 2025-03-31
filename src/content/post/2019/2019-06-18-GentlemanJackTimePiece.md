@@ -2,26 +2,26 @@
 title: Gentleman Jack Limited Edition Time Piece Bottle
 publishDate: 2019-06-18T14:58:04+00:00
 url: gentlemanjacktimepiece
-image: ~/assets/images/fullsized/2/Day1-4.jpg
+image: ~/assets/images/fullsized/2/day1-4.jpg
 excerpt: A collector's guide to the Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
 gallery:
   GentlemanJackTimePiece:
-  - image_path: ~/assets/images/fullsized/2/Day1-4.jpg
+  - image_path: ~/assets/images/fullsized/2/day1-4.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/2/Day1-5.jpg
+  - image_path: ~/assets/images/fullsized/2/day1-5.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/2/Day1-6.jpg
+  - image_path: ~/assets/images/fullsized/2/day1-6.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/2/Day1-7.jpg
+  - image_path: ~/assets/images/fullsized/2/day1-7.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/2/Day1-8.jpg
+  - image_path: ~/assets/images/fullsized/2/day1-8.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/2/Day1-9.jpg
+  - image_path: ~/assets/images/fullsized/2/day1-9.jpg
     image-caption: Jack Daniel's Gentleman Jack Limited Edition Time Piece Bottle
     image-copyright: © CollectorOfJack.com
 
@@ -49,4 +49,5 @@ If you're looking for a Gentleman Jack Limited Edition Time Piece bottle, check 
 **Proof:** 100  
 **Size:** 1L  
 **Price:** $69  
+
 

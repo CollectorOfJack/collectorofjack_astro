@@ -3,83 +3,83 @@ title: Jack Daniel's Visit June 2021
 excerpt: "A blog post about my visit to Lynchburg Tennessee in June 2021, which coincided with the Green Family reunion weekend."
 publishDate: 2021-06-19T16:20:00+00:00
 url: jackdanielsdistilleryvisit2021
-image: ~/assets/images/fullsized/47/Trip20216-16-2021-4.jpg
+image: ~/assets/images/fullsized/47/trip20216-16-2021-4.jpg
 gallery:
   JackDanielsDistilleryVisit2021g1:
-  - image_path: ~/assets/images/fullsized/47/Trip2021-1.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-1.jpg
     image-caption: Barrel Houses from up on a hill
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/47/Trip2021-2.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-2.jpg
     image-caption: Old house in the hills around Lynchburg
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/47/Trip2021-3.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-3.jpg
     image-caption: The Motlow House, Lynchburg, TN
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/47/Trip2021-4.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-4.jpg
     image-caption: The Jack Daniel's Visitor Center
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/47/Trip2021-5.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-5.jpg
     image-caption: Sunset in the hills
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/47/Trip2021-6.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-6.jpg
     image-caption: Cornfield outside of Lynchburg, TN
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/47/Trip2021-7.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-7.jpg
     image-caption: Petersburg, TN Traffic Signal
     image-copyright: © CollectorOfJack.com
   JackDanielsDistilleryVisit2021g2:
-  - image_path: ~/assets/images/fullsized/47/Trip2021-8.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-8.jpg
     image-caption: Visitor's center creek
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-9.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-9.jpg
     image-caption: Bridge to Town Square, looking back at the visitors center
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-10.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-10.jpg
     image-caption: Jack Daniel's Drake duck
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-11.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-11.jpg
     image-caption: Jack Daniel's Charcoal Fire production
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-12.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-12.jpg
     image-caption: Jack Daniel's Rickyard
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-13.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-13.jpg
     image-caption: Whiskey for destruction jug
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-14.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-14.jpg
     image-caption: Jack Daniel's Water Tower
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-15.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-15.jpg
     image-caption: Jack Daniel's Reserved Tasters Parking
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-16.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-16.jpg
     image-caption: Rock wall
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-17.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-17.jpg
     image-caption: Warehouse
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-18.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-18.jpg
     image-caption: Jack Daniel's Bethel House sign
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-19.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-19.jpg
     image-caption: Tasting in the Bethel House
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-20.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-20.jpg
     image-caption: Tasting in the Bethel House
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-21.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-21.jpg
     image-caption: Tasting in the Bethel House
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-22.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-22.jpg
     image-caption: Tasting in the Bethel House
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-23.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-23.jpg
     image-caption: Jack Daniel's Barrel Truck, International
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-24.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-24.jpg
     image-caption: White Rabbit Bottle Shop
     image-copyright: © CollectorOfJack.com  
-  - image_path: ~/assets/images/fullsized/47/Trip2021-25.jpg
+  - image_path: ~/assets/images/fullsized/47/trip2021-25.jpg
     image-caption: Nearest Green Distillery
     image-copyright: © CollectorOfJack.com 
 tags: [ Travel, Tennesseee, Nearest Green, Uncle Nearest ] 
@@ -127,6 +127,7 @@ On the way home I made a quick stop by the Nearest Green Distillery to see if I 
 I did make one last liquor store stop at Liquor Planet in Murfreesboro. I had stopped there a couple of times previously, one of the St Louis Bourbon Society Admins has posted a photo from there the prior day with a particular Jack Daniel's Single barrel that I wanted, so I stopped in to pick it up. It was just a store pick, but it has a picture of Randall Fanning and Goose, along with one other person (Will perhaps?) applied via a decal, I wanted to add that to my collection so I picked one up. 
 
 The rest of the trip was uneventful, which is always nice. Until the next trip, this one will hold me over.
+
 
 
 

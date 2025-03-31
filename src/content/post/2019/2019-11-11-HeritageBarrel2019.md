@@ -2,29 +2,29 @@
 title: Jack Daniel's Heritage Barrel 2019
 publishDate: 2019-11-11T03:51:06+00:00
 url: heritagebarrel2019
-image: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-1.jpg
+image: ~/assets/images/fullsized/25/jackdanielsheritagebarrel2019-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Heritage Barrel 2019 Release
 gallery:
   HeritageBarrel2019:
-  - image_path: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-1.jpg
+  - image_path: ~/assets/images/fullsized/25/jackdanielsheritagebarrel2019-1.jpg
     image-caption: Jack Daniel's Heritage Barrel 2019 Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-2.jpg
+  - image_path: ~/assets/images/fullsized/25/jackdanielsheritagebarrel2019-2.jpg
     image-caption: Jack Daniel's Heritage Barrel 2019 Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-3.jpg
+  - image_path: ~/assets/images/fullsized/25/jackdanielsheritagebarrel2019-3.jpg
     image-caption: Jack Daniel's Heritage Barrel 2019 Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-4.jpg
+  - image_path: ~/assets/images/fullsized/25/jackdanielsheritagebarrel2019-4.jpg
     image-caption: Jack Daniel's Heritage Barrel 2019 Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-5.jpg
+  - image_path: ~/assets/images/fullsized/25/jackdanielsheritagebarrel2019-5.jpg
     image-caption: Jack Daniel's Heritage Barrel 2019 Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-6.jpg
+  - image_path: ~/assets/images/fullsized/25/jackdanielsheritagebarrel2019-6.jpg
     image-caption: Jack Daniel's Heritage Barrel 2019 Release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/25/JackDanielsHeritageBarrel2019-7.jpg
+  - image_path: ~/assets/images/fullsized/25/jackdanielsheritagebarrel2019-7.jpg
     image-caption: Jack Daniel's Heritage Barrel 2019 Release
     image-copyright: © CollectorOfJack.com
 tags: [ Special Release, Heritage, Heritage Barrel, "2019", Single Barrel ]
@@ -49,5 +49,6 @@ I ended up paying $80/each for my two bottles. Wait, what? Yeah, two bottles. La
 **Proof**: 100   
 **Size**: 750ml  
 **Price**: $65+  
+
 
 

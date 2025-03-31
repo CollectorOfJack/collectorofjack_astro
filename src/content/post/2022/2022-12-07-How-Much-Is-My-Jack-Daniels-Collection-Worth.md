@@ -5,11 +5,11 @@ updateDate: 2024-07-01T15:55:45+00:00
 url: howmuchismyjackdanielscollectionworth
 type: article
 keywords: "Jack Daniel's, Collection, Value, Estimate, Tracker, Worth"
-image: ~/assets/images/fullsized/64/Collection-1.jpg
+image: ~/assets/images/fullsized/64/collection-1.jpg
 excerpt: "Putting a value on your bottles in your Jack Daniel's collection, we'll help you to start to do that."
 gallery:
   HowMuchIsMyJackDanielsCollectionWorth:
-  - image_path: ~/assets/images/fullsized/64/Collection-1.jpg
+  - image_path: ~/assets/images/fullsized/64/collection-1.jpg
     image-caption: Jack Daniel's Collection
     image-copyright: CollectorOfJack.com
 tags: [ Collection, Value, Appraisal ]
@@ -69,6 +69,7 @@ Do you want to sell them all at once or one at a time?
 Do you want to sell them to a private collector or a retailer?  
 
 If you are in our around St. Louis (5-6 hour radius) and interested in selling, [be sure to reach out to me](/contact). I might be interested.
+
 
 
 

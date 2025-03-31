@@ -2,20 +2,20 @@
 title: Jack Daniel's Tennessee Apple
 publishDate: 2019-11-26T15:12:18+00:00
 url: tennesseeapple
-image: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-1.jpg
+image: ~/assets/images/fullsized/26/jackdanielstennesseeapple-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Tennessee Apple flavored liquor
 gallery:
   TennesseeApple:
-  - image_path: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-1.jpg
+  - image_path: ~/assets/images/fullsized/26/jackdanielstennesseeapple-1.jpg
     image-caption: Jack Daniel's Tennessee Apple flavored liquor
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-2.jpg
+  - image_path: ~/assets/images/fullsized/26/jackdanielstennesseeapple-2.jpg
     image-caption: Jack Daniel's Tennessee Apple flavored liquor
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-3.jpg
+  - image_path: ~/assets/images/fullsized/26/jackdanielstennesseeapple-3.jpg
     image-caption: Jack Daniel's Tennessee Apple flavored liquor
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/26/JackDanielsTennesseeApple-4.jpg
+  - image_path: ~/assets/images/fullsized/26/jackdanielstennesseeapple-4.jpg
     image-caption: Jack Daniel's Tennessee Apple flavored liquor
     image-copyright: © CollectorOfJack.com
 tags: [ Apple, 750ml, Flavor ]
@@ -60,5 +60,6 @@ The bottle can be found at retailers everywhere, and as I understand it, is arou
 **Proof**: 70   
 **Size**: 750ml  
 **Price**: $23  
+
 
 

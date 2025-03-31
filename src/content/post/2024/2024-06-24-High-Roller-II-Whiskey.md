@@ -2,31 +2,31 @@
 title: "2024 High Roller Straight Bourbon Whiskey"
 publishDate: 2024-06-24T13:00:00+00:00
 url: highrollerstraightbourbonwhiskey
-image: ~/assets/images/fullsized/74/HighRollerII-1.jpg
+image: ~/assets/images/fullsized/74/highrollerii-1.jpg
 excerpt: "A blog post about the 2024 release of the High Roller Straight Bourbon Whiskey"
 keywords: "Monster Truck, High Roller, Bourbon, Whiskey"
 
 gallery:
   McLaren24:
-  - image_path: ~/assets/images/fullsized/74/HighRollerII-1.jpg
+  - image_path: ~/assets/images/fullsized/74/highrollerii-1.jpg
     image-caption: High Roller Straight Bourbon Whiskey lit up by LED on top of a whiskey barrel
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/74/HighRollerII-2.jpg
+  - image_path: ~/assets/images/fullsized/74/highrollerii-2.jpg
     image-caption: High Roller Straight Bourbon Whiskey on top of a whiskey barrel
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/74/HighRollerII-3.jpg
+  - image_path: ~/assets/images/fullsized/74/highrollerii-3.jpg
     image-caption: High Roller Straight Bourbon Whiskey rear of bottle on top of a whiskey barrel
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/74/HighRollerII-4.jpg
+  - image_path: ~/assets/images/fullsized/74/highrollerii-4.jpg
     image-caption: High Roller Straight Bourbon Whiskey rear of bottle zoomed in label
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/74/HighRollerII-5.jpg
+  - image_path: ~/assets/images/fullsized/74/highrollerii-5.jpg
     image-caption: High Roller Straight Bourbon Whiskey front of bottle zoomed in label
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/74/HighRollerII-6.jpg
+  - image_path: ~/assets/images/fullsized/74/highrollerii-6.jpg
     image-caption: High Roller Monster Truck at the 2024 BIGFOOT Open House
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/74/HighRollerII-7.jpg
+  - image_path: ~/assets/images/fullsized/74/highrollerii-7.jpg
     image-caption: High Roller Monster Truck at the 2024 BIGFOOT Open House crushing cars
     image-copyright: CollectorOfJack.com
 

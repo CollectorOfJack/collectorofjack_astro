@@ -2,23 +2,23 @@
 title: Jack Daniel's Unaged Tennessee Rye
 publishDate: 2019-06-18T17:23:44+00:00
 url: jackdanielsunagedtennesseerye
-image: ~/assets/images/fullsized/14/JackDanielsRye1-1.jpg
+image: ~/assets/images/fullsized/14/jackdanielsrye1-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Unaged Tennessee Rye, the first foray into Rye for Jack Daniels
 gallery:
   JackDanielsUnagedTennesseeRye:
-  - image_path: ~/assets/images/fullsized/14/JackDanielsRye1-1.jpg
+  - image_path: ~/assets/images/fullsized/14/jackdanielsrye1-1.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/14/JackDanielsRye1-2.jpg
+  - image_path: ~/assets/images/fullsized/14/jackdanielsrye1-2.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/14/JackDanielsRye1-3.jpg
+  - image_path: ~/assets/images/fullsized/14/jackdanielsrye1-3.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/14/JackDanielsRye1-4.jpg
+  - image_path: ~/assets/images/fullsized/14/jackdanielsrye1-4.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/14/JackDanielsRye1-5.jpg
+  - image_path: ~/assets/images/fullsized/14/jackdanielsrye1-5.jpg
     image-caption: Jack Daniel's Legacy Edition Series First Edition release, the green label
     image-copyright: © CollectorOfJack.com
 tags: [ Rye, Unaged Rye, 750ml ]
@@ -57,6 +57,7 @@ Availability as of January 6, 2018 appears to be limited. Online you can find it
 **Proof:** 80  
 **Size:** 750ml  
 **Price:** $49  
+
 
 
 

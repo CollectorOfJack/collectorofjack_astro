@@ -3,12 +3,12 @@ title: "Pre-release Jack Daniel's 2022 Special Release Twice Barreled American S
 excerpt: "Twice Barreled American Single Malt, the 2022 Special Release from Jack Daniels Distillery"
 publishDate: 2022-10-25T09:30:00+00:00
 url: twicebarreledmaltprerelease
-image: ~/assets/images/fullsized/63/TwiceBarreledMalt-1.jpg
+image: ~/assets/images/fullsized/63/twicebarreledmalt-1.jpg
 
 keywords: Single Malt, Twice Barreled, 2022 Special Release, Heritage
 gallery:
   TwiceBarreledMaltPrerelease:
-  - image_path: ~/assets/images/fullsized/63/TwiceBarreledMalt-1.jpg
+  - image_path: ~/assets/images/fullsized/63/twicebarreledmalt-1.jpg
     image-caption: Jack Daniel's 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
 tags: [ Heritage Barrel, Heritage, Twice Barreled, Single Malt, Special Release, 700ml, "2022" ]
@@ -32,6 +32,7 @@ What is Oloroso Sherry?
 **Proof:** 108  
 **Size:** 750ml  
 **Price:** $??
+
 
 
 

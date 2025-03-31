@@ -2,24 +2,25 @@
 title: Uncle Nearest Master Blend Edition
 publishDate: 2022-03-18T00:14:00+00:00
 url: unclenearestmasterblendedition
-image: ~/assets/images/fullsized/57/UncleNearestMasterBlend-1.jpg
+image: ~/assets/images/fullsized/57/unclenearestmasterblend-1.jpg
 excerpt: Uncle Nearest Master Blend Edition available only at the distillery
 gallery:
-  UncleNearestMasterBlend:
-  - image_path: ~/assets/images/fullsized/57/UncleNearestMasterBlend-1.jpg
+  Uncle Nearest Master Blend:
+  - image_path: ~/assets/images/fullsized/57/unclenearestmasterblend-1.jpg
     image-caption: Uncle Nearest Master Blend Edition available only at the distillery
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/57/UncleNearestMasterBlend-2.jpg
+  - image_path: ~/assets/images/fullsized/57/unclenearestmasterblend-2.jpg
     image-caption: Uncle Nearest Master Blend Edition available only at the distillery
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/57/UncleNearestMasterBlend-3.jpg
+  - image_path: ~/assets/images/fullsized/57/unclenearestmasterblend-3.jpg
     image-caption: Uncle Nearest Master Blend Edition available only at the distillery
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/57/UncleNearestMasterBlend-4.jpg
+  - image_path: ~/assets/images/fullsized/57/unclenearestmasterblend-4.jpg
     image-caption: Uncle Nearest Master Blend Edition available only at the distillery
     image-copyright: CollectorOfJack.com
 tags: [ Uncle Nearest, Tennessee, Other, Nearest Green ]
-updateDate: 2024-07-01T15:55:45+00:00
+keywords: "uncle nearest, tennessee whiskey, master blend"
+updateDate: 2025-03-31T10:15:45+00:00
 brand: "Uncle Nearest"
 price: $199
 author: chris
@@ -58,6 +59,7 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Proof:** 122.9  
 **Size:** 750ml  
 **Price:** $149.99  
+
 
 
 

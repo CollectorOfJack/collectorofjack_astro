@@ -2,29 +2,29 @@
 title: 2020 Holiday Countdown Calendar
 publishDate: 2020-11-29T20:00:00+00:00
 url: 2020holidaycountdowncalendar
-image: ~/assets/images/fullsized/40/HolidayCountdown2020-1.jpg
+image: ~/assets/images/fullsized/40/holidaycountdown2020-1.jpg
 excerpt: 2020's Advent Calendar
 gallery:
   2020HolidayCountdownCalendar:
-  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-1.jpg
+  - image_path: ~/assets/images/fullsized/40/holidaycountdown2020-1.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-2.jpg
+  - image_path: ~/assets/images/fullsized/40/holidaycountdown2020-2.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-3.jpg
+  - image_path: ~/assets/images/fullsized/40/holidaycountdown2020-3.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-4.jpg
+  - image_path: ~/assets/images/fullsized/40/holidaycountdown2020-4.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-5.jpg
+  - image_path: ~/assets/images/fullsized/40/holidaycountdown2020-5.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-6.jpg
+  - image_path: ~/assets/images/fullsized/40/holidaycountdown2020-6.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/40/HolidayCountdown2020-7.jpg
+  - image_path: ~/assets/images/fullsized/40/holidaycountdown2020-7.jpg
     image-caption: Jack Daniel's 2020 Holiday Countdown Calendar
     image-copyright: © CollectorOfJack.com
 tags: [ Holiday, Calendar, Mini Bottles ]
@@ -67,5 +67,6 @@ If you're looking for last year's calendar, we've still got some to trade for ot
 **Proof:** Varies  
 **Size:** 20 x 50ml  
 **Price:** $40.99  
+
 
 

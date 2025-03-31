@@ -3,23 +3,23 @@ title: Tennessee Tasters' Hickory Smoked (2018)
 publishDate: 2019-06-18T15:11:50+00:00
 updateDate: 2024-07-08T15:55:45+00:00
 url: hickorysmoked
-image: ~/assets/images/fullsized/4/HickorySmoked-1.jpg
+image: ~/assets/images/fullsized/4/hickorysmoked-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Tennessee Tasters' Series Hickory Smoked release "Tennessee Whiskey Finish with Charred Hickory Staves"
 gallery:
   HickorySmoked:
-  - image_path: ~/assets/images/fullsized/4/HickorySmoked-1.jpg
+  - image_path: ~/assets/images/fullsized/4/hickorysmoked-1.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/4/HickorySmoked-2.jpg
+  - image_path: ~/assets/images/fullsized/4/hickorysmoked-2.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/4/HickorySmoked-3.jpg
+  - image_path: ~/assets/images/fullsized/4/hickorysmoked-3.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/4/HickorySmoked-4.jpg
+  - image_path: ~/assets/images/fullsized/4/hickorysmoked-4.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/4/HickorySmoked-5.jpg
+  - image_path: ~/assets/images/fullsized/4/hickorysmoked-5.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
 
@@ -43,5 +43,6 @@ I have yet to decide if I will try these bottles myself. I do have two of each, 
 **Proof**: 100  
 **Size**: 375ml  
 **Price**: $49
+
 
 

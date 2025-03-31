@@ -2,35 +2,35 @@
 title: Jack Daniel's Holiday Select 2012
 publishDate: 2019-06-18T15:28:40+00:00
 url: holidayselect2012
-image: ~/assets/images/fullsized/8/HolidaySelect2012-1.jpg
+image: ~/assets/images/fullsized/8/holidayselect2012-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2012
 gallery:
   HolidaySelect2012:
-  - image_path: ~/assets/images/fullsized/8/HolidaySelect2012-1.jpg
+  - image_path: ~/assets/images/fullsized/8/holidayselect2012-1.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/8/HolidaySelect2012-2.jpg
+  - image_path: ~/assets/images/fullsized/8/holidayselect2012-2.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/8/HolidaySelect2012-3.jpg
+  - image_path: ~/assets/images/fullsized/8/holidayselect2012-3.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/8/HolidaySelect2012-4.jpg
+  - image_path: ~/assets/images/fullsized/8/holidayselect2012-4.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/8/HolidaySelect2012-5.jpg
+  - image_path: ~/assets/images/fullsized/8/holidayselect2012-5.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/8/HolidaySelect2012-6.jpg
+  - image_path: ~/assets/images/fullsized/8/holidayselect2012-6.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/8/HolidaySelect2012-7.jpg
+  - image_path: ~/assets/images/fullsized/8/holidayselect2012-7.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/8/HolidaySelect2012-8.jpg
+  - image_path: ~/assets/images/fullsized/8/holidayselect2012-8.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/8/HolidaySelect2012-9.jpg
+  - image_path: ~/assets/images/fullsized/8/holidayselect2012-9.jpg
     image-caption: Jack Daniel's Holiday Select Release from 2012
     image-copyright: © CollectorOfJack.com
 tags: [ Special Release, Single Barrel, 750ml, Holiday Select, "2012" ]
@@ -59,3 +59,4 @@ Originally priced around $89, you'll be hard pressed to find it for anything les
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $250 you should pick it up!
+

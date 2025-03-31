@@ -2,20 +2,20 @@
 title: Jack Daniel's Fire and 2 Shotglass Gift Set
 publishDate: 2020-11-16T22:00:00+00:00
 url: jackdanielsfireshotglassgiftset
-image: ~/assets/images/fullsized/38/JackDanielsFireShotGlassSet-1.jpg
+image: ~/assets/images/fullsized/38/jackdanielsfireshotglassset-1.jpg
 excerpt: Jack Daniel's Fire and 2 Shot Glasses
 gallery:
   JackDanielsFireShotglassGiftSet:
-  - image_path: ~/assets/images/fullsized/38/JackDanielsFireShotGlassSet-1.jpg
+  - image_path: ~/assets/images/fullsized/38/jackdanielsfireshotglassset-1.jpg
     image-caption: Jack Daniel's Fire and 2 Shot Glasses
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/38/JackDanielsFireShotGlassSet-2.jpg
+  - image_path: ~/assets/images/fullsized/38/jackdanielsfireshotglassset-2.jpg
     image-caption: Jack Daniel's Fire and 2 Shot Glasses
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/38/JackDanielsFireShotGlassSet-3.jpg
+  - image_path: ~/assets/images/fullsized/38/jackdanielsfireshotglassset-3.jpg
     image-caption: Jack Daniel's Fire and 2 Shot Glasses
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/38/JackDanielsFireShotGlassSet-4.jpg
+  - image_path: ~/assets/images/fullsized/38/jackdanielsfireshotglassset-4.jpg
     image-caption: Jack Daniel's Fire and 2 Shot Glasses
     image-copyright: © CollectorOfJack.com
 tags: [ Flavor, Fire, Cinnamon, Gift Set, Shot Glass ]
@@ -54,6 +54,7 @@ The bottle is a previous generation Tennessee Fire Bottle, reading Original Reci
 **Proof:** 70  
 **Size:** 750ml  
 **Price:** $24.99  
+
 
 
 

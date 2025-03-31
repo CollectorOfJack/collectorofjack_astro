@@ -2,20 +2,20 @@
 title: Jack Daniel's Bonded Tennessee Whiskey
 publishDate: 2022-05-25T20:00:00+00:00
 url: jackdanielsbondedtennesseewhiskey
-image: ~/assets/images/fullsized/59/Bonded-1.jpg
+image: ~/assets/images/fullsized/59/bonded-1.jpg
 excerpt: "The first of two new offerings from Jack Daniel's"
 gallery:
   JackDanielsBondedTennesseeWhiskey:
-  - image_path: ~/assets/images/fullsized/59/Bonded-1.jpg
+  - image_path: ~/assets/images/fullsized/59/bonded-1.jpg
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/59/Bonded-2.jpg
+  - image_path: ~/assets/images/fullsized/59/bonded-2.jpg
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/59/Bonded-3.jpg
+  - image_path: ~/assets/images/fullsized/59/bonded-3.jpg
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/59/Bonded-4.jpg
+  - image_path: ~/assets/images/fullsized/59/bonded-4.jpg
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
 tags: [ Bonded, Bottled in Bond, 100Proof, 700ml ]
@@ -58,6 +58,7 @@ I ended up picking up two bottles of this in Oklahoma City in early May 2022. Si
 **Proof:** 100  
 **Size:** 700ml  
 **Price:** $34.99  
+
 
 
 

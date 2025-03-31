@@ -2,20 +2,20 @@
 title: Jack Daniel's 125th Anniversary Red Dog Saloon
 publishDate: 2019-06-18T17:16:06+00:00
 url: reddogsaloon
-image: ~/assets/images/fullsized/13/RedDogSaloon-1.jpg
+image: ~/assets/images/fullsized/13/reddogsaloon-1.jpg
 excerpt: A collector's guide to the Jack Daniel's ode to the Red Dog Saloon release
 gallery:
   RedDogSaloon:
-  - image_path: ~/assets/images/fullsized/13/RedDogSaloon-1.jpg
+  - image_path: ~/assets/images/fullsized/13/reddogsaloon-1.jpg
     image-caption: Jack Daniel's ode to the Red Dog Saloon release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/13/RedDogSaloon-2.jpg
+  - image_path: ~/assets/images/fullsized/13/reddogsaloon-2.jpg
     image-caption: Jack Daniel's ode to the Red Dog Saloon release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/13/RedDogSaloon-3.jpg
+  - image_path: ~/assets/images/fullsized/13/reddogsaloon-3.jpg
     image-caption: Jack Daniel's ode to the Red Dog Saloon release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/13/RedDogSaloon-4.jpg
+  - image_path: ~/assets/images/fullsized/13/reddogsaloon-4.jpg
     image-caption: Jack Daniel's ode to the Red Dog Saloon release
     image-copyright: © CollectorOfJack.com
 tags: [ Red Dog Saloon, 750ml, Saloon, Lynchburg ]
@@ -38,4 +38,5 @@ The Red Dog Saloon bottle is easy to find, you can find them online as of 12/31/
 **Release**: 2017   
 **Proof**: 86   
 **Size**: 750ml  
+
 

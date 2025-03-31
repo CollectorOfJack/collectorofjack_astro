@@ -2,29 +2,29 @@
 title: "Jack Daniel's Twice Barreled Heritage Barrel Rye"
 publishDate: 2023-12-04T13:30:00+00:00
 url: twicebarreledrye
-image: ~/assets/images/fullsized/69/TwiceBarreledRye-1.jpg
+image: ~/assets/images/fullsized/69/twicebarreledrye-1.jpg
 excerpt: "The 2023 Jack Daniel's Special Release is a Twice Barreled Heritage Barrel Rye, aged in new oak barrels and matured in handmade heritage barrels for a unique flavor."
 
 keywords: "Jack Daniel’s Bottle, Jack Daniel’s Single Barrel, Barrel Proof, Rye, Barrel Proof Rye"
 
 gallery:
   TwiceBarreledRye:
-  - image_path: ~/assets/images/fullsized/69/TwiceBarreledRye-1.jpg
+  - image_path: ~/assets/images/fullsized/69/twicebarreledrye-1.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/69/TwiceBarreledRye-2.jpg
+  - image_path: ~/assets/images/fullsized/69/twicebarreledrye-2.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/69/TwiceBarreledRye-3.jpg
+  - image_path: ~/assets/images/fullsized/69/twicebarreledrye-3.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/69/TwiceBarreledRye-4.jpg
+  - image_path: ~/assets/images/fullsized/69/twicebarreledrye-4.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/69/TwiceBarreledRye-5.jpg
+  - image_path: ~/assets/images/fullsized/69/twicebarreledrye-5.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/69/TwiceBarreledRye-6.jpg
+  - image_path: ~/assets/images/fullsized/69/twicebarreledrye-6.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
 tags: [ Heritage Barrel, Heritage, Twice Barreled, Rye, Special Release, 700ml ]
@@ -84,4 +84,5 @@ Secondary for this bottle seems to be quite a bit less than last year's release,
 
 ### Collector Of Jack's Value Assessment
 Don't spend more then $225 for a bottle. 
+
 

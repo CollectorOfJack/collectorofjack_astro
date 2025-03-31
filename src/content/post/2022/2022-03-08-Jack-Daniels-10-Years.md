@@ -2,20 +2,20 @@
 title: Jack Daniels 10-Years Tennessee Whiskey
 publishDate: 2022-03-08T00:14:00+00:00
 url: jackdaniels10year
-image: ~/assets/images/fullsized/55/10Year-1.jpg
+image: ~/assets/images/fullsized/55/10year-1.jpg
 excerpt: Jack Daniels 10-Years Old Tennessee Whiskey
 gallery:
   JackDaniels10Year:
-  - image_path: ~/assets/images/fullsized/55/10Year-1.jpg
+  - image_path: ~/assets/images/fullsized/55/10year-1.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/55/10Year-2.jpg
+  - image_path: ~/assets/images/fullsized/55/10year-2.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/55/10Year-3.jpg
+  - image_path: ~/assets/images/fullsized/55/10year-3.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/55/10Year-4.jpg
+  - image_path: ~/assets/images/fullsized/55/10year-4.jpg
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: CollectorOfJack.com
 tags: [ 10 Years, 10 Years Old, Aged, 750ml ]
@@ -52,5 +52,6 @@ If you get a chance to pick up this bottle, it is highly recommended that you do
 **Proof:** 97
 **Size:** 750ml  
 **Price:** $74.99  
+
 
 

@@ -3,7 +3,7 @@ title: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
 publishDate: 2025-03-26T11:15:00+00:00
 # updateDate: 2025-03-26T10:20:00+06:00
 url: 2025/12yearsbatch03
-image: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-1.jpg
+image: ~/assets/images/fullsized/85/jackdaniels12yearbatch3-1.jpg
 excerpt: "The third batch of the 12 year aged Tennessee whiskey!"
 keywords: "Jack Daniel's, 12 years, whiskey, tennessee, aged"
 tags: [  'tennessee', 'jack daniels', '12year' ]
@@ -12,28 +12,28 @@ brand: "Jack Daniel's"
 author: chris
 gallery:
   Jack Daniel's 12 Years Old Batch 03:
-  - image_path: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-1.jpg
+  - image_path: ~/assets/images/fullsized/85/jackdaniels12yearbatch3-1.jpg
     image-caption: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-2.jpg
+  - image_path: ~/assets/images/fullsized/85/jackdaniels12yearbatch3-2.jpg
     image-caption: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-3.jpg
+  - image_path: ~/assets/images/fullsized/85/jackdaniels12yearbatch3-3.jpg
     image-caption: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-4.jpg
+  - image_path: ~/assets/images/fullsized/85/jackdaniels12yearbatch3-4.jpg
     image-caption: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-5.jpg
+  - image_path: ~/assets/images/fullsized/85/jackdaniels12yearbatch3-5.jpg
     image-caption: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-6.jpg
+  - image_path: ~/assets/images/fullsized/85/jackdaniels12yearbatch3-6.jpg
     image-caption: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-7.jpg
+  - image_path: ~/assets/images/fullsized/85/jackdaniels12yearbatch3-7.jpg
     image-caption: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-8.jpg
+  - image_path: ~/assets/images/fullsized/85/jackdaniels12yearbatch3-8.jpg
     image-caption: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
     image-copyright: CollectorOfJack.com
 ---
@@ -80,4 +80,5 @@ Originally priced around $89, you will be hard pressed to find it anywhere near 
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $250 pick it up.
+
 

@@ -2,50 +2,50 @@
 title: Jack Daniel's Before and After Release
 publishDate: 2019-12-29T05:11:58+00:00
 url: before-after
-image: ~/assets/images/fullsized/28/BeforeAndAfter-1.jpg
+image: ~/assets/images/fullsized/28/beforeandafter-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Before and After Charcoal Mellowing release 
 gallery:
   BeforeAndAfter:
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-1.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-1.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-2.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-2.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-3.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-3.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-4.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-4.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-5.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-5.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-6.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-6.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-7.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-7.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-8.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-8.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-9.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-9.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-10.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-10.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-11.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-11.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-12.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-12.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-13.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-13.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/28/BeforeAndAfter-14.jpg
+  - image_path: ~/assets/images/fullsized/28/beforeandafter-14.jpg
     image-caption: Jack Daniel's Before and After Charcoal Mellowing release
     image-copyright: © CollectorOfJack.com
 tags: [ Before & After, 375ml, Lynchburg ]
@@ -76,4 +76,5 @@ One last thing, the bottle mentions a URL, jackdaniels.com/BEFORE-AFTER but as o
 **Proof**: 80   
 **Size**: 375ml x2  
 **Price**: $30  
+
 

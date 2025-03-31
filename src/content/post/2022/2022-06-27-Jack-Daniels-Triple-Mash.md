@@ -2,20 +2,20 @@
 title: "Jack Daniels Triple Mash"
 publishDate: 2022-06-27T23:00:00+00:00
 url: jackdanielstriplemash
-image: ~/assets/images/fullsized/60/TripleMash-1.jpg
+image: ~/assets/images/fullsized/60/triplemash-1.jpg
 excerpt: "The first of two new offerings from Jack Daniel's"
 gallery:
   JackDanielsTripleMash:
-  - image_path: ~/assets/images/fullsized/60/TripleMash-1.jpg
+  - image_path: ~/assets/images/fullsized/60/triplemash-1.jpg
     image-caption: Jack Daniel's Triple Mash Blended Straight Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/60/TripleMash-2.jpg
+  - image_path: ~/assets/images/fullsized/60/triplemash-2.jpg
     image-caption: Jack Daniel's Triple Mash Blended Straight Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/60/TripleMash-3.jpg
+  - image_path: ~/assets/images/fullsized/60/triplemash-3.jpg
     image-caption: Jack Daniel's Triple Mash Blended Straight Whiskey
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/60/TripleMash-4.jpg
+  - image_path: ~/assets/images/fullsized/60/triplemash-4.jpg
     image-caption: Jack Daniel's Triple Mash Blended Straight Whiskey
     image-copyright: CollectorOfJack.com
 tags: [ Bonded, Bottled in Bond, 100Proof, 700ml, Mash ]
@@ -60,6 +60,7 @@ I found this bottle at Dogwood Wine and Spirits in Ellisville, Missouri towards 
 **Proof:** 100  
 **Size:** 700ml  
 **Price:** $39.99  
+
 
 
 

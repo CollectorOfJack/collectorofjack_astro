@@ -2,20 +2,20 @@
 title: Jack Daniel's Winter Jack
 publishDate: 2019-06-18T17:16:36+00:00
 url: winterjack
-image: ~/assets/images/fullsized/12/WinterJack-1.jpg
+image: ~/assets/images/fullsized/12/winterjack-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Winter Jack, Tennessee Cider
 gallery:
   WinterJack:
-  - image_path: ~/assets/images/fullsized/12/WinterJack-1.jpg
+  - image_path: ~/assets/images/fullsized/12/winterjack-1.jpg
     image-caption: Jack Daniel's Winter Jack, Tennessee Cider
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/12/WinterJack-2.jpg
+  - image_path: ~/assets/images/fullsized/12/winterjack-2.jpg
     image-caption: Jack Daniel's Winter Jack, Tennessee Cider
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/12/WinterJack-3.jpg
+  - image_path: ~/assets/images/fullsized/12/winterjack-3.jpg
     image-caption: Jack Daniel's Winter Jack, Tennessee Cider
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/12/WinterJack-4.jpg
+  - image_path: ~/assets/images/fullsized/12/winterjack-4.jpg
     image-caption: Jack Daniel's Winter Jack, Tennessee Cider
     image-copyright: © CollectorOfJack.com
 tags: [ Winter, 750ml, Winter Jack, Cider ]
@@ -51,5 +51,6 @@ Availability: Limited, typically available every October in all 50 states. Found
 **Proof**: 30   
 **Size**: 750ml  
 **Price**: $22   
+
 
 

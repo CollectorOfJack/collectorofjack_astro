@@ -3,7 +3,7 @@ title: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
 publishDate: 2025-03-31T08:55:00+00:00
 # updateDate: 2025-03-26T10:20:00+06:00
 url: 2025/10yearsbatch04
-image: ~/assets/images/fullsized/86/JackDaniels10YearsBatch04-1.jpg
+image: ~/assets/images/fullsized/86/jackdaniels10yearsbatch04-1.jpg
 excerpt: "The fourth batch of the 10 years aged Tennessee whiskey!"
 keywords: "Jack Daniel's, 10 years, whiskey, aged"
 tags: [  'tennessee', 'jack daniels', '10year' ]
@@ -12,28 +12,28 @@ brand: "Jack Daniel's"
 author: chris
 gallery:
   Jack Daniel's 10 Years Old Batch 04:
-  - image_path: ~/assets/images/fullsized/86/JackDaniels10YearsBatch04-1.jpg
+  - image_path: ~/assets/images/fullsized/86/jackdaniels10yearsbatch04-1.jpg
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/86/JackDaniels10YearsBatch04-2.jpg
+  - image_path: ~/assets/images/fullsized/86/jackdaniels10yearsbatch04-2.jpg
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/86/JackDaniels10YearsBatch04-3.jpg
+  - image_path: ~/assets/images/fullsized/86/jackdaniels10yearsbatch04-3.jpg
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/86/JackDaniels10YearsBatch04-4.jpg
+  - image_path: ~/assets/images/fullsized/86/jackdaniels10yearsbatch04-4.jpg
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/86/JackDaniels10YearsBatch04-5.jpg
+  - image_path: ~/assets/images/fullsized/86/jackdaniels10yearsbatch04-5.jpg
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/86/JackDaniels10YearsBatch04-6.jpg
+  - image_path: ~/assets/images/fullsized/86/jackdaniels10yearsbatch04-6.jpg
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/86/JackDaniels10YearsBatch04-7.jpg
+  - image_path: ~/assets/images/fullsized/86/jackdaniels10yearsbatch04-7.jpg
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
     image-copyright: CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/86/JackDaniels10YearsBatch04-8.jpg
+  - image_path: ~/assets/images/fullsized/86/jackdaniels10yearsbatch04-8.jpg
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04"
     image-copyright: CollectorOfJack.com
 ---
@@ -80,4 +80,5 @@ Originally priced around $89, you will be hard pressed to find it anywhere near 
  
 ### Collector Of Jack's Value Assessment
 If you can find it for under $200 pick it up.
+
 
