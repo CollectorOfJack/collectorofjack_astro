@@ -90,8 +90,8 @@ This morning Jack Daniel's [posted on their Facebook page](https://www.facebook.
 
 Via other Facebook groups it appears that this 14 year bottle is available today at the White Rabbit Bottle Shop at the Distillery in Lynchburg Tennessee, along with a few other bottles.
 
- - 10 Year Batch 4
- - 12 Year Batch 3
- - McLaren 2025
+ - [10 Year Batch 4](/2025/10yearsbatch04)  
+ - [12 Year Batch 3](/2025/12yearsbatch03)  
+ - McLaren 2025  
 
  If anyone pickes up a bottle or two of those for me, let me know!

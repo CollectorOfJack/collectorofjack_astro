@@ -1,0 +1,75 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+import pageImage from '~/assets/images/fullsized/86/JackDaniels10YearsBatch04-1.jpg'; // You may want to replace this image with one from the aged series
+
+const metadata = {
+  title: "Jack Daniel's Aged Statement Releases",
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="Aged & Refined: Jack Daniel's Age Statement Series"
+    image={{
+      src: pageImage,
+      alt: "Jack Daniel's 10, 12, and 14 Year Old Bottles.",
+    }}
+  >
+    <Fragment slot="title">
+      <span class="text-accent dark:text-white highlight">Jack Daniel's Aged Statement Releases</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      A special ongoing series showcasing the depth and maturity of Jack Daniel’s Tennessee Whiskey.
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    title="Quick Facts"
+    stats={[
+      { title: 'First Aged Release', amount: '2021' },
+      { title: 'Aged Years So Far', amount: '10, 12, 14' },
+      { title: 'Master Distiller', amount: 'Chris Fletcher' },
+    ]}
+  />
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Jack Daniel’s Aged Collection"
+    subtitle="A celebration of time, craftsmanship, and the unmistakable character of Jack Daniel’s."
+    columns={2}
+    isBeforeContent={true}
+    items={[
+      {
+        title: "10 Year Old Batch 04",
+        description:
+          "Batch 4 of the 10 Years Old release came out in February 2025 at the same time as the 12 Years Old Batch 03.",
+        icon: 'tabler:bottle',
+        link: '/2025/10yearsbatch04',
+      },
+      {
+        title: "12 Year Old Batch 03",
+        description:
+          "Released in February 2025, the 12 Years Old Batch 03 is the third release in the 12 year series.",
+        icon: 'tabler:bottle',
+        link: '/2025/12yearsbatch03',
+      },
+      {
+        title: "14 Year Old Batch 01",
+        description:
+          "The newest release, pushing aging boundaries even further while maintaining the smooth profile Jack Daniel’s is known for. Batch 01 was released in February 2025.",
+        icon: 'tabler:bottle',
+        link: '/2025/14year',
+      },
+    ]}
+  />
+</Layout>
