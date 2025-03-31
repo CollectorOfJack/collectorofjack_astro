@@ -19,7 +19,7 @@ gallery:
     image-caption: Jack Daniels 10-Years Old Tennessee Whiskey
     image-copyright: CollectorOfJack.com
 tags: [ 10 Years, 10 Years Old, Aged, 750ml ]
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-03-31T11:55:45+00:00
 price: $299.99
 brand: "Jack Daniel's"
 author: chris
@@ -30,16 +30,13 @@ I was able to get two bottles ordered online this fall, and have them in my coll
 
 The bottle is somewhat unique to the release, though has a very similar shape to the [150th Distillery Anniversary bottle](https://collectorofjack.com/150thAnniversary). It comes with an adhered black label, with white and gold print.
 
-The front label reads:
-
+## The front label reads:
 > Jack Daniel's 10 Years Old Tennessee Whiskey. Distilled and Bottled BY Jack Daniel Distillery. Lynchburg, Tennessee, USA. Est. & Reg in 1866.
 
-The sides of the label read:
-
+## The sides of the label read:
 > Limited Release
 
-The rear label reads:
-
+## The rear label reads:
 > Aged 10 Years
 > Maturing whiskey for more than 150 years gives us the knowledge necessary to slowly rest our Tennessee WHiskey through 10 Summers. We think you'll agree, it's worth the wait.
 
@@ -48,10 +45,15 @@ The rear label reads:
 
 If you get a chance to pick up this bottle, it is highly recommended that you do so! I know I can find it in St. Louis, though the store that has it is asking $399 for it. If I can find another one around MSRP, or under $100 I will pick another up myself.
 
-**Release:** 2021  
+**Release:** 2022  
 **Proof:** 97
 **Size:** 750ml  
 **Price:** $74.99  
 
+## How Much Is Jack Daniels 10 Years Old Tennessee Whiskey?
+Originally priced around $75, you will find the initial Batch 01 release to be very hard to find. I have seen it going for $300+ lately.
+ 
+### Collector Of Jack's Value Assessment
+If you can find it for under $200 you should pick it up.
 
 
