@@ -23,6 +23,7 @@ gallery:
     image-caption: Jack Daniel's Tennessee Tasters' Series High Angel's Share
     image-copyright: © CollectorOfJack.com
 tags: [ Distillery Series, Tasters Series, 375ml, High Proof, "Angel's", Tasters, TN Tasters ]
+keywords: "Jack Daniel's, High Angel's Share, Tennessee Tasters', Series"
 price: $249.99
 brand: "Jack Daniel's"
 author: chris
@@ -43,3 +44,9 @@ Lucky for me they did! A big shout out to K-n-K for picking them up for me. Here
 **Proof**: 107  
 **Size**: 375ml  
 **Price**: $49
+
+## How Much Is Jack Daniel's Tennessee Tasters' High Angel's Share Barrels?
+Originally priced around $49, I have recently seen it on a shelf at $99, but that was the first time in 5 years I've seen it on a shelf.
+ 
+### Collector Of Jack's Value Assessment
+If you can find it for under $200 pick it up.
