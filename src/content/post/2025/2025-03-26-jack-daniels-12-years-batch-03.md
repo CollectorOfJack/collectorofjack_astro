@@ -72,6 +72,9 @@ You'll need to ask your liquor store clerk if they have it in stock. Many stores
 **Size:** 700ml  
 **Price:** $89    
 
+## Flavor Notes
+Sweet and creamy notes of pipe tobacco, seasoned oak, and butterscotch 
+
 ## How Much Is Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03
 Originally priced around $89, you will be hard pressed to find it anywhere near that price. 
  

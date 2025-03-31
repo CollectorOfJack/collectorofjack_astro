@@ -2,38 +2,38 @@
 title: Jack Daniel's 160th Birthday Bottle 1850-2010
 publishDate: 2020-09-16T10:00:00+00:00
 url: jackdanielbirthday160bottle
-image: ~/assets/images/fullsized/37/CollectorOfJack-15.jpg
+image: ~/assets/images/fullsized/37/collectorofjack-15.jpg
 excerpt: Mr. Jack's 160th Birthday 1850 to 2010
 gallery:
   JackDanielBirthday160Bottle:
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-11.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-11.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-12.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-12.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-13.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-13.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-14.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-14.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-15.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-15.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-16.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-16.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-17.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-17.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-18.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-18.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-19.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-19.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/37/CollectorOfJack-20.jpg
+  - image_path: ~/assets/images/fullsized/37/collectorofjack-20.jpg
     image-caption: Mr. Jack's 160th Birthday 1850 to 2010
     image-copyright: © CollectorOfJack.com
 tags: [ Master Distiller, Birthday ]

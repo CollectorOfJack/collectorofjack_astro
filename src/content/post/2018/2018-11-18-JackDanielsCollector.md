@@ -10,10 +10,10 @@ image: ~/assets/images/fullsized/1/post-bg1.jpg
 
 gallery:
   JackDanielsCollector:
-  - image_path: ~/assets/images/fullsized/1/CollectorOfJack-1.jpg
+  - image_path: ~/assets/images/fullsized/1/collectorofjack-1.jpg
     image-caption: Jack Daniel's Holiday Select Box
     image-copyright: © CollectorOfJack.com
-  - image_path: ~/assets/images/fullsized/1/CollectorOfJack-2.jpg
+  - image_path: ~/assets/images/fullsized/1/collectorofjack-2.jpg
     image-caption: Jack Daniel's Holiday Select Barrel
     image-copyright: © CollectorOfJack.com
 

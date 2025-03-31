@@ -71,6 +71,10 @@ You'll need to ask your liquor store clerk if they have it in stock. Many stores
 **Size:** 700ml  
 **Price:** $89    
 
+
+## Flavor Notes
+Notes of warm butterscotch and soft fruit
+
 ## How Much Is Jack Daniel's 10 Years Old Tennessee Whiskey Batch 04
 Originally priced around $89, you will be hard pressed to find it anywhere near that price. 
  
