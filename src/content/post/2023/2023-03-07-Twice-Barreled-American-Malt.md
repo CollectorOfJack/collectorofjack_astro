@@ -7,7 +7,7 @@ excerpt: "Explore JD's Twice Barreled American Single Malt 2022, with a unique f
 keywords: Jack Daniels, American Single Malt, Twice Barreled, 2022 Special Release, Heritage
 
 gallery:
-  TwiceBarreledMalt:
+  Twice Barreled Malt:
   - image_path: ~/assets/images/fullsized/66/jackdanielstwicebarreled-1.jpg
     image-caption: Jack Daniels 2022 Special Release Twice Barreled American Single Malt
     image-copyright: CollectorOfJack.com
@@ -25,7 +25,7 @@ gallery:
     image-copyright: CollectorOfJack.com
 tags: [ Heritage Barrel, Heritage, Twice Barreled, Single Malt, Special Release, 700ml, "2022" ]
 
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-03-31T10:55:45+00:00
 price: $269.99
 brand: "Jack Daniel's"
 author: chris

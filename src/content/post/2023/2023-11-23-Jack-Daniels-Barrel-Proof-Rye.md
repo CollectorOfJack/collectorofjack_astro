@@ -7,21 +7,21 @@ excerpt: "In 2023 Jack Daniel's started bottling and releasing their Single Barr
 keywords: "Jack Daniel’s Bottle, Jack Daniel’s Single Barrel, Barrel Proof, Rye, Barrel Proof Rye"
 
 gallery:
-  JackDanielsMcLaren:
+  Jack Daniel's Single Barrel Barrel Proof Rye:
   - image_path: ~/assets/images/fullsized/68/2023singlebarrelbarrelproofrye-1.jpg
-    image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Front
+    image-caption: Jack Daniel's Single Barrel Barrel Proof Rye Front
     image-copyright: CollectorOfJack.com
   - image_path: ~/assets/images/fullsized/68/2023singlebarrelbarrelproofrye-2.jpg
     image-caption: Jack Daniel's Single Barrel Barrel Proof Rye
     image-copyright: CollectorOfJack.com
   - image_path: ~/assets/images/fullsized/68/2023singlebarrelbarrelproofrye-3.jpg
-    image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Rear
+    image-caption: Jack Daniel's Single Barrel Barrel Proof Rye Rear
     image-copyright: CollectorOfJack.com
   - image_path: ~/assets/images/fullsized/68/2023singlebarrelbarrelproofrye-4.jpg
     image-caption: Jack Daniel's Single Barrel Barrel Proof Rye
     image-copyright: CollectorOfJack.com
 tags: [ Rye, 750ml, Barrel Proof Rye, Barrel Proof, 750ml, Single Barrel ]
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-03-31T10:45:45+00:00
 price: $75.99
 brand: "Jack Daniel's"
 author: chris
@@ -56,6 +56,4 @@ Jack Daniel's Single Barrel Barrel Proof Rye is worth retail price. You shouldn'
 
 ### Collector Of Jack's Value Assessment
 A great bottle to own, go for the higher proofs you can find, or bottls with specific bottling dates that are important to you.
-
-
 

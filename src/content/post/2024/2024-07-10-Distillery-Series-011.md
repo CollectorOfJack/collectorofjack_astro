@@ -1,13 +1,16 @@
 ---
-title: "Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
+title: "Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
 publishDate: 2024-07-10T10:55:00+00:00
 url: distilleryseries011
 image: ~/assets/images/fullsized/78/distilleryseries011-1.jpg
 excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery Series with release 010, Straight Tennessee Whiskey Finished In Añejo Tequila Barrels"
+
+tags: [ Distillery Series, Tasters, Box, 375ml, Añejo, Tequila, Reunion ]
+updateDate: 2025-03-31T10:25:45+00:00
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Añejo, Tequila, Reunion"
 
 gallery:
-  distilleryseries011:
+  Distillery Series 011:
   - image_path: ~/assets/images/fullsized/78/distilleryseries011-1.jpg
     image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
@@ -18,11 +21,10 @@ gallery:
     image-caption: Jack Daniel's Distillery Series 011 Straight Tennessee Whiskey Finished In Añejo Tequila Barrels Side/Rear of Bottle
     image-copyright: CollectorOfJack.com
 
-tags: [ Distillery Series, Tasters, Box, 375ml, Añejo, Tequila, Reunion ]
+author: chris
 price: $199.99
 brand: "Jack Daniel's"
-# updateDate: 2024-07-07T15:55:45+00:00
-author: chris
+
 ---
 Released in July 2023, the Straight Tennessee Whiskey Finished In Añejo Tequila Barrels was the fourth in the renamed [Distillery Series](/series/tasters-distillery) and number 11 overall when including the Tennessee Taster's line.
 

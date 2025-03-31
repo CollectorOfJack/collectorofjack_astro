@@ -52,5 +52,5 @@ The bottle may hold some value to Kentucky Derby fans, but due to the large dist
  
 ### Collector Of Jack's Value Assessment
 
-
+In the past couple of weeks (March 2025) I've seen this on the shelf, though often times for over $100.
 

@@ -7,7 +7,7 @@ keywords: "Jack Daniel's, Life Story, ChatGPT"
 image: ~/assets/images/fullsized/65/jackdanielsstory-1.jpg
 excerpt: "The life story of Jack Daniel's according to ChatGPT"
 gallery:
-  JackDanielsLifeStory:
+  Jack Daniels Life Story:
   - image_path: ~/assets/images/fullsized/65/jackdanielsstory-1.jpg
     image-caption: Jack Daniel Photo at the Distillery taken in 2005
     image-copyright: CollectorOfJack.com

@@ -7,7 +7,7 @@ excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery S
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Twice Barreled"
 
 gallery:
-  distilleryseries013:
+  Distillery Series 013:
   - image_path: ~/assets/images/fullsized/81/distilleryseries013-1.jpg
     image-caption: Jack Daniel's Distillery Series 013 Twice Barreled Tennessee Straight Rye Whiskey Front of Bottle
     image-copyright: CollectorOfJack.com

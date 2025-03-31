@@ -7,7 +7,7 @@ excerpt: "The Jack Daniel's Heroes Selection is a limited-edition whiskey series
 keywords: "Jack Daniel's, Military, Heroes Selection, Rye, Tennessee Rye Whiskey"
 
 gallery:
-  HeroSelectionRye:
+  Hero Selection Rye:
   - image_path: ~/assets/images/fullsized/82/heroselectionrye-2.jpg
     image-caption: Jack Daniel's Heroes Selection Single Barrel Barrel Proof Rye Whiskey Front of Box
     image-copyright: CollectorOfJack.com

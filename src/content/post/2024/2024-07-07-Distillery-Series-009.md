@@ -7,7 +7,7 @@ excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery S
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Oak"
 
 gallery:
-  distilleryseries009:
+  Distillery Series 009:
   - image_path: ~/assets/images/fullsized/76/distilleryseries009-1.jpg
     image-caption: Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels Front of Bottle
     image-copyright: CollectorOfJack.com

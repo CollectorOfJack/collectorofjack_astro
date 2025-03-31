@@ -7,7 +7,7 @@ excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery S
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Finished, Maple"
 
 gallery:
-  distilleryseries014:
+  Distillery Series 014:
   - image_path: ~/assets/images/fullsized/83/distilleryseries014-1.jpg
     image-caption: Jack Daniel's Distillery Series 014 Tennessee Straight Rye Finished in High Toast Maple Barrel
     image-copyright: Photo Courtesy of R. Berreth

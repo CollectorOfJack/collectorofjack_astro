@@ -7,7 +7,7 @@ excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery S
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Oloroso, Sherry, Reunion"
 
 gallery:
-  distilleryseries012:
+  Distillery Series 012:
   - image_path: ~/assets/images/fullsized/79/distilleryseries012-1.jpg
     image-caption: Jack Daniel's Distillery Series 012 Straight Tennessee Whiskey Finished In Oloroso Sherry Casks Front of Bottle
     image-copyright: CollectorOfJack.com

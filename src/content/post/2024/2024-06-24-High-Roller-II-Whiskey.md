@@ -7,7 +7,7 @@ excerpt: "A blog post about the 2024 release of the High Roller Straight Bourbon
 keywords: "Monster Truck, High Roller, Bourbon, Whiskey"
 
 gallery:
-  McLaren24:
+  High Roller Straight Bourbon:
   - image_path: ~/assets/images/fullsized/74/highrollerii-1.jpg
     image-caption: High Roller Straight Bourbon Whiskey lit up by LED on top of a whiskey barrel
     image-copyright: CollectorOfJack.com

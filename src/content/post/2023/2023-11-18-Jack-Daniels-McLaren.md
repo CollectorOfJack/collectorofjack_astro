@@ -4,10 +4,10 @@ publishDate: 2023-11-18T10:30:00+00:00
 url: jackdanielsmclaren
 image: ~/assets/images/fullsized/67/mclaren-6.jpg
 excerpt: "Join us at CollectorOfJack.com as we celebrate our 5th anniversary and explore the exciting partnership between Jack Daniel's and McLaren Racing. Discover the limited edition whiskey bottle and branding on McLaren's 2023 F1 cars, symbolizing a fusion of motorsports thrill and whiskey heritage. With Chris Hammond ramping up content, expect more frequent and engaging posts on the world of whiskey collecting."
-keywords: Jack Daniel's McLaren Partnership, CollectorOfJack.com Anniversary, Formula 1 Whiskey Collaboration, McLaren Racing 2023, Limited Edition Jack Daniel’s Bottle, Whiskey Collecting Blog, Chris Hammond Content, Motorsports and Whiskey Heritage, McLaren F1 Team, Jack Daniel's Branding in F1, Whiskey Collectors Community, High-Speed Whiskey Partnership, CollectorOfJack Updates
+keywords: "Jack Daniel's McLaren Partnership, Formula 1 Whiskey Collaboration, McLaren Racing 2023, Limited Edition Jack Daniel’s Bottle, Motorsports and Whiskey Heritage, McLaren F1 Team, Jack Daniel's Branding in F1, Whiskey Collectors Community, High-Speed Whiskey Partnership"
 
 gallery:
-  JackDanielsMcLaren:
+  Jack Daniels McLaren 2023:
   - image_path: ~/assets/images/fullsized/67/mclaren-1.jpg
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Box Front
     image-copyright: CollectorOfJack.com
@@ -36,7 +36,7 @@ gallery:
     image-caption: Jack Daniel's / McLaren Racing Formula 1 2023 Bottle Side
     image-copyright: CollectorOfJack.com
 tags: [ McLaren, "2023", Box, 1L ]
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-03-31T10:55:45+00:00
 price: $75.99
 brand: "Jack Daniel's"
 author: chris
@@ -115,9 +115,9 @@ I picked these bottles up in Florida on our family vacation this summer. Big sho
 
 
 ## How Much Is Jack Daniel's / McLaren Racing Formula 1 Worth?
-If you can find it in one of the states that it is sold, definitely don't pay more than retail. If you're shopping elsewhere be prepared to pay a little more.
+If you can find it in one of the states that it is sold, definitely don't pay more than retail. If you're shopping elsewhere be prepared to pay a little more. Update 3/2025: The value on these is going up, likely $75-100 right now
  
 ### Collector Of Jack's Value Assessment
 
-
+The 2023 bottle isn't on the shelf anymore, if you find one pick it up!
 

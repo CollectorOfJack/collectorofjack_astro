@@ -7,7 +7,7 @@ excerpt: "Jack Daniel's Tennessee Tasters Series has changed to the Distillery S
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Toasted, Pecan"
 
 gallery:
-  distilleryseries010:
+  Distillery Series 010:
   - image_path: ~/assets/images/fullsized/77/distilleryseries010-1.jpg
     image-caption: Jack Daniel's Distillery Series 010 Straight Tennessee Whiskey Finished With Toasted Pecan Wood Chips Front of Bottle
     image-copyright: CollectorOfJack.com

@@ -7,7 +7,7 @@ excerpt: "Uncover the story of the 1924 Butterbaugh farm raid, the largest still
 keywords: "Sedalia, Missouri, Prohibition, Butterbaugh, Whiskey, Corn Whiskey, Still"
 
 gallery:
-  ButterbaughWhiskey:
+  Butterbaugh Whiskey:
   - image_path: ~/assets/images/fullsized/72/stillfound-1.jpg
     image-caption: Sedalia Capital May 13th, 1924 Front Page. This image was put together with multiple scans of an obviously deteriorating newspaper
     image-copyright: CollectorOfJack.com

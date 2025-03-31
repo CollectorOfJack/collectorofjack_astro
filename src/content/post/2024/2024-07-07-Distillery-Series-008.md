@@ -7,7 +7,7 @@ excerpt: "Jack Daniel's Distillery Series debuts with a rye whiskey finished in 
 keywords: "Jack Daniel's, Tasters, Distillery Series, Whiskey, Rye, Maple"
 
 gallery:
-  distilleryseries008:
+  Distillery Series 008:
   - image_path: ~/assets/images/fullsized/75/distilleryseries008-1.jpg
     image-caption: Jack Daniel's Distillery Series 008 Straight Tennessee Rye Whiskey Finished In High Toast Maple Barrels Front of Bottle
     image-copyright: CollectorOfJack.com
