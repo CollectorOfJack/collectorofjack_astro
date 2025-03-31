@@ -5,7 +5,7 @@ publishDate: 2025-03-26T11:15:00+00:00
 url: 2025/12yearsbatch03
 image: ~/assets/images/fullsized/85/JackDaniels12YearBatch3-1.jpg
 excerpt: "The third batch of the 12 year aged Tennessee whiskey!"
-keywords: "Jack Daniel's, barrelhouse"
+keywords: "Jack Daniel's, 12 years, whiskey, tennessee, aged"
 tags: [  'tennessee', 'jack daniels', '12year' ]
 price: $250.00
 brand: "Jack Daniel's"
