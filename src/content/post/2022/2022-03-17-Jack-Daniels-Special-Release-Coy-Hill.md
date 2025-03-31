@@ -1,13 +1,13 @@
 ---
 title: Jack Daniels Special Release Coy Hill High Proof
 publishDate: 2022-03-17T00:14:00+00:00
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-03-31T09:10:45+00:00
 url: jackdanielsspecialreleasecoyhillhighproof
 image: ~/assets/images/fullsized/56/CoyHill-1.jpg
 excerpt: "Jack Daniels Special Release Coy Hill High Proof, an extremely high proof whiskey released in 2021"
 keywords: "Coy Hill, Special Release, High Proof, Jack Daniel"
 gallery:
-  JackDanielsCoyHill:
+  Jack Daniel's Coy Hill High Proof:
   - image_path: ~/assets/images/fullsized/56/CoyHill-1.jpg
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
@@ -21,7 +21,7 @@ gallery:
     image-caption: Jack Daniels Special Release Coy Hill High Proof
     image-copyright: CollectorOfJack.com
 tags: [ Coy Hill, Special Release, High Proof ]
-price: $1199.99
+price: $799.99
 brand: "Jack Daniel's"
 author: chris
 ---
