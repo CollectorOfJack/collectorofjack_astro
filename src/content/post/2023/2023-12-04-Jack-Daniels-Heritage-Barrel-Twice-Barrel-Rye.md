@@ -4,11 +4,9 @@ publishDate: 2023-12-04T13:30:00+00:00
 url: twicebarreledrye
 image: ~/assets/images/fullsized/69/twicebarreledrye-1.jpg
 excerpt: "The 2023 Jack Daniel's Special Release is a Twice Barreled Heritage Barrel Rye, aged in new oak barrels and matured in handmade heritage barrels for a unique flavor."
-
 keywords: "Jack Daniel’s Bottle, Jack Daniel’s Single Barrel, Barrel Proof, Rye, Barrel Proof Rye"
-
 gallery:
-  TwiceBarreledRye:
+  Twice Barreled Heritage Barrel Rye:
   - image_path: ~/assets/images/fullsized/69/twicebarreledrye-1.jpg
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
@@ -28,7 +26,7 @@ gallery:
     image-caption: Jack Daniel's Twice Barreled Heritage Barrel Rye
     image-copyright: CollectorOfJack.com
 tags: [ Heritage Barrel, Heritage, Twice Barreled, Rye, Special Release, 700ml ]
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-03-31T10:45:45+00:00
 price: $269.99
 brand: "Jack Daniel's"
 author: chris
@@ -84,5 +82,4 @@ Secondary for this bottle seems to be quite a bit less than last year's release,
 
 ### Collector Of Jack's Value Assessment
 Don't spend more then $225 for a bottle. 
-
 
