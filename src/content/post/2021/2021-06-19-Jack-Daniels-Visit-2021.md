@@ -91,7 +91,7 @@ This week I got out on my first work trip, since probably August 2019. I started
 
 Fortunately for me the trip was to Franklin, TN, which isn't too far from Lynchburg, so I turned the work trip into a little fun too. Before heading down, I signed up for the Angel's Share tour on Thursday morning. Wednesday after the work meetings were over I drove around Franklin TN a bit and did some whiskey hunting, checking out the local liquor stores to see what I could find. I ended up picking up a bottle of Wheeler's Raid, which is a local whiskey out of Nolensville, TN I believe, on the recommendation of a coworker.
 
-I also managed to find a bottle of the [Jack Daniel's Tennessee Tasters' Series High Angel's Share](https://collectorofjack.com/HighAngelsShare) sitting on a shelf. I jumped at the opportunity to buy it, I wish I had a picture of the receipt, I honestly can't recall what I paid for it, it was either $42 or $65. Either way, the High Angel's Share Tasters' is one of the hardest to find, and I found it to be an excellent drinker, so picking up another one was worth the price. I did stumble on another bottle of it at Celebration Liquors in Lynchburg later, but they wanted $150 for it.
+I also managed to find a bottle of the [Jack Daniel's Tennessee Tasters' Series High Angel's Share](/highangelsshare) sitting on a shelf. I jumped at the opportunity to buy it, I wish I had a picture of the receipt, I honestly can't recall what I paid for it, it was either $42 or $65. Either way, the High Angel's Share Tasters' is one of the hardest to find, and I found it to be an excellent drinker, so picking up another one was worth the price. I did stumble on another bottle of it at Celebration Liquors in Lynchburg later, but they wanted $150 for it.
 
 After hunting around a few stores I met up with a lady named Debbie who I had been speaking with on Facebook for over 6 months. She had reached out late last year when I had posted on a thread that I had a 2019 Holiday Calendar that I would be willing to sell/trade. I told her I would hold on to it for her, and when I made a trip out to TN (originally planned to go in December) I would bring it for her. Earlier this year I reached out and asked her to try to find me the latest two Tennessee Tasters' bottles, the Jamaican Allspice and the 14E19 "Twin" Blend \| Whiskey. The Jamaican Allspice bottle was one I was pretty sure that I could find, but the Twin blend was going to be harder, as it was rumored to be a much smaller release
 
@@ -109,12 +109,12 @@ The tour had 17 folks on it, we took a shuttle up to the "starting" point and we
 
 The tour was great as usual, though we didn't get to go into the distillation area and also didn't get to go through the bottling area :(. One day I hope to get to walk around the distillery with an employee who can get me into areas tours don't normally go. We started the tour near the rickyard where they make the charcoal used for mellowing the Tennessee Whiskey. They were making charcoal at the time, which is always a cool experience to see. 
 
-{% picture 47/Trip2021-11.jpg --alt Fire in the Jack Daniel's Rickyard' %}
+{% picture 47/trip2021-11.jpg --alt Fire in the Jack Daniel's Rickyard' %}
 
 For the finish of the Angel's Share tour you are supposed to get a taste of Gold 27, Sinatra Select, Single Barrel Select, Single Barrel Barrel Proof and Single Barrel Rye. We were informed that they were "out" of the Gold 27, so they were giving us Gentleman Jack instead. 
 
-{% picture 47/Trip2021-21.jpg --alt Angel's Share Tasting %}
-{% picture 47/Trip2021-22.jpg --alt Angel's Share Tasting %}
+{% picture 47/trip2021-21.jpg --alt Angel's Share Tasting %}
+{% picture 47/trip2021-22.jpg --alt Angel's Share Tasting %}
 
 From the tasting we did get taken into the barrel house that was part of the ceremony later in the day, but only into the barrel storage area, not into the tasting area for a quick introduction to some of the barrels there. Our tour guide told us they were all "green" barrels, everyone assumed that meant Green Label, but later in the day that barrel house was renamed to be The George Green Barrel House, so I wonder if there as more to that.
 

@@ -31,7 +31,7 @@ Here is some of the press I've been able to find:
 
 I am still trying to figure out if I can get over to Lynchburg this week, unlikely with such short notice, but who knows.
 
-[Don't forget to read about the 2021 Special Release Coy Hill High Proof](https://collectorofjack.com/JackDanielsSpecialReleaseCoyHillHighProof)
+[Don't forget to read about the 2021 Special Release Coy Hill High Proof](/jackdanielsspecialreleasecoyhillhighproof)
 
 **Release:** 2022  
 **Proof:** 143.6-155.1  

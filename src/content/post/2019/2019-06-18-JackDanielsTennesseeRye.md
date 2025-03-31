@@ -43,7 +43,7 @@ price: $99.99
 brand: "Jack Daniel's"
 author: chris
 ---
-In September of 2017 Jack Daniel's released their standard bottle of Jack Daniel's Tennessee Rye, their 70% rash mash bill. This is a more affordable version of the Rye from Jack Daniel's than the [Single Barrel Rye](/JackDanielsSingleBarrelRye) released in 2016.   
+In September of 2017 Jack Daniel's released their standard bottle of Jack Daniel's Tennessee Rye, their 70% rash mash bill. This is a more affordable version of the Rye from Jack Daniel's than the [Single Barrel Rye](/jackdanielssinglebarrelrye) released in 2016.   
 
   
 The bottle is your standard square bottle from Jack Daniel's, though the label has a tan background with black writing and green highlights. The front of the bottle reads:  

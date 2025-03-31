@@ -31,7 +31,7 @@ price: $269.99
 brand: "Jack Daniel's"
 author: chris
 ---
-The 2023 Special Release from Jack Daniel's brings us another heritage barrel selection, and another twice barreled offering ([like 2022](/TwiceBarreledAmericanMalt)) at the same time. 
+The 2023 Special Release from Jack Daniel's brings us another heritage barrel selection, and another twice barreled offering ([like 2022](/twicebarreledamericanmalt)) at the same time. 
 
 This year's edition is a Rye, first barreled in new oak barrels, then followed up with a second maturing session in some extra toasty heritage barrels. 
 
@@ -62,11 +62,11 @@ The back/side label is paper and reads:
 
 
 ### Previous Heritage Barrels  
-- [2018 Jack Daniel's Heritage Barrel](/HeritageBarrel)  
-- [2019 Jack Daniel's Heritage Barrel](/HeritageBarrel2019)  
-- [2020 Jack Daniel's Barrel Proof Rye Special Release](/2020SpecialRelease)  
-- [2021 Jack Daniel's Special Release Coy Hill High Proof](/JackDanielsSpecialReleaseCoyHillHighProof)  
-- [2022 Jack Daniel's Twice Barreled American Single Malt](/TwiceBarreledAmericanMalt)
+- [2018 Jack Daniel's Heritage Barrel](/heritagebarrel)  
+- [2019 Jack Daniel's Heritage Barrel](/heritagebarrel2019)  
+- [2020 Jack Daniel's Barrel Proof Rye Special Release](/2020specialrelease)  
+- [2021 Jack Daniel's Special Release Coy Hill High Proof](/jackdanielsspecialreleasecoyhillhighproof)  
+- [2022 Jack Daniel's Twice Barreled American Single Malt](/twicebarreledamericanmalt)
 
 
 **Release:** 2023  

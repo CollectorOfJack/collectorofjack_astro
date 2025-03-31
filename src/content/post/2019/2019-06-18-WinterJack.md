@@ -24,7 +24,7 @@ price: $49.99
 brand: "Jack Daniel's"
 author: chris
 ---
-In the last blog post I covered the [Jack Daniel's Tennessee Cider, Winter Jack, released in 2013](/WinterJack2013). Today's blog covers the same product, but this time with a new label. The front has the same text, Jack Daniel's Winter Jack, Original Recipe Tennessee Cider. Along with:   
+In the last blog post I covered the [Jack Daniel's Tennessee Cider, Winter Jack, released in 2013](/winterjack2013). Today's blog covers the same product, but this time with a new label. The front has the same text, Jack Daniel's Winter Jack, Original Recipe Tennessee Cider. Along with:   
 
 > A seasonal blend of apple cider liqueur &amp; Jack Daniel's Tennessee Whiskey   
    

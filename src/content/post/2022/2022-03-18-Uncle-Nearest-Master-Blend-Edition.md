@@ -25,7 +25,7 @@ brand: "Uncle Nearest"
 price: $199
 author: chris
 ---
-In a previous post I covered the [Uncle Nearest 1820](https://collectorofjack.com/UncleNearest1820). On previous trips to Lynchburg Tennessee I had  tried to stop at the Uncle Nearest Distillery in Shelbyville, but the first time I stopped they were still under construction. The second time I stopped was their opening weekend, but it was still closed for a Green family event. Finally on March 4th of 2022 I was able to make a quick stop into the distillery.
+In a previous post I covered the [Uncle Nearest 1820](/unclenearest1820). On previous trips to Lynchburg Tennessee I had  tried to stop at the Uncle Nearest Distillery in Shelbyville, but the first time I stopped they were still under construction. The second time I stopped was their opening weekend, but it was still closed for a Green family event. Finally on March 4th of 2022 I was able to make a quick stop into the distillery.
 
 The property looks amazing, I unfortunately didn't get time to tour any of the facility, we just popped in to check out the shop on our rushed way back to Nashville after a visit to Lynchburg earlier in the morning.
 

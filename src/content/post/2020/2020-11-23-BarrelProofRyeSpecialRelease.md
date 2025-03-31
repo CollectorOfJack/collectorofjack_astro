@@ -18,7 +18,7 @@ price: $299.99
 brand: "Jack Daniel's"
 author: chris
 ---
-For the past two years, Jack Daniel's Special Release has been the Heritage barrel bottles (covered [here](/HeritageBarrel2019) and [here](/HeritageBarrel)).
+For the past two years, Jack Daniel's Special Release has been the Heritage barrel bottles (covered [here](/heritagebarrel2019) and [here](/heritagebarrel)).
 
 For 2020 they have announced the Special Release as the Barrel Proof Rye bottle, pictured here. We don't have a lot of details on them yet, but hope to find out when/where you can get them soon!
 

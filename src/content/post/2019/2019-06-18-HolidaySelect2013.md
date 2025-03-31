@@ -39,7 +39,7 @@ price: $299.99
 brand: "Jack Daniel's"
 author: chris
 ---
-In our [last blog post we covered the second in the Holiday Select series](/HolidaySelect2012), in this one, we cover the third, the Holiday Select 2013 Limited Edition bottle from Jack Daniel's. 
+In our [last blog post we covered the second in the Holiday Select series](/holidayselect2012), in this one, we cover the third, the Holiday Select 2013 Limited Edition bottle from Jack Daniel's. 
 
 
 The bottle comes in a black box, like 2012, this box isn't a clamshell opening. The bottle and an insert slide out the top of the box. The back of the box reads:

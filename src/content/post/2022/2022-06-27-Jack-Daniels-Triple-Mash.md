@@ -26,7 +26,7 @@ author: chris
 ---
 For 2022 Jack Daniel's announced, and released, two new expressions. Both of these are released in a 700ml (and also a 1L version). The word on these releases is that they will be available regularly going forward, and are not limited releases like the 10 Year and Heritage barrels released over the last few years (more of those coming however).
 
-The first bottle we covered was [Jack Daniel's Bottled-In-Bond Tennessee Whiskey](/JackDanielsBondedTennesseeWhiskey). 
+The first bottle we covered was [Jack Daniel's Bottled-In-Bond Tennessee Whiskey](/jackdanielsbondedtennesseewhiskey). 
 
 The second bottle is Jack Daniel's Triple Mash Blended Straight Whiskey.
 

@@ -17,7 +17,7 @@ price: $249.99
 brand: "Jack Daniel's"
 author: chris
 ---
-[Updated post after actual release](/TwiceBarreledAmericanMalt)
+[Updated post after actual release](/twicebarreledamericanmalt)
 The 2022 Special Release for Jack Daniel's should be hitting shelves very soon! We don't have a bottle yet, but wanted to highlight what you can expect!
 
 Jack Daniel's Twice Barreled Special Release American Single Malt, an Oloroso sherry-finished whiskey made from 100% malted barley

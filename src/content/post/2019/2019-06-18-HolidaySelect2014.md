@@ -61,7 +61,7 @@ price: $299.99
 brand: "Jack Daniel's"
 author: chris
 ---
-In our [last blog post we covered the third in the Holiday Select series](/HolidaySelect2013), in this one, we cover the fourth and final (as of 2018) release, the Holiday Select 2014 Limited Edition bottle from Jack Daniel's. 
+In our [last blog post we covered the third in the Holiday Select series](/holidayselect2013), in this one, we cover the fourth and final (as of 2018) release, the Holiday Select 2014 Limited Edition bottle from Jack Daniel's. 
 
 This bottle, unlike all the other Holiday Select bottles comes in a box that has the face cut out to showcase the bottle. If you open the box, the back slides out and the bottle can be freed from the holder inside. The Sides of the box read Limited Edition 2014, while the back of the box (and the bottle) reads:
 
