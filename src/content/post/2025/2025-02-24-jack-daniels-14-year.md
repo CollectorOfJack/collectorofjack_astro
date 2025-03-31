@@ -42,7 +42,7 @@ gallery:
 ---
 This post has been updated with official Collector Of Jack photos of the 14 Years Old release from Jack Daniel's.
 
-In the third release of the age statement release series from Jack Daniel's we have the first 14 Years Old release of Jack Daniel's. This bottle has proved to be one of the most limited of the aged releases from Jack Daniel's thus far. Below we will document the details about the bottle.
+In the third release of the [age statement release series](/series/aged-releases) from Jack Daniel's we have the first 14 Years Old release of Jack Daniel's. This bottle has proved to be one of the most limited of the aged releases from Jack Daniel's thus far. Below we will document the details about the bottle.
 
 ### How did I get a bottle?
 I was able to locate this bottle at a small liquor store in Ringgold Tennessee, Ringgold Fine Wine & Spirits. They had the 14 Years Old release, along with the 12 Years Old Batch 3 release. I was able to package them up for a deal that I was comfortable with.

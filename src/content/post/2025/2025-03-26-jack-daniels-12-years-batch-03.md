@@ -37,7 +37,7 @@ gallery:
     image-caption: "Jack Daniel's 12 Years Old Tennessee Whiskey Batch 03"
     image-copyright: CollectorOfJack.com
 ---
-This post covers another one of the age statement release series of releases from Jack Daniel's, specifically batch 03 of the 12 Years Old release of Jack Daniel's.
+This post covers another one of the [age statement release series](/series/aged-releases) of releases from Jack Daniel's, specifically batch 03 of the 12 Years Old release of Jack Daniel's.
 
 ### How did I get a bottle?
 I was able to locate this bottle at a small liquor store in Ringgold Tennessee, Ringgold Fine Wine & Spirits. They were kind enough to package this 12 Years Old release with a [14 Years Old](/2025/14year) bottle as well for a deal that I was comfortable with.
