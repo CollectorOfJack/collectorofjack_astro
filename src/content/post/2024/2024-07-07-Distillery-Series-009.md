@@ -27,7 +27,7 @@ gallery:
     image-caption: Jack Daniel's Distillery Series 009 Straight Tennessee Rye Whiskey Finished In High Toast Oak Barrels Front from Angle
     image-copyright: CollectorOfJack.com
 tags: [ Distillery Series, Tasters, Box, 375ml, Rye, Oak ]
-price: $69.99
+price: $89.99
 brand: "Jack Daniel's"
 updateDate: 2024-07-08T23:43:45+00:00
 author: chris
@@ -73,5 +73,5 @@ As with the Tasters and Distillery series, these bottles can only be found in th
 Originally priced around $43, you will have a hard time finding release 009 still on any shelves. If you do, you'll likely see it for $75 or higher.
  
 ### Collector Of Jack's Value Assessment
-If you can find it for under $60 you should pick it up.
+If you can find it for under $60 you should pick it up!
 
