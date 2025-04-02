@@ -1,0 +1,82 @@
+---
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+
+import pageImage from '~/assets/images/fullsized/59/bonded-1.jpg'; // Replace with a proper bonded series image if available
+
+const metadata = {
+  title: "Jack Daniel's Bonded Series",
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="Bottled in Bond: Jack Daniel's Bold New Legacy"
+    image={{
+      src: pageImage,
+      alt: "Jack Daniel's Bonded Series Bottles.",
+    }}
+  >
+    <Fragment slot="title">
+      <span class="text-accent dark:text-white highlight">Jack Daniel's Bonded Series</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      A bold bottled-in-bond expression from Jack Daniel's, showcasing deeper proof, flavor, and tradition.
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    title="Quick Facts"
+    stats={[
+      { title: 'Bonded Act Year', amount: '1897' },
+      { title: 'Jack Daniel’s Bonded Launch', amount: '2022' },
+      { title: 'Proof', amount: '100 (50% ABV)' },
+    ]}
+  />
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Jack Daniel’s Bonded Series"
+    subtitle="Bold flavor. Bottled in Bond. A permanent premium expression lineup from Jack Daniel’s."
+    columns={2}
+    isBeforeContent={true}
+    items={[
+      {
+        title: "Jack Daniel’s Bonded",
+        description:
+          "Released in 2022 as part of the first permanent Bottled-in-Bond expression. Made from barrels in select warehouse locations to bring extra character and boldness.",
+        icon: 'tabler:bottle',
+        link: '/jackdanielsbondedtennesseewhiskey',
+      },
+      {
+        title: "Jack Daniel’s Triple Mash",
+        description:
+          "A blend of three bonded whiskeys: Tennessee Rye, Tennessee Whiskey, and American Malt. Complex and layered, also bottled at 100 proof.",
+        icon: 'tabler:bottle',
+        link: '/jackdanielstriplemash',
+      },
+      {
+        title: "Bonded Rye",
+        description:
+          "A bonded rye whiskey crafted with the bold spice of Jack’s 70% rye mash bill.",
+        icon: 'tabler:bottle',
+        
+      },
+      {
+        title: "International Variants",
+        description:
+          "Jack Daniel's Bonded releases have seen select international packaging and variant bottlings. Keep an eye out if you're hunting globally.",
+        icon: 'tabler:world',
+        link: '/bottledinbond',
+      },
+    ]}
+  />
+</Layout>
