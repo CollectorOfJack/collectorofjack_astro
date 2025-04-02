@@ -4,14 +4,14 @@ publishDate: 2025-04-01T22:55:00+00:00
 # updateDate: 2025-03-26T10:20:00+06:00
 url: 2025/10yearsbatch02
 image: ~/assets/images/fullsized/87/10yearsbatch02-1.jpg
-excerpt: "The fourth batch of the 10 years aged Tennessee whiskey!"
+excerpt: "The second batch of the 10 years aged Tennessee whiskey!"
 keywords: "Jack Daniel's, 10 years, whiskey, aged"
 tags: [  'tennessee', 'jack daniels', '10year' ]
 price: $225.00
 brand: "Jack Daniel's"
 author: chris
 gallery:
-  Jack Daniel's 10 Years Old Batch 04:
+  Jack Daniel's 10 Years Old Batch 02:
   - image_path: ~/assets/images/fullsized/87/10yearsbatch02-1.jpg
     image-caption: "Jack Daniel's 10 Years Old Tennessee Whiskey Batch 02"
     image-copyright: CollectorOfJack.com
