@@ -5,7 +5,7 @@ url: jackdanielsbondedtennesseewhiskey
 image: ~/assets/images/fullsized/59/bonded-1.jpg
 excerpt: "The first of two new offerings from Jack Daniel's"
 gallery:
-  JackDanielsBondedTennesseeWhiskey:
+  Jack Daniels Bonded Tennessee Whiskey:
   - image_path: ~/assets/images/fullsized/59/bonded-1.jpg
     image-caption: Jack Daniel's Bonded Tennessee Whiskey
     image-copyright: CollectorOfJack.com
