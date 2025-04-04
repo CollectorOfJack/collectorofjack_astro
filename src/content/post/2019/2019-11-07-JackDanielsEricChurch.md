@@ -36,7 +36,7 @@ gallery:
   - image_path: ~/assets/images/fullsized/24/ericchurch-10.jpg
     image-caption: Jack Daniel's Eric Church Double Down Tour Single Barrel Release from 2019
     image-copyright: © CollectorOfJack.com
-tags: [ 750ml, Single Barrel, Music ]
+tags: [ 750ml, single barrel, music, 'eric church' ]
 
 updateDate: 2024-07-01T15:55:45+00:00
 price: $249.99

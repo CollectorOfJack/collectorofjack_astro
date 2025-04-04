@@ -27,7 +27,7 @@ gallery:
   - image_path: ~/assets/images/fullsized/32/ericchurchsinglebarrel2020-7.jpg
     image-caption: The 2020 Release of the Limited Edition Jack Daniel's Eric Church Single Barrel Select
     image-copyright: © CollectorOfJack.com
-tags: [ 750ml, Single Barrel, Music ]
+tags: [ 750ml, single barrel, music, 'eric church' ]
 updateDate: 2024-07-01T15:55:45+00:00
 price: $249.99
 brand: "Jack Daniel's"
