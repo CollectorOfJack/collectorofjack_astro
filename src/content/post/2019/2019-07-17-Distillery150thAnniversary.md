@@ -5,7 +5,7 @@ url: distillery150thanniversary
 image: ~/assets/images/fullsized/21/jackdaniels150thdistillery-1.jpg
 excerpt: A collector's guide to the Jack Daniel's Distillery 150th Anniversary Release
 gallery:
-  Distillery150thAnniversary:
+  Distillery 150th Anniversary:
     - image_path: ~/assets/images/fullsized/21/jackdaniels150thdistillery-1.jpg
       image-caption: Jack Daniel's Distillery 150th Anniversary Release
       image-copyright: © CollectorOfJack.com

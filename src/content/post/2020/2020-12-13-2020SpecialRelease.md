@@ -5,7 +5,7 @@ url: 2020specialrelease
 image: ~/assets/images/fullsized/43/barrelproofrye2020-1.jpg
 excerpt: Barrel Proof Rye
 gallery:
-  2020SpecialRelease:
+  2020 Special Release:
   - image_path: ~/assets/images/fullsized/43/barrelproofrye2020-1.jpg
     image-caption: Jack Daniel's Barrel Proof Rye Special Release
     image-copyright: © CollectorOfJack.com

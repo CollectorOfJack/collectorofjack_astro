@@ -9,6 +9,7 @@ keywords: "Jack Daniel's, 12 years, whiskey, tennessee, aged"
 tags: [  'tennessee', 'jack daniels', '12year' ]
 price: $250.00
 brand: "Jack Daniel's"
+gtin: "082184007259"
 author: chris
 gallery:
   Jack Daniel's 12 Years Old Batch 03:

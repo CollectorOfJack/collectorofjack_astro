@@ -43,7 +43,7 @@ Have you found a bottle of the Barrel Proof Rye yet? Keep looking, it should be 
 Here are two previous Barrel Proof Ryes released by Jack Daniel's.
 
 - [Jack Daniel's Tennessee Tasters' Barrel Proof Rye](/tennesseetastersbarrelproofrye)
-- [2020 Jack Daniel's Barrel Proof Rye Special Release](/2020SpecialRelease)
+- [2020 Jack Daniel's Barrel Proof Rye Special Release](/2020specialrelease)
 
 **Release:** 2023  
 **Proof:** 139.3  

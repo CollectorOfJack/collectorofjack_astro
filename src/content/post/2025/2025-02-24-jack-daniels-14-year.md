@@ -9,6 +9,7 @@ keywords: "Jack Daniel's, barrelhouse"
 tags: [ 'news', 'tennessee', 'jack daniels', '14year', '10year','12year', 'mclaren' ]
 price: $800.00
 brand: "Jack Daniel's"
+gtin: "082184007266"
 author: chris
 gallery:
   Jack Daniel's 14 Years Old:

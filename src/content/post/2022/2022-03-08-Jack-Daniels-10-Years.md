@@ -28,7 +28,7 @@ For the first time in over 100 years, Jack Daniel's has released a bottle with a
 
 I was able to get two bottles ordered online this fall, and have them in my collection for now, though I have yet to open one, hoping I can find a third bottle.
 
-The bottle is somewhat unique to the release, though has a very similar shape to the [150th Distillery Anniversary bottle](https://collectorofjack.com/150thAnniversary). It comes with an adhered black label, with white and gold print.
+The bottle is somewhat unique to the release, though has a very similar shape to the [150th Distillery Anniversary bottle](https://collectorofjack.com/150thanniversary). It comes with an adhered black label, with white and gold print.
 
 ## The front label reads:
 > Jack Daniel's 10 Years Old Tennessee Whiskey. Distilled and Bottled BY Jack Daniel Distillery. Lynchburg, Tennessee, USA. Est. & Reg in 1866.
