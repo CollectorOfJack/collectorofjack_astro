@@ -37,7 +37,7 @@ gallery:
     image-caption: "Whiskey Jypsi Legacy Batch 001- from Eric Church"
     image-copyright: CollectorOfJack.com
 ---
-Here we've got another whiskey that isn't from the Jack Daniel's brand, but has some ties back to the brand through the country singer [Eric Church](/tag/eric+church).
+Here we've got another whiskey that isn't from the Jack Daniel's brand, but has some ties back to the brand through the country singer [Eric Church](/tag/eric-church).
 
 This is the first release from Eric Church's Whiskey Jypsi brand. It is a blend of 3 different whiskeys, noted with specifics on the back label of the bottle. It is 70% Bourbon, 21% Canadian Rye and 9% American Single Malt. It was distilled in both Indiana and Canada, and finished, blended and bottled in Morrison, Tennessee. 
 
