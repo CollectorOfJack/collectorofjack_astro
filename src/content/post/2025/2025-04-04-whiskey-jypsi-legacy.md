@@ -9,6 +9,7 @@ keywords: "Jypsi, Whiskey, Blended, Eric Church, Legacy"
 tags: [  'tennessee', 'whiskey', 'jypsi', 'eric church' ]
 price: $249.00
 brand: "Whiskey Jypsi"
+gtin: "850050142003"
 author: chris
 gallery:
   Jypsi Legacy:
