@@ -1,0 +1,10 @@
+# This is the security.txt file for CollectorOfJack.com
+
+Contact: https://collectorofjack.com/contact
+Preferred-Languages: en
+Policy: https://collectorofjack.com/contact
+Acknowledgments: https://collectorofjack.com/contact
+Canonical: https://collectorofjack.com/.well-known/security.txt
+
+# You may use the Contact form on our website to report any security concerns, vulnerabilities, or suspicious activity.
+# We appreciate responsible disclosure and will review all submissions as quickly as possible.
