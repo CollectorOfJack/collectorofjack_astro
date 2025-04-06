@@ -52,7 +52,7 @@ We get asked this question a lot.  "How much is my Jack Daniels collection worth
 **How many bottles were produced?** That will completely vary based on the release, each release is definitely different, and sometimes, for example the Eric Church bottles there were actually multiple releases over the years.
 
 
-## Start to answer the questions "How much is my Jack Daniel's collection worth?"
+## Helping you to answer the question: "How much is my Jack Daniel's collection worth?"
 
 You're going to need to do some research on this yourself. Please use the [search](/search) feature here on the website to put find what we value some of the bottles at. We don't have every Jack Daniel's bottle documented (yet) but are slowly adding to the list of valued items every week as we add new documentation. 
 
