@@ -1,17 +1,12 @@
 ---
 title: "How Much Is My Jack Daniels Collection Worth?"
 publishDate: 2022-12-20T21:30:00+00:00
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-04-06T10:55:45+00:00
 url: howmuchismyjackdanielscollectionworth
 type: article
 keywords: "Jack Daniel's, Collection, Value, Estimate, Tracker, Worth"
 image: ~/assets/images/fullsized/64/collection-1.jpg
 excerpt: "Putting a value on your bottles in your Jack Daniel's collection, we'll help you to start to do that."
-gallery:
-  How Much Is My Jack Daniels Collection Worth:
-  - image_path: ~/assets/images/fullsized/64/collection-1.jpg
-    image-caption: Jack Daniel's Collection
-    image-copyright: CollectorOfJack.com
 tags: [ Collection, Value, Appraisal ]
 product: false
 author: chris
@@ -46,7 +41,6 @@ We get asked this question a lot.  "How much is my Jack Daniels collection worth
 
 **Are there any chips or cracks in the bottles?** If so, the value will be impacted.
 
-
 ## Age
 
 **How old are the bottles?** Do you know how to tell? Sometimes you can figure out the age based on a tax stamp, some times you can figure out the age based on a marking on the bottle? Often times with Jack Daniel's bottles there is a number on the bottom of the bottle to determine the year. With JD Single Barrel products you can determine when it was bottled based on the label around the neck.
@@ -58,9 +52,13 @@ We get asked this question a lot.  "How much is my Jack Daniels collection worth
 **How many bottles were produced?** That will completely vary based on the release, each release is definitely different, and sometimes, for example the Eric Church bottles there were actually multiple releases over the years.
 
 
+## Start to answer the questions "How much is my Jack Daniel's collection worth?"
+
+You're going to need to do some research on this yourself. Please use the [search](/search) feature here on the website to put find what we value some of the bottles at. We don't have every Jack Daniel's bottle documented (yet) but are slowly adding to the list of valued items every week as we add new documentation. 
+
 ## Where can I sell my collection?
 
-That one can be a tricky question to answer, there are a lot of factors to consider.
+That one can be a tricky question to answer, there are a lot of factors to consider. If you're interested in us buying your entire collection, feel free to [reach out](/contact). 
 
 **Where do you live?** 
 Do you know what the laws are around selling alcohol in your state?  
