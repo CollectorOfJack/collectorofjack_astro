@@ -50,7 +50,7 @@ I was able to locate this bottle at a small liquor store in Ringgold Tennessee, 
 > Distilled and Bottled By    
 > Jack Daniel Distillery  
 > Lynchburg, Tennessee, USA  
-> Est. & Reg. in 1866
+> Est. & Reg. in 1866  
 > 107 Proof  
 > Batch 03  
 > 53.5 %Alc/Vol  
