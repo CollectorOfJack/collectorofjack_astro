@@ -4,8 +4,9 @@ publishDate: 2021-03-05T10:00:00+00:00
 url: 2018redsoxworldchampion
 image: ~/assets/images/fullsized/45/jimbeamworldseries-1.jpg
 excerpt: 2018 Red Sox World Champions Jim Beam Bourbon
+keywords: "red sox, baseball, limited edition, jim beam, bourbon"
 gallery:
-  2018RedSoxWorldChampion:
+  2018 Red Sox World Champion:
   - image_path: ~/assets/images/fullsized/45/jimbeamworldseries-1.jpg
     image-caption: 2018 Red Sox World Champions Jim Beam Bourbon
     image-copyright: © CollectorOfJack.com
@@ -28,7 +29,7 @@ In 2018 the Boston Red Sox won the MLB World Series. Jim Beam released a bottle 
 
 I don't have a whole lot of info on release for this bottle, I'm guessing it was limited to New England, but I don't know how limited it was. A quick search online doesn't return many results.
 
-#### The front of the bottle reads:
+## The front of the bottle reads:
 
 > The World's No. 1 Bourbon Whiskey
 > Jim Beam
@@ -38,19 +39,19 @@ I don't have a whole lot of info on release for this bottle, I'm guessing it was
 > Kentucky Straight Bourbon Whiskey
 > Official Bourbon of The Boston Red Sox
 
-#### The neck label reads: 
+## The neck label reads: 
 
 > Championship Batch
 > Barrels Matured Oct. 28 2018
 
-#### The right side of the bottle reads:
+## The right side of the bottle reads:
 
 > History
 > Barrels Matured On
 > Oct. 28 2018
 > The special commemorative bottling of Jim Beam Kentucky Straight Bourbon Whiskey was taken from barrels that matured on October 28, 2018. The day the Boston Red Sox Won The 2018 World Championship
 
-#### The left side of the bottle reads:
+## The left side of the bottle reads:
 
 > Legacy
 > Nine World Championships
@@ -67,13 +68,9 @@ I don't have a whole lot of info on release for this bottle, I'm guessing it was
 
 Searching online I realy haven't found much on purchasing this bottle. There are a number of empties available on Ebay, but I haven't found a retailer who has one for sale to give a price as of time of posting. 
 
-
-#### Specs
-
+## Specs
 **Release:** 2019  
-**Proof:** 80
+**Proof:** 80  
 **Size:** 750ml  
-**Price:** $23.99 
-
-
+**Price:** $23.99  
 
