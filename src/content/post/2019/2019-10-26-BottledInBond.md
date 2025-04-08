@@ -27,15 +27,15 @@ gallery:
   - image_path: ~/assets/images/fullsized/23/bottledinbond-7.jpg
     image-caption: Jack Daniel's Bottled In Bond release available in international travel marketplaces
     image-copyright: © CollectorOfJack.com
-tags: [ Duty Free, 750ml, 100Proof, Bonded ]
+tags: [ duty-free, 750ml, 100proof, bonded ]
 
-updateDate: 2024-07-01T15:55:45+00:00
+updateDate: 2025-04-08T10:35:45+00:00
 price: $199.99
+gtin: "5099873012659"
 brand: "Jack Daniel's"
 author: chris
 ---
 Another Traveler's Exclusive released by Jack Daniel's in the last couple of years is the 100 Proof Bottled in Bond. I recently acquired one with the help of an employee who traveled to Europe in September. Only one was acquired, so I haven't had a change to taste it, but hopefully I can get another bottle some time in the future.
-
 
 The bottle I got was a 1L in a box, let's document the box first.
 
@@ -85,6 +85,7 @@ and:
 
 This is a beautiful bottle, and box, as you can see in the photo gallery here on this page. I hope at some point in the future the distillery releases the bottle to normal retail markets as well, but only time will tell.
 
+## Specs
 **Release**: August 2018  
 **Proof**: 100   
 **Size**: 750ml  
