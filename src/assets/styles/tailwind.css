@@ -36,6 +36,13 @@
   .btn-tertiary {
     @apply btn border-none shadow-none text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-white;
   }
+  
+  .prose h2 {
+    @apply my-1;
+  }
+  .prose h3 {
+    @apply my-1;
+  }
 }
 
 #header.scroll > div:first-child {
