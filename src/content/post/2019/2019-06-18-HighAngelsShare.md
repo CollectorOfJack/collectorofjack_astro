@@ -22,7 +22,7 @@ gallery:
   - image_path: ~/assets/images/fullsized/3/angelsshare-5.jpg
     image-caption: Jack Daniel's Tennessee Tasters' Series High Angel's Share
     image-copyright: © CollectorOfJack.com
-tags: [ Distillery Series, Tasters Series, 375ml, High Proof, "Angel's", Tasters, TN Tasters ]
+tags: [ Distillery Series, tasters series, 375ml, High Proof, "Angel's", Tasters, TN Tasters ]
 keywords: "Jack Daniel's, High Angel's Share, Tennessee Tasters', Series"
 price: $249.99
 brand: "Jack Daniel's"

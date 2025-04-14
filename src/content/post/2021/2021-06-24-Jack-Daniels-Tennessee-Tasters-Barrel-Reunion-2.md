@@ -19,7 +19,7 @@ gallery:
   - image_path: ~/assets/images/fullsized/48/barrelreunion2-4.jpg
     image-caption: Tennessee Tasters' Barrel Reunion 2 Finished in Oatmeal Sout Barrels
     image-copyright: © CollectorOfJack.com
-tags: [ TN Tasters, Tennessee Tasters, Distillery Series, 375ml, Reunion, Tasters Series, Oatmeal Stout, Tasters ]
+tags: [ tn tasters, tennessee tasters, Distillery Series, 375ml, reunion, tasters series, Oatmeal Stout, Tasters ]
 price: $79.99
 brand: "Jack Daniel's"
 author: chris

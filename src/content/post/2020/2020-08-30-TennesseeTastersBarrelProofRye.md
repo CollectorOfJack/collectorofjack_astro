@@ -19,7 +19,7 @@ gallery:
   - image_path: ~/assets/images/fullsized/31/tennesseetasters4-4.jpg
     image-caption: The Tennessee Tasters' Barrel Proof Rye Bottle
     image-copyright: © CollectorOfJack.com
-tags: [ Tasters Series, Tennessee Tasters, TN Tasters, Barrel Proof, Rye, Barrel Proof Rye, Distillery Series, Tasters ]
+tags: [ Tasters Series, tennessee tasters, tn tasters, Barrel Proof, Rye, Barrel Proof Rye, Distillery Series, Tasters ]
 price: $149.99
 brand: "Jack Daniel's"
 author: chris

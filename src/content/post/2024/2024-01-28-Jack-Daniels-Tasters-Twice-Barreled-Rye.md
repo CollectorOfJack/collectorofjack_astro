@@ -5,14 +5,14 @@ updateDate: 2024-11-01T08:00:45+00:00
 url: twicebarreledstraightryedistilleryseries
 image: ~/assets/images/fullsized/70/tntasters13label.jpg
 excerpt: "The Jack Daniel's Distillery Series, formerly Tennessee Tasters has a new release for 2024, a Twice Barreled Rye."
-keywords: "Jack Daniel’s Bottle, Tennessee Tasters, Distillery Series, Rye, Twice Barreled, Twice Barreled Rye"
+keywords: "Jack Daniel’s Bottle, tennessee tasters, Distillery Series, Rye, Twice Barreled, Twice Barreled Rye"
 
 gallery:
   Twice Barreled Rye:
   - image_path: ~/assets/images/fullsized/70/tntasters13label.jpg
     image-caption: Jack Daniel's Distillery Series Twice Barreled Tennessee Straight Rye Whiskey  
     image-copyright: CollectorOfJack.com
-tags: [ Distillery Series, Tasters Series, 375ml, Rye, Twice Barreled ]
+tags: [ Distillery Series, tasters series, 375ml, Rye, Twice Barreled ]
 price: $43
 brand: "Jack Daniel's"
 author: chris

@@ -5,7 +5,7 @@ updateDate: 2024-07-01T15:55:45+00:00
 url: october2022tennesseetasters
 image: ~/assets/images/fullsized/62/october2022tennesseetasters-1.jpg
 excerpt: "Two new Tennessee Tasters bottles from Jack Daniel's"
-keywords: Tennessee, Tasters, Tennessee Tasters, Distillery Series, Toasted Barrel Finished Rye, Toasted Maple Barrel, Lexie Phillips, Josh Phillips
+keywords: Tennessee, Tasters, tennessee tasters, Distillery Series, Toasted Barrel Finished Rye, Toasted Maple Barrel, Lexie Phillips, Josh Phillips
 gallery:
   october2022tennesseetasters:
   - image_path: ~/assets/images/fullsized/62/october2022tennesseetasters-1.jpg
@@ -17,7 +17,7 @@ gallery:
   - image_path: ~/assets/images/fullsized/62/october2022tennesseetasters-3.jpg
     image-caption: From LiquorPlanet's Facebook page
     image-copyright: Liquor Planet
-tags: [ Tasters Series, Tennessee Tasters, TN Tasters, Toasted Barrel, Rye, Maple, Tasters ]
+tags: [ Tasters Series, tennessee tasters, tn tasters, Toasted Barrel, Rye, Maple, Tasters ]
 product: false
 author: chris
 ---

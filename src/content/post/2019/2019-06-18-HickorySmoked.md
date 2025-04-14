@@ -23,7 +23,7 @@ gallery:
     image-caption: Jack Daniel's Tennessee Tasters' Series Hickory Smoked release
     image-copyright: © CollectorOfJack.com
 
-tags: [ Distillery Series, TN Tasters, Tennessee Tasters, Tasters Series, 375ml, Hickory Smoked, Hickory, Tasters ]
+tags: [ Distillery Series, tn tasters, tennessee tasters, tasters series, 375ml, Hickory Smoked, Hickory, Tasters ]
 price: $199.99
 brand: "Jack Daniel's"
 author: chris
