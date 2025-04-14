@@ -104,7 +104,7 @@ const processedGalleries = await Promise.all(
               </a>
               <div class="gallery-item-text"> {/* Wrap text content */}
                 {image['image-caption'] && (
-                  <p class="gallery-caption">{image['image-caption']}</p>
+                  <p class="gallery-caption prose prose-base">{image['image-caption']}</p>
                 )}
                 {image['image-copyright'] && (
                   <p class="gallery-copyright">{image['image-copyright']}</p>

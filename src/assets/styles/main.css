@@ -28,17 +28,17 @@
 
 .gallery-item-text {
   text-align: center;     /* Center the text */
-  font-size: 0.8rem;      /* Slightly smaller font size */
+  font-size: 1.rem;      /* Slightly smaller font size */
   color: #777;            /* Lighter text color */
-  margin-top: 0.5rem;     /* Add some space above the text */
+  margin-top: 0.25rem;     /* Add some space above the text */
 }
 
 .gallery-title {
-  margin-top: 0.5rem;    /* Add some space above the title */
+  margin-top: .9rem;    /* Add some space above the title */
 }
 
 .gallery-copyright{
-  font-size:.5em;
+  font-size:.80em;
   font-style: italic;    /* Italicize the copyright */
 }
 
