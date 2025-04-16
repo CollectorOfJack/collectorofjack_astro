@@ -51,7 +51,7 @@ gallery:
 tags: [ Single Barrel, Florida, Sunshine State Squires ]
 updateDate: 2025-03-26T11:55:45+00:00
 price: $125.99
-gtin: "82184087008"
+gtin: "082184087008"
 brand: "Jack Daniel's"
 author: chris
 ---
