@@ -1,12 +1,67 @@
 ---
 title: Jack Daniel's Holiday Select 2011 Whiskey
 publishDate: 2019-06-18T15:22:33+00:00
+updateDate: 2025-04-17T10:20:45+00:00
 url: holidayselect2011
-image: ~/assets/images/fullsized/7/holidayselect2011-1.jpg
-excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2011
+image: ~/assets/images/fullsized/7/holidayselect2011-19.jpg
+excerpt: A collector's guide to the Jack Daniel's Holiday Select Release from 2011, limited edition
 keywords: "Jack Daniel's, Holiday Select, 2011, Limited Edition, Tennessee Whiskey, Holiday, Single Barrel, Christmas, Lynchburg, Tennessee, CollectorOfJack"
 gallery:
   Holiday Select 2011:
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-10.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-11.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-12.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-13.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-14.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-15.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-16.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-17.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-18.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-19.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-20.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-21.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-22.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-23.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-24.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-25.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-26.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
+  - image_path: ~/assets/images/fullsized/7/holidayselect2011-27.jpg
+    image-caption: Jack Daniel's Holiday Select 2011 Release
+    image-copyright: © CollectorOfJack.com
   - image_path: ~/assets/images/fullsized/7/holidayselect2011-1.jpg
     image-caption: Jack Daniel's Holiday Select 2011 Release
     image-copyright: © CollectorOfJack.com
@@ -35,9 +90,9 @@ gallery:
     image-caption: Jack Daniel's Holiday Select 2011 Release
     image-copyright: © CollectorOfJack.com
 tags: [ Special Release, Single Barrel, 750ml, Holiday Select, "2011" ]
-updateDate: 2024-07-01T15:55:45+00:00
 price: $299.99
 brand: "Jack Daniel's"
+gtin: "08218400571"
 author: chris
 ---
 In 2011 Jack Daniel's released the first (of 4) in their series of Holiday Select bottles of Jack Daniel's. The limited edition bottles were essentially Jack Daniel's single barrel bottles, but this collection consisted of whiskey from the barrels used in the Holiday Barrel Tree built near Lynchburg Tennessee's town square. I was fortunate enough to collect all 4 in the series, 2011, 2012, 2013 and 2014. Stay tuned for posts about each of them as we get into this 2018 holiday season.
