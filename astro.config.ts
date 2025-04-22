@@ -107,9 +107,6 @@ export default defineConfig({
             },
             generateBundle(_, bundle) {
               console.log('Generating bundle...');
-              for (const [fileName, output] of Object.entries(bundle)) {
-                //console.log(`Processing file: ${fileName}, type: ${output.type}`);
-              }
             },
           },
           {
@@ -127,7 +124,7 @@ export default defineConfig({
             },
           },
         ],
-      },
+      }      
     },
   },
   
